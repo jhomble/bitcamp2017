@@ -9,7 +9,5 @@ angular.module('myApp.view1', ['ngRoute'])
   });
 }])
 
-.controller('View1Ctrl', [function($scope, $firebaseObject, $firebaseArray) {
-  var ref = firebase.database().ref();
-  $scope.data = $firebaseObject(ref);
+.controller('View1Ctrl', [function($scope) {
 }]);

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitcamp2017-164023",
+  "private_key_id": "ecef2ecb0a49d983c67973cf031267e0d8f52a3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIWazgfBWw4RjD\nEjtAVUgNlpSV0PLrw9Qpf1GKoku+fB+ZG4bbBI5JA+6IUCdde4R3lNy89AZDauhB\nswTTOQ/qteddTtjgo+7zoVv+/qr9tokhsVWElZDNbzfGJa+C/svDRBW4VKjzgNoq\nE/cPebGGX9lM/eLGfwKOOUpLti+uidCbdOwxXepuAvKCe5UllFuwaljdBDHDbIjJ\ndk4zpVVxYmKthQEZHDvnKNqwYXP/KvYXyRbpTz6QYutZcULD+rWfF1kIvs5mj0/Z\n8hNvEfiyHPT+URkz/mG+b12HDmgY7uQb7C3hLPtr6dZFXpP2xCJp0OXb9Ad3liis\n6y38vqphAgMBAAECggEAP33zxFxuf1SGhWNktZmRMQU0Z1oFcePoe5ImpDmUqXQq\ni1nm3cfO06LUWAyWvRBkxYS+g38N8RWTLybtc4bU3XvyK2bOYjpxgnHzdpb8V1Ue\nljfdsxu2/POvCDNvMKNQrbwI6haiSDDgco9LL3NQaBY+BiE7Wc5sX+gV/HJrH/Nr\nPVYHYhcoHhgLs+yaIho4Xkanyx8v1eZ626+tpktKzUlMuHqs3w25OkQDKLuN0nvg\nhWRlahKIE55twM82xN6aiZC2B0Vj3G5F+2TGOVJpTMV5s8hXduYlUGd+x/3k6imT\nAs6oULzAI8HmpuNfqLiKcths1/0sCDvMggu9usUwwQKBgQDnqYicRHzVR1kRbO/h\n8LBaCJKRx1cim0g8jLlSfzFSYONYL9Frat7EANWZXfdeeXCw+1sKC/F85U6X/SMG\nmv6wqbNINecs+K7ZSHhSc5Nv+cOHWqQI2yV6X+PgNNXD9JDJHaRBqfkNovVszDsN\nSQ0mWcUdtMQ6CyAydQ0fjgxN2QKBgQDdZgTbWzQCgsyEmiImt8CJ4I4HrQ15ZOF4\nB5s0ptI+WH3VO5qxrSw4gcQoGx+Kob+bajIvWOYRkF/6eXHf9coq8gXWhYQImb5d\nOuAtAb+CaCvKlkbtU2RCdudN2PYhgn7nKFEg92CvsT0nxyNF16IdUEqALRQRi3mp\nrOAqugwDyQKBgQC1oyaap9RdAYEjeY+oTqhnH1uUc4CtgKUl3Iyd016foZn/lhaU\nK4oYkjLn+lYvO/aQvbQG75BbhguWfgLNdg+GAriwQJtOlnm5oem9dCNA48tcQERn\nMTR0e+TW8XY+G26+UcBtP9En0QKvWH5gj0uBK1ezT/2fKQQIq+ArQpwBGQKBgHHB\nPlOau9FidUTYkR2Folb1WuSUxOyPqc1rUxKteC7ydsz90BDkomjyO+BDd2RakUGA\nQgLT0XpKzRW8GodxGYwRSHCdr2Zf4FC0tIRLdqPBdGal6hF8nHIN9/CmvmgfTabl\nrzGaCUKcdYifp/71uWUIYQ8UmlAdcsh8e71YVF4JAoGAffDfVa8Y5DyVLS+WgvFQ\nqcvWiMChlTnbLFu9HESf2yR/R0WjJXYhsfNg3qCV+cOFOSPSJB4wMHwkgvYCS6KK\nyn4Kp8LJGUWSiLoKmQGV2mmyY1dChSczmGNZM5mb69d0dqJB6wyIMknNzDP1sLnC\n+y7IVvwOpQJYYMUVaPwfskY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bitcamp2017@bitcamp2017-164023.iam.gserviceaccount.com",
+  "client_id": "102282093240274676069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bitcamp2017%40bitcamp2017-164023.iam.gserviceaccount.com"
+}
