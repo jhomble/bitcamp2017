@@ -1,0 +1,200 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-10", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5830-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2014-12-10", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2014-12-10", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2014-12-10", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2014-12-10", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2014-12-10", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2014-12-10", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2014-12-12", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-12-10", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-12-10", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-12-10", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2014-12-11", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2014-12-11", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2014-12-11", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-10", 
+  "number": "5830", 
+  "official_title": "To provide that in the case of a law enforcement officer who uses deadly force against a person, and thereby causes the death of that person, a hearing shall be conducted before a judge to determine whether there is probable cause for the State to bring criminal charges against the law enforcement officer relating to the death of the person, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Grand Jury Reform Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-10", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal procedure and sentencing", 
+    "Evidence and witnesses", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-10", 
+    "text": "Grand Jury Reform Act of 2014 - Requires a state to comply with the requirements of this Act in order for it, or a local governmental unit thereof, to be eligible to receive funding under the Edward Byrne Memorial Justice Assistance Grant Program.\n\nDirects the governor of a state to: (1) appoint a special prosecutor to present evidence on the state's behalf at a hearing before a judge to determine whether probable cause exists to bring criminal charges against a law enforcement officer who uses deadly force against a person and thereby causes his or her death; and (2) use a random process to select the special prosecutor from among the prosecutors in the state, excluding the prosecutors of the locality in which the death took place.\n\nRequires: (1) the judge to issue the determination in writing and submit it to the chief prosecutor of the locality in which the death took place; (2) the special prosecutor, upon conclusion of the hearing, to submit written recommendations to such chief prosecutor, including regarding whether criminal charges should be brought against the officer; and (3) the court to remain open to the public in such hearing, except as determined appropriate by the presiding judge."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Grand Jury Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide that in the case of a law enforcement officer who uses deadly force against a person, and thereby causes the death of that person, a hearing shall be conducted before a judge to determine whether there is probable cause for the State to bring criminal charges against the law enforcement officer relating to the death of the person, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-29T09:48:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5830:@@@L&summ2=m&"
+}

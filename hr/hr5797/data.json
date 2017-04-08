@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "Referred to House Appropriations", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5797-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "5797", 
+  "official_title": "To make a supplemental appropriation for the Public Health Emergency Fund, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Public Health Emergency Preparedness Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-04", 
+  "subjects": [
+    "Appropriations", 
+    "Budget deficits and national debt", 
+    "Budget process", 
+    "Department of Health and Human Services", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health technology, devices, supplies", 
+    "Infectious and parasitic diseases", 
+    "Strategic materials and reserves"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-04", 
+    "text": "Public Health Emergency Preparedness Act - Makes a $5 billion supplemental appropriation to the Department of Health and Human Service (HHS) Public Health Emergency Fund.\n\nDesignates the funding as an emergency requirement exempt from budget enforcement limits. Makes the funding available, however, only if the President subsequently designates the amount as an emergency requirement.\n\nPermits the activities funded under this Act to include acquisition of products such as drugs, vaccines and other biological products, and medical devices for deposit into the Strategic National Stockpile.\n\nAmends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to add the Public Health Emergency Fund to the list of programs and activities exempt from a sequestration. (A sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Public Health Emergency Preparedness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make a supplemental appropriation for the Public Health Emergency Fund, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-29T09:48:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5797:@@@L&summ2=m&"
+}
