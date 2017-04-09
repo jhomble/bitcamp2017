@@ -46,6 +46,8 @@ angular.module('myApp.view1', ['ngRoute'])
     $scope.runNLP = function(){
       $scope.nlpFlag = true;
       $scope.nlpDatas = [];
+      console.log($scope.nlpText)
+      console.log($scope.entitySearchText($scope.nlpText))
     }
 
     loadMap();
