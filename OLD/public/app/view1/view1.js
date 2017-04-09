@@ -53,6 +53,32 @@ angular.module('myApp.view1', ['ngRoute'])
       }
       console.log($scope.cases[1])
       console.log($scope.cases[2])
+      analyzeEntitiesOfText($scope.cases[1].opinion)
     }
     $scope.loadCases()
   }]);
+
+  function analyzeEntitiesOfText (text) {
+    // Instantiates a client
+    const language = Language();
+
+    // Instantiates a Document, representing the provided text
+    const document = language.document({
+      // The document text, e.g. "Hello, world!"
+      content: text
+    });
+
+    // Detects entities in the document
+    return document.detectEntities()
+      .then((results) => {
+        const entities = results[0];
+
+        console.log('Entities:');
+        for (let type in entities) {
+          console.log(`${type}:`, entities[type]);
+        }
+
+        return entities;
+      });
+  }
+
