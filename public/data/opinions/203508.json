@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203508/",
+  "absolute_url": "/opinion/203508/united-states-v-lipscomb/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203508/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:08Z",
+  "date_modified": "2016-02-28T05:11:11.579698Z",
+  "type": "010combined",
+  "sha1": "8df92d57e24a7a9807c18445d206b419c6b3b8b5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1293E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/03/US_v._Lipscomb.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\n\n\nNo. 07-1293\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                          ANTHONY LIPSCOMB,\n\n                        Defendant, Appellant.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on August 21, 2008, is\namended as follows:\n\n     On p.7, ll. 3-4:    Insert \"denial of the\" after \"the district\ncourt's\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

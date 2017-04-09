@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202542/",
+  "absolute_url": "/opinion/202542/united-states-v-rolfsema/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202542/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:56:14Z",
+  "date_modified": "2016-02-28T05:08:12.793420Z",
+  "type": "010combined",
+  "sha1": "dd0791832b35214f6939d56a61d4ad3fc684845e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2898ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/12/11/US_v._Rolfsema.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-2898\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                         MARK ROLFSEMA,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on November 17, 2006, is\namended as follows:\n\n     On page 4, line 22, \"2G2.4(b)(4)\" should be replaced with\n\"2G2.4(b)(2)\"\n\n     On page 5, lines 9-10, \"2G2.4(5)(D)\" should be replaced with\n\"2G2.4(b)(5)(D)\"\n\n     On page 5, line 11, \"2G2.4(b)(2)\" should be replaced with\n\"2G2.4(b)(5)(D)\"\n\n     On page 12, lines 9-10, \"2G2.4(b)(5)(d)\" should be replaced\nwith \"2G2.4(b)(5)(D)\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203721/",
+  "absolute_url": "/opinion/203721/yeboah-sefah-v-ficco/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203721/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:04Z",
+  "date_modified": "2016-02-28T05:11:51.872157Z",
+  "type": "010combined",
+  "sha1": "4c0b1a753554b085ac4e04c776d156a057863860",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2585E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/03/13/Yeboah-Sefah_v._Ficco.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\nNo. 07-2585\n\n                       DANIEL YEBOAH-SEFAH,\n                     a/k/a HENRY K. BOATENG,\n\n                     Petitioner, Appellant,\n\n                               v.\n\n                          EDWARD FICCO,\n\n                      Respondent, Appellee.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on February 19, 2009, is\namended as follows:\n\n     On p. 26, line 5: Replace \"that\" with \". . .\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

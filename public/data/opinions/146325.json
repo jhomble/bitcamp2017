@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/146325/",
+  "absolute_url": "/opinion/146325/global-naps-inc-v-verizon-new-england-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/146325/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-12T19:35:34Z",
+  "date_modified": "2016-02-28T03:37:33.728488Z",
+  "type": "010combined",
+  "sha1": "ffff9b17c38c1795dd4e631e361773a828a33063",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1308E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/05/12/Global_Naps_Inc._v._Verizon_New_England_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 09-1308, 09-1309\n\n                         GLOBAL NAPS, INC.,\n\n          Plaintiff/Counterclaim Defendant, Appellant,\n\n                                  v.\n\n      VERIZON NEW ENGLAND INC. d/b/a VERIZON MASSACHUSETTS,\n\n           Defendant/Counterclaim Plaintiff, Appellee,\n\n  MASSACHUSETTS DEPARTMENT OF TELECOMMUNICATIONS AND ENERGY; PAUL\nB. VASINGTON, in his capacity as Commissioner; JAMES CONNELLY, in\n his capacity as Commissioner; W. ROBERT KEATING, in his capacity\n      as Commissioner; DEIRDRE K. MANNING, in her capacity as\n   Commissioner; and EUGENE J. SULLIVAN, JR., in his capacity as\n                           Commissioner.\n\n                             Defendants,\n\n                                  v.\n\nGLOBAL NAPS NEW HAMPSHIRE, INC.; GLOBAL NAPS REALTY, INC.; GLOBAL\n   NAPS NETWORKS, INC.; FERROUS MINER HOLDINGS, LTD.; and FRANK\n                              GANGI,\n\n              Counterclaim Defendants, Appellants,\n\n CHESAPEAKE INVESTMENT SERVICES, INC.; 1120 HANCOCK STREET, INC.,\n321 HEATH STREET REALTY TRUST; CJ3, INC.; and RJ EQUIPMENT, INC.,\n\n                     Counterclaim Defendants.\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on April 29, 2010, is amended\nas follows:\n\n     On page 8, line       10,   \"compensation   to\"   is   changed   to\n\"compensation for\".\n\f     On page 8, line 13, \"sided with Verizon    It\" is changed to\n\"sided with Verizon. It\".\n\n     On page 16, footnote 8, line 1, \"ISP Remand Order\" is changed\nto \"The ISP Remand Order\".\n\n     On page 16, footnote 8, line 5, \"reversed\" is changed to\n\"remanded\".\n\n     On page 22, lines 13-14, \"repeals of federal statutes is even\nstronger\" is changed to \"repeals of federal statutes\" is perhaps\neven stronger\".\n\n     On page 29, line 2, \". . . .\" is changed to \". . .\".\n\n     On page 29, footnote 22, line 14, \"Procedure,84\" is changed to\n\"Procedure, 84\".\n\n     On page 32, line 18, \"interstate\" is changed to \"intrastate\".\n\n     On page 32, line 19, \"how of\" is changed to \"how many of\".\n\n     On page 35, line 3, \"similar suggested a the\" is changed to\n\"similarly suggested that the\".\n\n     On page 39, line 6, \"overestimated minutes\" is changed to\n\"overestimated local minutes\".\n\n     On page 44, line 8, \"the GNAPs' companies taxes\" is changed to\n\"the GNAPs companies' taxes\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

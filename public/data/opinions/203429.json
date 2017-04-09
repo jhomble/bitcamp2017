@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203429/",
+  "absolute_url": "/opinion/203429/united-states-v-quinones-caicedo/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203429/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:16:32Z",
+  "date_modified": "2016-02-28T05:10:56.695235Z",
+  "type": "010combined",
+  "sha1": "4495bfdfe4231f8ed2870515c1b2cdd8ae2d381d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2176ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/08/08/US_v._Quinones-Caicedo.pdf",
+  "plain_text": "              United States Court of Appeals\n                              For the First Circuit\n\nNo. 06-2176\n\n                             UNITED STATES OF AMERICA,\n\n                                          Appellee,\n\n                                              v.\n\n                            JUAN C. RODRIGUEZ-FERREIRA,\n\n                                    Defendant-Appellant.\n\n\n\n\n                                     ERRATA SHEET\n\n          The opinion of this Court issued on June 30, 2008, is corrected as follows:\n\n      On page 8, line 23, change \"July 3, 2003\" to \"July 2, 2003\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

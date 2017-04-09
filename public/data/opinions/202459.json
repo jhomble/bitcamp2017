@@ -1,0 +1,33 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202459/",
+  "absolute_url": "/opinion/202459/zheng-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202459/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:53:31Z",
+  "date_modified": "2016-02-28T05:08:01.720735Z",
+  "type": "010combined",
+  "sha1": "a60e11d4c299e20c945ebe2a58d945322c24b9a6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2562ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/10/18/Zheng_v._Gonzales.pdf",
+  "plain_text": "              United States Court of Appeals\n                               For the First Circuit\n\nNo. 05-2562\n\n                                     WEIPING ZHENG,\n\n                                          Petitioner,\n\n                                              v.\n\n                     ALBERTO GONZALES, ATTORNEY GENERAL,\n\n                                         Respondent.\n\n\n\n                                      ERRATA SHEET\n\n       The opinion of this court issued on September 26, 2006 is amended as follows:\n\nOn the cover sheet, line 38, replace \"Sin Wong\" with \"Siu Wong.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/202712/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202850/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202933/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202946/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203117/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203136/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203527/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203662/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203753/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203981/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204002/"
+  ]
+}

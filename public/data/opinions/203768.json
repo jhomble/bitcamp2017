@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203768/",
+  "absolute_url": "/opinion/203768/united-states-v-poland/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203768/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:50Z",
+  "date_modified": "2016-02-28T05:11:57.876419Z",
+  "type": "010combined",
+  "sha1": "72eed37b2674e4e13585896b1446b7e880de6a97",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1203E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/04/09/US_v._Poland.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\nNo. 08-1203\n\n                      UNITED STATES OF AMERICA,\n\n                               Appellee,\n\n                                  v.\n\n                           JONATHAN POLAND,\n\n                         Defendant, Appellant.\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on April 2, 2009, should be\n\namended as follows:\n\n     On page 7, line 1 of footnote 2, replace \"a number changes\" with\n\n\"a number of changes\".\n\n     On page 7, line 2 of footnote 2, replace \"fo\" with \"of\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

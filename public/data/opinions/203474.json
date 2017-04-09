@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203474/",
+  "absolute_url": "/opinion/203474/united-states-v-yelaun/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203474/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:17:35Z",
+  "date_modified": "2016-02-28T05:11:07.518128Z",
+  "type": "010combined",
+  "sha1": "34ba99d0db62e67b9979538c33397f9b70e929ae",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1651E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/09/10/US_v._Yelaun.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\nNo. 07-1651\n\n                      UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                           SEVERIN YELAUN,\n\n                        Defendant, Appellant.\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court, issued on August 27, 2008, should be\n\namended as follows:\n\n     On page 6, line 19, remove extra space after \"context\".\n\n     On page 9, line 3, \"counts 43-58,\" should be \"counts 44-58,\".\n\n     On page 12, line 15, delete \"were\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

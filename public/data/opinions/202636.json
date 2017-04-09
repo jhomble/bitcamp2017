@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202636/",
+  "absolute_url": "/opinion/202636/ticoalu-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202636/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:58:29Z",
+  "date_modified": "2016-02-28T05:08:23.847275Z",
+  "type": "010combined",
+  "sha1": "1af1cfb7492f52a86151cffd6581f077b6f4011d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1620ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/02/16/Ticoalu_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 05-1620\n\n                      VEKKY RICHARD TICOALU,\n\n                           Petitioner,\n\n                                v.\n\n                       ALBERTO R. GONZÁLES,\n              ATTORNEY GENERAL OF THE UNITED STATES,\n\n                           Respondent.\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on December 28, 2006, is\namended as follows:\n\n     On page 7, line 11, replace \"July 24\" with \"July 20\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/202941/"
+  ]
+}

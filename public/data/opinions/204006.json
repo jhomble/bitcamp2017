@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204006/",
+  "absolute_url": "/opinion/204006/united-states-v-textron-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204006/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:19Z",
+  "date_modified": "2016-02-28T05:12:42.095556Z",
+  "type": "010combined",
+  "sha1": "c7ba8cb3ad357ae9cf357b105283c482ba24d7c3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2631E3-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/09/14/US_v._Textron_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo. 07-2631\n\n                    UNITED STATES OF AMERICA,\n\n                      Petitioner, Appellant,\n\n                                v.\n\n                  TEXTRON INC. AND SUBSIDIARIES,\n\n                      Respondent, Appellee.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on August 13, 2009, is\namended as follows:\n\n     On the cover sheet, replace \"Respondent, Appellant.\" with\n\"Respondent, Appellee.\"\n\n     On page 31, line 25, change \"The Majority's Announces\" to \"The\nMajority Announces\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

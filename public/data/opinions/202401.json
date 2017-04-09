@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202401/",
+  "absolute_url": "/opinion/202401/obershaw-v-superintendent/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202401/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:52:03Z",
+  "date_modified": "2016-02-28T05:07:57.083228Z",
+  "type": "010combined",
+  "sha1": "b617ccb1e0041d9df95e830eb8acf1bc47baab50",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2419ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/09/07/Obershaw_v._Superintendent.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-2419\n\n                         MARK OBERSHAW,\n\n                     Petitioner, Appellant,\n\n                               v.\n\n                  KATHLEEN LANMAN; PETER ALLEN,\n\n                     Respondents, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on June 30, 2006 is amended\nas follows:\n\n     In the sentence on page 9, line 14 insert the word \"of\" after\nthe word \"more\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

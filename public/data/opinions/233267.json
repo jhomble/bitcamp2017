@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/233267/",
+  "absolute_url": "/opinion/233267/tupper-corporation-v-tilton-cook-co/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/233267/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:40Z",
+  "date_modified": "2016-02-28T05:50:12.495816Z",
+  "type": "010combined",
+  "sha1": "37b464918c05bc389ef08fa4a0c940e0f792be64",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/209/209.F2d.954.4772_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">209 F.2d 954</p>\n    <p class=\"case_cite\">101 U.S.P.Q. 1</p>\n    <p class=\"parties\">TUPPER CORPORATION, Plaintiff, Appellant,<br>v.<br>TILTON &amp; COOK CO., Defendant, Appellee.</p>\n    <p class=\"docket\">No. 4772</p>\n    <p class=\"court\">United States Court of Appeals<br>First Circuit.</p>\n    <div class=\"prelims\">\n      <p>Jan. 28,1954.</p>\n      <p class=\"indent\">Alexander Mencher, New York City, Seder &amp; Seder, Worcester, Mass., on brief, for appellant.</p>\n      <p class=\"indent\">Melvin R. Jenney, Boston, Mass., Kenway, Jenney, Witter &amp; Hildreth, Boston, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment appealed from is affirmed upon the opinion of the District Court, 113 F.Supp. 805.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">209</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">954</span></span></p>\n    <p class=\"case_cite\">101 U.S.P.Q. 1</p>\n    <p class=\"parties\">TUPPER CORPORATION, Plaintiff, Appellant,<br>v.<br>TILTON &amp; COOK CO., Defendant, Appellee.</p>\n    <p class=\"docket\">No. 4772</p>\n    <p class=\"court\">United States Court of Appeals<br>First Circuit.</p>\n    <div class=\"prelims\">\n      <p>Jan. 28,1954.</p>\n      <p class=\"indent\">Alexander Mencher, New York City, Seder &amp; Seder, Worcester, Mass., on brief, for appellant.</p>\n      <p class=\"indent\">Melvin R. Jenney, Boston, Mass., Kenway, Jenney, Witter &amp; Hildreth, Boston, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment appealed from is affirmed upon the opinion of the District Court, 113 F.Supp. 805.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203015/",
+  "absolute_url": "/opinion/203015/united-states-v-wright/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203015/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:06:53Z",
+  "date_modified": "2016-02-28T05:09:43.261404Z",
+  "type": "010combined",
+  "sha1": "3154b1c921c8af615c54a0840cbbba62df6ccbe4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1351ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/11/07/US_v._Wright.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1351\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                         GREGORY WRIGHT,\n\n                      Defendant, Appellant.\n\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                FOR THE DISTRICT OF MASSACHUSETTS\n\n          [Hon. William G. Young, U.S. District Judge]\n\n\n                             Before\n\n                     Torruella, Circuit Judge,\n                  Stahl, Senior Circuit Judge,\n                    and Lipez, Circuit Judge.\n\n\n\n                             ERRATA\n\n     The opinion of this court issued on May 4, 2007, is amended,\nin section III, on page 20, line 5, by addition of the following\ntext:\n\n     \"Those proceedings should continue before the same district\ncourt judge who heard this case originally.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

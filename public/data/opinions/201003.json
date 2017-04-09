@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201003/",
+  "absolute_url": "/opinion/201003/sheridan-v-michels/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201003/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:05:41Z",
+  "date_modified": "2016-02-28T05:04:23.857709Z",
+  "type": "010combined",
+  "sha1": "4bc2eb34804d2fe99cde6bb85a034418ff17a0a8",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-9007ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/12/Sheridan_v._Michels.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 02-9007\n                   IN RE WILLIAM C. SHERIDAN,\n\n\n\n                     WILLIAM C. SHERIDAN,\n\n                     Defendant, Appellant,\n\n                                 v.\n\n                        NANCY MICHELS,\n\n                              Appellee.\n\n\n\n\n                               ERRATA\n\n     The opinion of this court issued March 29, 2004, should be\namended as follows:\n\n    On page 33:    line 6:   delete first two sentences in this\n                   paragraph which read:    \"Accordingly, pending\n                   the entry of a final judgment by the district\n                   court, based upon the recommended findings of\n                   fact and conclusions of law entered by the\n                   bankruptcy court, Sheridan is reinstated to the\n                   bankruptcy court bar immediately.    See supra\n                   note 9.\"\n\n                   line 10:     delete \"shall be\" and replace with\n                   \"is\";\n\n                   line 11:       delete   \"that\"   and   replace   with\n                   \"which\";\n\n                   lines 15-16:     Delete \"Sheridan is hereby\n                   reinstated to the bankruptcy court bar, and\n                   the...\" and insert \"The\" before \"case.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

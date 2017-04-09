@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204035/",
+  "absolute_url": "/opinion/204035/sutliffe-v-epping-school-district/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204035/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:49Z",
+  "date_modified": "2016-02-28T05:12:37.371828Z",
+  "type": "010combined",
+  "sha1": "1d9f4d926a512ebca0147188c2d787d34e45eb1d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2587E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/10/15/Sutliffe_v._Epping_School_District.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-2587\n\n THOMAS SUTLIFFE; DONALD SISSON; LEO GRIMARD; NANCY LEE GRIMARD;\nRENEE VICTORIA; EPPING RESIDENTS FOR PRINCIPLED GOVERNMENT, INC.,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n      EPPING SCHOOL DISTRICT; TOWN OF EPPING; BARBARA D. MUNSEY,\n   Superintendent of Schools, Administrative Unit #14; HAROLD K.\n      LAPIERRE, Moderator, Town of Epping School District; SUSAN\n     MCGEOUGH, Member, Town of Epping Board of Selectmen; THOMAS\n GAUTHIER, Member, Town of Epping Board of Selectmen; CHRISTOPHER\n MURPHY, Member, Town of Epping Board of Selectmen; KIM SULLIVAN,\n  Member, Town of Epping Board of Selectmen; MARCI MORRIS, Chair,\n     Epping School Board; JEFFREY NOLLETT, Member, Epping School\n    Board; SUSAN KIMBALL, Member and Chair, Epping School Board;\n   PAMELA TIBBETTS, Member and Chair, Epping School Board; SCOTT\n BOOTH, Member, Epping School Board; ROBERT LONEK, Member, Epping\nSchool Board; JEFFREY LEDUC, Member, Epping School Board; MARK A.\n             VALLONE, Principal, Epping Elementary School,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on September 17, 2009, is\namended as follows:\n\nOn page 26, line 21, \"Plaintiffs claim\" should instead be\n\"Plaintiffs' claim\"\n\nOn page 35, line 14, the second \"of any\" should be deleted\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/152916/"
+  ]
+}

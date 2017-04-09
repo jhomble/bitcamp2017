@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200068/",
+  "absolute_url": "/opinion/200068/united-states-v-conley/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200068/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:43:24Z",
+  "date_modified": "2016-02-28T05:02:05.172050Z",
+  "type": "010combined",
+  "sha1": "025a91322e0215321441ee1f69bf73508f54402c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2693A-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/08/08/US_v._Conley.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 01-2693\n\n                            KENNETH CONLEY,\n\n                         Petitioner, Appellee,\n\n                                  v.\n\n                       UNITED STATES OF AMERICA,\n\n                        Respondent, Appellant.\n\n\n\n\n                                ERRATA\n\n\n     The opinion of this court issued July 15, 2002, should be\namended as follows:\n     In the Dissent:\n\n     On page 14, second full paragraph, line 2, replace \"Brady,\"\nwith \"Brady;\".\n\n     On page 16, footnote 3, line 6, replace \"(1st Cir. 1991),\"\nwith \"(1st Cir.),\".\n\n    On page 18, line 4, replace \"decisions\" with \"decision\".\n\n     On page 18, second full           paragraph,   line   1,   replace\n\"principal,\" with \"principle,\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203686/",
+  "absolute_url": "/opinion/203686/rivas-mira-v-mukasey/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203686/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:29Z",
+  "date_modified": "2016-02-28T05:11:44.321503Z",
+  "type": "010combined",
+  "sha1": "081ee33128506050a7bf72aa367ce72ff1677a2a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1604E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/02/23/Rivas-Mira_v._Mukasey.pdf",
+  "plain_text": "          United States Court of Appeals\n                    For the First Circuit\n\nNo. 08-1604\n\n                    CARLOS EDUARDO RIVAS-MIRA,\n\n                           Petitioner,\n\n                                v.\n\n              ERIC H. HOLDER, JR.,1 ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on February 11, 2009 is\ncorrected as follows:\n\n     On the cover sheet, change \"Willilam P. Joyce\" to \"William P.\nJoyce\"\n\n\n\n\n     1\n      Pursuant to Fed. R. App. P. 43(c)(2), Attorney General Eric\nH. Holder, Jr. has been substituted for former Attorney General\nMichael B. Mukasey as respondent.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

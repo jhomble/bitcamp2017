@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203956/",
+  "absolute_url": "/opinion/203956/united-states-v-bristol-martir/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203956/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:27:22Z",
+  "date_modified": "2016-02-28T05:12:26.505459Z",
+  "type": "010combined",
+  "sha1": "694b1f2d07dc1182cf2b697533ba99d133679e0c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2722E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/08/18/US_v._Bristol-Martir.pdf",
+  "plain_text": "          United States Court of Appeals\n                  For the First Circuit\n\nNo. 06-2722\n\n                UNITED STATES OF AMERICA,\n                        Appellee,\n\n                            v.\n\n                  SAMUEL BRISTOL-MÁRTIR,\n                   Defendant, Appellant.\n\n\nNo. 06-2723\n                UNITED STATES OF AMERICA,\n                        Appellee,\n\n                            v.\n\n                CARLOS OLIVERAS-GONZÁLEZ,\n                  Defendant, Appellant.\n\n\nNo. 06-2724\n                UNITED STATES OF AMERICA,\n                        Appellee,\n\n                            v.\n\n                FRANCISCO SANTIAGO-ALBINO,\n                   Defendant, Appellant.\n\n\nNo. 06-2725\n                UNITED STATES OF AMERICA,\n                        Appellee,\n\n                            v.\n\n                    OMAR MARRERO-CRUZ,\n                  Defendant, Appellant.\n\f                           ERRATA SHEET\n\n\n     The opinion of this Court issued on June 26, 2009, is amended\nas follows:\n\n     On p. 7, line 5:   Delete the word \"an.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/204139/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/214249/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/216700/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/614899/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/621261/"
+  ]
+}

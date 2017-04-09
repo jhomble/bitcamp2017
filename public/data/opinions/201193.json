@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201193/",
+  "absolute_url": "/opinion/201193/barnes-v-fleet-national-bank/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201193/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:09:47Z",
+  "date_modified": "2016-02-28T05:04:49.527292Z",
+  "type": "010combined",
+  "sha1": "c66617b052f41c0eaf39f4a9a3ae25e5a616e756",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1027ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/13/Barnes_v._Fleet_National_Bank.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 03-1027\n\n                         DEBORAH J. BARNES,\n\n                           Plaintiff, Appellant,\n\n                                    v.\n\n                      FLEET NATIONAL BANK, N.A.;\n                 FLEETBOSTON FINANCIAL CORPORATION,\n\n                          Defendants, Appellees.\n\n\n\n\n                               Errata Sheet\n\nThe opinion of this Court issued on June 2, 2004 is corrected as\nfollows:\n\n      On the cover sheet replace \"Rosemarin\" with \"Rosmarin\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

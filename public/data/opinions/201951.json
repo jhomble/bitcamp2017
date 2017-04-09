@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201951/",
+  "absolute_url": "/opinion/201951/ang-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201951/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:34Z",
+  "date_modified": "2016-02-28T05:06:49.989788Z",
+  "type": "010combined",
+  "sha1": "bbdeb5e5ab82ba63a910e275348065d5be5efb2c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2605ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/07/Ang_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 04-2605\n\n                   TRY ANG AND SOKUNTHEA MEAN,\n\n                           Petitioners,\n\n                                v.\n\n              ALBERTO R. GONZALES, ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on December 1, 2005 is\ncorrected as follows:\n\n     On page 11, line 19, change \"2002\" to \"2000\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

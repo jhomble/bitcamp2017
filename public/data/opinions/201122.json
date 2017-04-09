@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201122/",
+  "absolute_url": "/opinion/201122/georcely-v-ashcroft/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201122/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:08:04Z",
+  "date_modified": "2016-02-28T05:04:40.794262Z",
+  "type": "010combined",
+  "sha1": "78e979b5e2e8a467ea7883f3798de633dbcc4399",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1922ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/13/Georcely_v._Ashcroft.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\nNo. 03-1922\n\n                        DIEUDONNA GEORCELY,\n\n                              Petitioner,\n\n                                  v.\n\n                JOHN ASHCROFT, ATTORNEY GENERAL,\n\n                              Respondent.\n\n\n\n\n                                ERRATA\n\n\n     The opinion of this court issued July 12, 2004, should be\namended as follows:\n\n     On page 3, first full paragraph, last line, remove \"(2000).\"\n\n     On page 3, second paragraph, line 5, replace \"were\" with\n\"was.\"\n\n     On page 4, second paragraph, replace \"91 I\" with \"19 I.\"\n\n     On page 7, last line, change \"and\" to \"&.\"\n\n     On page 10, paragraph 2, line 4, underline the word \"see.\"\n\n     On page   10,   second   paragraph,    line   5,   remove   the   word\n\"supra,.\"\n\n    Page 12, note 4, replace the word \"Stat\" with the word \"Stat.\"\n\n     Page 15, line 3, replace the word \"excuse\" with the word\n\"meet.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

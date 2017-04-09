@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203855/",
+  "absolute_url": "/opinion/203855/nadal-ginard-v-holder/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203855/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:25Z",
+  "date_modified": "2016-02-28T05:12:10.773598Z",
+  "type": "010combined",
+  "sha1": "68c230e8180d403c606efac3e6fad47c951ca2da",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1550E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/06/04/Nadal-Ginard_v._Holder.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-1550\n\n                      BERNARDO NADAL-GINARD,\n\n                            Petitioner,\n\n                                v.\n\n    ERIC H. HOLDER, JR.,* Attorney General of the United States,\n\n                            Respondent.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on February 25, 2009 is\namended as follows:\n\nOn page 3, lines 19-22: the sentence \"In separate proceedings, he\nwas also found liable to BCHF in federal civil proceedings for more\nthan $6.5 million, see Boston Children's Heart Found., Inc. v.\nNadal-Ginard, 73 F.3d 429, 432, 443 (1st Cir. 1996), and he entered\ninto a Consent Order before the Commonwealth of Massachusetts'\nBoard of Registration in Medicine to have his medical license\nsuspended indefinitely.\" shall be substituted for the sentence \"He\nwas also stripped of his medical license and found liable to BCHF\nin federal civil proceedings for more than $6.5 million, see Boston\nChildren's Heart Found., Inc. v. Nadal-Ginard, 73 F.3d 429, 432,\n443 (1st Cir. 1996).\"\n\nOn page 3, immediately following the newly-substituted sentence, a\nnew footnote shall be inserted reading, \"Nadal-Ginard's medical\nlicense has since been reinstated.\"\n\n\n\n\n*\n Pursuant to Fed. R. App. P. 43(c)(2), Attorney General Eric H.\nHolder, Jr. is automatically substituted for former Attorney\nGeneral Michael B. Mukasey as the respondent herein.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">           United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-1550\n\n                      BERNARDO NADAL-GINARD,\n\n                            Petitioner,\n\n                                v.\n\n    ERIC H. HOLDER, JR.,* Attorney General of the United States,\n\n                            Respondent.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on February 25, 2009 is\namended as follows:\n\nOn page 3, lines 19-22: the sentence \"In separate proceedings, he\nwas also found liable to BCHF in federal civil proceedings for more\nthan $6.5 million, see Boston Children's Heart Found., Inc. v.\nNadal-Ginard, </pre><span class=\"citation\" data-id=\"196516\"><a href=\"/opinion/196516/boston-childrens-v-nadal-ginard/\"><span class=\"volume\">73</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">429</span></a></span><pre class=\"inline\">, 432, 443 (1st Cir. 1996), and he entered\ninto a Consent Order before the Commonwealth of Massachusetts'\nBoard of Registration in Medicine to have his medical license\nsuspended indefinitely.\" shall be substituted for the sentence \"He\nwas also stripped of his medical license and found liable to BCHF\nin federal civil proceedings for more than $6.5 million, see Boston\nChildren's Heart Found., Inc. v. Nadal-Ginard, </pre><span class=\"citation\" data-id=\"196516\"><a href=\"/opinion/196516/boston-childrens-v-nadal-ginard/\"><span class=\"volume\">73</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">429</span></a></span><pre class=\"inline\">, 432,\n443 (1st Cir. 1996).\"\n\nOn page 3, immediately following the newly-substituted sentence, a\nnew footnote shall be inserted reading, \"Nadal-Ginard's medical\nlicense has since been reinstated.\"\n\n\n\n\n*\n Pursuant to Fed. R. App. P. 43(c)(2), Attorney General Eric H.\nHolder, Jr. is automatically substituted for former Attorney\nGeneral Michael B. Mukasey as the respondent herein.\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196516/"
+  ]
+}

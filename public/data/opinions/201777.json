@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201777/",
+  "absolute_url": "/opinion/201777/eimskip-the-iceland-v-mayflower/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201777/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:34:05Z",
+  "date_modified": "2016-02-28T05:06:22.625444Z",
+  "type": "010combined",
+  "sha1": "1d022c0395771d138d21ddc6bb2028e6a0f49c7c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2168ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/08/18/Eimskip_The_Iceland_v._Mayflower.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 04-2168\n\n          EIMSKIP, THE ICELAND STEAMSHIP COMPANY, LTD;\n                       EIMSKIP USA, INC.,\n\n                     Plaintiffs, Appellees,\n\n                               v.\n\n                   ATLANTIC FISH MARKET, INC.,\n\n                      Defendant, Appellant.\n\n\n\n\n                             ERRATA\n\n\n\n     The opinion of this court issued on July 27, 2005, is amended\nas follows:\n\n     On page 10, second full        paragraph,   line   5,   replace\n\"Atlantic's\" with \"Mayflower's\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

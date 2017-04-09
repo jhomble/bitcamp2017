@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201678/",
+  "absolute_url": "/opinion/201678/marina-bay-realty-tr-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201678/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:32:03Z",
+  "date_modified": "2016-02-28T05:06:09.202727Z",
+  "type": "010combined",
+  "sha1": "2c302bb11e2ba47cd4b7c655c21633fc878701e2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1909ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/07/06/Marina_Bay_Realty_Tr_v._United_States.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 04-1909\n\n           MARINA BAY REALTY TRUST LLC; NEPONSET CIRCLE\n       SKILLED NURSING AND REHABILITATION CENTER II, INC.;\n                  GORDON DEVELOPMENT GROUP, INC.,\n\n                      Plaintiffs, Appellants,\n\n                                 v.\n\n        UNITED STATES OF AMERICA; U.S. DEPT. OF DEFENSE;\n                  U.S. DEPARTMENT OF THE NAVY,\n\n                      Defendants, Appellees.\n\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                 FOR THE DISTRICT OF MASSACHUSETTS\n\n              [Hon. Rya W. Zobel, U.S. District Judge]\n\n\n                              Before\n\n                        Lipez, Circuit Judge,\n                    Stahl, Senior Circuit Judge,\n              and Oberdorfer, Senior District Judge.*\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on May 3, 2005 is amended\nas follows:\n\n     On page 15, footnote 12, line 6, change \"that thought\" to\n\"that he thought.\"\n\n\n\n*Of the District of Columbia, sitting by designation.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203148/",
+  "absolute_url": "/opinion/203148/united-states-v-shinderman/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203148/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:09:35Z",
+  "date_modified": "2016-02-28T05:10:12.326682Z",
+  "type": "010combined",
+  "sha1": "05eb2720eb3121fde32149c5caf7b774649a22ec",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1569ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/02/12/US_v._Shinderman.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\nNo. 07-1569\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                    MARK S. SHINDERMAN, M.D.,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on January 29, 2008 is\ncorrected as follows:\n\n     On p.26, l.9, change \"for sentencing\" to \"or sentencing\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

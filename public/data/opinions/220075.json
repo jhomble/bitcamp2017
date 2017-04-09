@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/220075/",
+  "absolute_url": "/opinion/220075/robidoux-v-obrien/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/220075/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-06-30T15:01:46Z",
+  "date_modified": "2016-02-28T05:34:07.008277Z",
+  "type": "010combined",
+  "sha1": "e4ad7b7c324b39e7bfc611753a5213ae715a3607",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-1239E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/06/30/Robidoux_v._OBrien.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\nNo. 10-1239\n\n                         JACQUES ROBIDOUX,\n\n                       Petitioner, Appellant,\n\n                                 v.\n\n                 STEVEN J. O'BRIEN, Superintendent,\n\n                       Respondent, Appellee.\n\n\n                               ERRATA\n\n     The opinion of this Court, issued on June 28, 2011, should be\n\namended as follows.\n\n     On page 20, line 6 of 2nd full paragraph, replace \"bath\" with\n\n\"bathe\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

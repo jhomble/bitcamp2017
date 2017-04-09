@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201776/",
+  "absolute_url": "/opinion/201776/united-states-v-lata/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201776/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:34:05Z",
+  "date_modified": "2016-02-28T05:06:28.085015Z",
+  "type": "010combined",
+  "sha1": "25003a968ad30c3401ad8f34dd9d0723db9812e2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2051ERR1-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/08/18/US_v._Lata.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 04-2051\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                       JAMES T. LATA, SR.,\n\n                      Defendant, Appellant.\n\n\n\n                             ERRATA\n\n\n     The opinion of this court issued on June 24, 2005, is amended\nas follows:\n\n\n     On page 9, note 2, line 2, replace \"Miller v. Florida, 413\nU.S. 185 (1977),\" with \"Miller v. Florida, 482 U.S. 423, 435-36\n(1987),\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                     For the First Circuit\n\nNo. 04-2051\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                       JAMES T. LATA, SR.,\n\n                      Defendant, Appellant.\n\n\n\n                             ERRATA\n\n\n     The opinion of this court issued on June 24, 2005, is amended\nas follows:\n\n\n     On page 9, note 2, line 2, replace \"Miller v. Florida, </pre><span class=\"citation no-link\"><span class=\"volume\">413</span>\n<span class=\"reporter\">U.S.</span> <span class=\"page\">185</span></span><pre class=\"inline\"> (1977),\" with \"Miller v. Florida, </pre><span class=\"citation\" data-id=\"111917\"><a href=\"/opinion/111917/miller-v-florida/\"><span class=\"volume\">482</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">423</span></a></span><pre class=\"inline\">, 435-36\n(1987),\".\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/111917/"
+  ]
+}

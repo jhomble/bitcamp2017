@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204147/",
+  "absolute_url": "/opinion/204147/rolland-v-patrick/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204147/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:55Z",
+  "date_modified": "2016-02-28T05:12:56.946104Z",
+  "type": "010combined",
+  "sha1": "321f3f96042bca85e466a8a99c0346847c78450f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1874E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/01/22/Rolland_v._Patrick.pdf",
+  "plain_text": "           United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 08-1874\n\n  ERIC VOSS, LAURA THIBAULT, FREDERICK CARTER, CHRISTOPHER PALEO,\n ANGEL AGOSTA, KIMBERLY LAWRENCE, KELLEY SCHNAIR, ROBERT BUCKMAN,\n  NICOLE KEATING, MUSA NURISLAM, CHERYL COURTNEY, LENNIE LEBLANC,\nLAURA PUTTERMAN, PEDRO CAVALLARO, DAVID BRAGA, AMANDA WATTS, ERIN\n   POULIN, SHERI BELVILLE, ALISSA CORMIER, BELEN GARCIA-SIMMONS,\n JESSE STEWART, MARK CHAPMAN, UCHENNA OBI, STEFANIE PETRIE, LINDA\n  KLAIBER, JEANNETTE MCGINNIS, LAURA PROUTY, JILLIAN HUME, ANDRE\n  AMATO, SHARIA PITTS, PETER LIDDY, JOSHUA GREANEY, HOMER SWAIN,\n    ANDREW PATTERSON, PATRICK SHEEHAN, ANDREW CHAN, DYLAN KEENE,\nABRAHAM CARRO, WILLIAM CAMPBELL, POLO DEJESUS, EMILY SAM, ZACHARY\n                       FOSTER, WENDELL ROQUE,\n\n                      Plaintiffs, Appellants,\n\n    LORETTA ROLLAND, MARGARET PINETTE, TERRY NEWTON, BRUCE AMES,\n       FREDERICK COOPER, LESLIE FRANCIS, TIMOTHY RAYMOND, ARC\n     MASSACHUSETTS, and STAVROS CENTER FOR INDEPENDENT LIVING,\n\n                       Plaintiffs, Appellees,\n\n                                 v.\n\nDEVAL PATRICK, JAY GONZALEZ, JUDYANN BIGBY, BRUCE M. BULLEN, ELIN\nM. HOWE, CHARLES CARR, JOHN AUERBACH, and TERESA O'HARE, in their\n                      official capacities,*\n\n                       Defendants, Appellees.\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on January 19, 2009 is\namended as follows:\n\n     On the cover sheet, \"Hon. Kenneth P. Nieman\" is replaced\nwith \"Hon. Kenneth P. Neiman\".\n\n\n*\n     Pursuant to Fed. R. App. P. 43(c)(2), several defendants\nhave been substituted for their predecessors in office.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

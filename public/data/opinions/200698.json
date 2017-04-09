@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200698/",
+  "absolute_url": "/opinion/200698/united-states-v-hartsock/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200698/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:58:05Z",
+  "date_modified": "2016-02-28T05:03:36.782669Z",
+  "type": "010combined",
+  "sha1": "3be48b39e118f7bcb65a5df91b75c1db518f5046",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1609ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/10/22/US_v._Hartsock.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-1609\n\n                    UNITED STATES OF AMERICA,\n\n                           Appellant,\n\n                               v.\n\n                        WILLARD HARTSOCK,\n\n                      Defendant, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 10, 2003 is\namended as follows:\n\n     On the cover sheet, replace \"Senior\" with \"Chief\" in \"Senior\nU.S. District Judge\"\n\n     On page 12, add \"convictions\" after the word \"predicate\" and\nwithin the quotation marks, so that the parenthetical reads:\nconvictions that may serve as predicate convictions\").\n\n     On page 13, change \"Dept.\" to \"Dep't\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

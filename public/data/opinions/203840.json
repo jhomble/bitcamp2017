@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203840/",
+  "absolute_url": "/opinion/203840/lpp-mortgage-ltd-v-sugarman/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203840/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:12Z",
+  "date_modified": "2016-02-28T05:12:08.063932Z",
+  "type": "010combined",
+  "sha1": "e5b531719d72d4baceb3e95c5fbdac1809383705",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2134E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/05/22/LPP_Mortgage_Ltd._v._Sugarman.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\nNo. 08-2134\n\n                        LPP MORTGAGE, LTD.,\n\n                       Plaintiff, Appellant,\n\n                                   v.\n\n                         LEONARD SUGARMAN,\n\n                       Defendant, Appellee.\n\n\n                              ERRATA SHEET\n\n     The opinion of this Court, issued on May 7, 2009, should be\n\namended as follows.\n\n     On page 6, line 4, replace \"Sugarman.\" with \"Statler.\".\n\n     On page 3, last line, and on page 4, lines 3 and 5, replace\n\n\"Tree-Free\" with \"Tree Free\".     On page 5, line 8, replace \"Tree-\n\nFree's\" with \"Tree Free's\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

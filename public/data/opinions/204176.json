@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204176/",
+  "absolute_url": "/opinion/204176/estrada-v-rhode-island/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204176/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:31:46Z",
+  "date_modified": "2016-02-28T05:13:02.151766Z",
+  "type": "010combined",
+  "sha1": "ebb3d151bf4b1c5abe24cc19dd189fee03cf01ac",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1149E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/02/22/Estrada_v._State_of_Rhode_Island.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 09-1149\n\n     ASTRID G. ESTRADA; WENDY M. ESTRADA; GUILFREDO E. MUÑOZ;\n  JOSÉ A. AQUINO; CRUZ F. RIVERA; CARLOS E. TAMUP; JOSÉ BURGOS;\n        ABELINO M. URIZAR; ISRAEL TEBALAN; ROLANDO NORIEGA;\n              BORIS CRUZ; ELSA HERNÁNDEZ VILAVICENCIO,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n          STATE OF RHODE ISLAND, State Police Department;\n  STEVEN M. PARE, individually and in his official capacity as\n         Superintendent of the Rhode Island State Police;\n   C. THOMAS CHABOT, individually and in his official capacity\n    as a state trooper employed by the State of Rhode Island,\n\n                     Defendants, Appellees,\n\n       JANE DOE, individually and in her official capacity\n    as a state trooper employed by the State of Rhode Island,\n\n                           Defendant.\n\n\n                          ERRATA SHEET\n\n     Chief Judge Lynch's concurrence in the opinion of this Court\nissued on February 4, 2010 is amended as follows:\n\n     On page 28, line 3, \"I do not rely on it\" should be replaced\nwith \"I do not rely on them\"\n\n     On page 28, line 4, \"because the admission is not contained\"\nshould be replaced with \"because the admissions are not\ncontained\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

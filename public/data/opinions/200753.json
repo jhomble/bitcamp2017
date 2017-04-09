@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200753/",
+  "absolute_url": "/opinion/200753/gwyn-v-loon-mountain/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200753/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:59:31Z",
+  "date_modified": "2016-02-28T05:03:45.702193Z",
+  "type": "010combined",
+  "sha1": "b32803e44abf848b5cd71c3aff64be6964279b42",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1047ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/12/02/Gwyn_v._Loon_Mountain.pdf",
+  "plain_text": "            United States Court of Appeals\n                      For the First Circuit\n\nNo. 03-1047\n\n        EILEEN GWYN, ON HER OWN BEHALF, AND AS EXECUTRIX\n         OF THE ESTATE OF HOWARD GWYN, and MARGARET DO,\n\n                     Plaintiffs, Appellants,\n\n                                 v.\n\n                   LOON MOUNTAIN CORPORATION,\n                  d/b/a LOON MOUNTAIN SKI AREA,\n\n                         Defendant, Appellee.\n\n\n     The opinion of this Court, issued on November 25, 2003, should\n\nbe amended as follows:\n\n     On page 6, line 8 of second paragraph, replace \"argue\" with\n\n\"argues\".\n\n     On page 11, line 5 of first full paragraph, replace \"rulings\"\n\nwith \"rules\".\n\n     On page 11, line 6 of first full paragraph, insert \"the\n\nstandards for\" between \"is\" and \"such\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

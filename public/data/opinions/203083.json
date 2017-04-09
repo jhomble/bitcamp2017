@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203083/",
+  "absolute_url": "/opinion/203083/rossello-gonzalez-v-vega-gutierrez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203083/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:24Z",
+  "date_modified": "2016-02-28T05:09:53.347357Z",
+  "type": "010combined",
+  "sha1": "f15c955cf26e1f8e02eea20e0c12c25d589fcd8b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1448ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/21/Rossello-Gonzalez_v._Vega-Gutierrez.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 06-1448, 06-1449, 06-1450\n\n\n HON. PEDRO J. ROSSELLÓ-GONZÁLEZ; LUIS FORTUÑO; MIRIAM RAMÍREZ;\n     NANETTE GUEVARA; ARNOLD GIL-CARABALLO; LARRY SEILHAMER;\n      JOSÉ SÁNCHEZ; JUAN F. RAMÍREZ; JAVIER RODRÍGUEZ-HORTA,\n\n             Plaintiffs-Appellees/Cross-Appellants,\n\n                                 v.\n\n    ANÍBAL ACEVEDO-VILÁ; AURELIO GRACIA-MORALES, individually\n  and in his capacity as President of the Puerto Rico Electoral\n  Commission; GERARDO A. CRUZ, individually and in his capacity\n      as a member of the Puerto Rico Electoral Commission;\n           THE PUERTO RICO ELECTORAL COMMISSION, a/k/a\n              The Commonwealth Election Commission,\n\n             Defendants-Appellants/Cross-Appellees,\n\n       SILA MARÍA CALDERÓN, Mayor, individually and in her\n  capacity as Governor of Puerto Rico; THE INCOMING GOVERNMENT\nTRANSITION COMMITTEE,\n\n                   Defendants/Cross-Appellees,\n\n   THOMAS RIVERA-SCHATZ, individually and in his capacity as a\n  member of the Puerto Rico Electoral Commission; JUAN DALMAU-\n     RAMÍREZ, individually and in his capacity as a member of\n               the Puerto Rico Electoral Commission,\n\n                           Defendants.\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on March 13, 2007, is amended\nas follows:\n\n     On page 6, line 23, the word \"plaintiffs\" should be replaced\nwith \"plaintiff\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

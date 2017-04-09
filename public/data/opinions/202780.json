@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202780/",
+  "absolute_url": "/opinion/202780/bard-v-boston-shipping-asso/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202780/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:01:51Z",
+  "date_modified": "2016-02-28T05:08:54.195570Z",
+  "type": "010combined",
+  "sha1": "a03fd8443dbde846439e5adbeaa9b572db49883a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1810ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/06/Bard_v._Boston_Shipping_Asso.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1810\n\n                           PAUL BARD,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n   BOSTON SHIPPING ASSOCIATION; INTERNATIONAL LONGSHOREMEN'S\nASSOCIATION PENSION PLAN, a/k/a BSA-ILA Pension Plan, a/k/a BSA-\n                         ILA Trust Fund,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this court issued on December 19, 2006 is\namended as follows:\n\n     On page 16, line 1: Replace the hyphenated word \"decision-\nmaker\" with the words \"decision maker.\"\n\n     On page 19, line 9: Replace the word \"England\" with the\nabbreviation \"Eng.\"\n\n     On page 32, line 7 of footnote 20: Replace the word \"avowed\"\nwith the word \"disavowed.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

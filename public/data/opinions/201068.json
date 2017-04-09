@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201068/",
+  "absolute_url": "/opinion/201068/pride-hyundai-inc-v-chrysler-financial/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201068/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:07:02Z",
+  "date_modified": "2016-02-28T05:04:31.941011Z",
+  "type": "010combined",
+  "sha1": "60e861b72eeb45441752a1148a94174db5831362",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1905ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/06/15/Pride_Hyundai_Inc._v._Chrysler_Financial.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 03-1905\n\n   PRIDE HYUNDAI, INC., BLACKSTONE SUBARU, INC., d/b/a PRIDE\n   HYUNDAI OF SEEKONK, PRIDE DODGE, INC., and PRIDE CHRYSLER-\n                         PLYMOUTH, INC.,\n\n                     Plaintiffs, Appellants,\n\n                                v.\n\n               CHRYSLER FINANCIAL COMPANY, L.L.C.,\n\n                       Defendant, Appellee.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on May 27, 2004 is amended as\nfollows:\n\n     On Page 3, line 21-22, \"2001 amendments or Official\nCommentary\" should be changed to \"Official Commentary to the 2001\namendments\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

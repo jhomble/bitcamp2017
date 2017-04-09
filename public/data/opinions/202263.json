@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202263/",
+  "absolute_url": "/opinion/202263/rakes-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202263/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:48:03Z",
+  "date_modified": "2016-02-28T05:07:35.921934Z",
+  "type": "010combined",
+  "sha1": "d5aa56d09a12042c9585ecebb1655bfc0b07d4c4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1395ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/06/14/Rakes_v._US.pdf",
+  "plain_text": "              United States Court of Appeals\n                              For the First Circuit\n\nNo. 05-1395\n\n          STEPHEN M. RAKES; NICHOLE RAKES; MEREDITH RAKES;\n       COLBY RAKES; STIPPO'S, INC.; GARY W. CRUICKSHANK, as Trustee in\n                        bankruptcy of Stephen M. Rakes,\n\n                                    Plaintiffs, Appellants,\n\n                                              v.\n\n                                     UNITED STATES,\n\n                                    Defendant, Appellee.\n\n\nNo. 05-1396\n\n                                JULIE RAKES DAMMERS,\n\n                                     Plaintiff, Appellant,\n\n                                              v.\n\n                                     UNITED STATES,\n\n                                    Defendant, Appellee.\n\n\n\n\n                                     ERRATA SHEET\n\n      The opinion of this Court issued on March 23, 2006 is corrected as follows:\n\n      On page 24, line 3, replace \"the government\" with \"an objective observer\"\n\n      On page 24, line 4, replace \"the government\" with \"such an observer\"\n\n      On page 28, line 8, replace \"the government\" with \"an objective observer\"\n\f\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

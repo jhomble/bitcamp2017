@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202699/",
+  "absolute_url": "/opinion/202699/united-states-v-nieves-castano/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202699/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:59:49Z",
+  "date_modified": "2016-02-28T05:08:33.359877Z",
+  "type": "010combined",
+  "sha1": "f8c7fb16b535718125ff8a4a62ef79f7e42933d7",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1517ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/04/09/US_v._Nieves-Castano.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1517\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                      BELEN NIEVES-CASTAÑO,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this court issued on March 27, 2007 is amended\nas follows:\n\n     On page 2, line 4: Insert the word \"of\" between \"possession\"\nand \"a.\"\n\n     On page 2, line 20: Replace the word \"era\" with the word\n\"rea.\"\n\n     On page 5, line 4: Replace the number \"18\" with the number\n\"26.\"\n\n     On page 5, line 19: Replace the number \"18\" with the number\n\"26.\"\n\n     On page 11, line 10: In place of the two spaces between \"B.\"\nand \"Constitutionality,\" insert a line indent.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

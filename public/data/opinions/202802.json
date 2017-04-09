@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202802/",
+  "absolute_url": "/opinion/202802/belaval-v-commonwealth-of-pr/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202802/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:16Z",
+  "date_modified": "2016-02-28T05:09:02.289946Z",
+  "type": "010combined",
+  "sha1": "2283fea71d5d5ca2acc3d02c6de252343b69e65b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1240ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/15/Belaval_v._Commonwealth_of_PR.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 07-1240\n\n                    DR. JOSÉ S. BELAVAL, INC.,\n\n                       Plaintiff/Appellant,\n\n   RIO GRANDE COMMUNITY HEALTH CENTER, INC.; CONCILIO DE SALUD\n                 INTEGRAL DE LOIZA, INC. (CSILO),\n\n                           Plaintiffs,\n\n                                v.\n\n HON. ROSA PÉREZ-PERDOMO, Secretary, Department of Health of the\n                   Commonwealth of Puerto Rico,\n\n                       Defendant/Appellee,\n\n COMMONWEALTH OF PUERTO RICO; UNITED STATES DEPARTMENT OF HEALTH\nAND HUMAN SERVICES; MICHAEL O. LEAVITT, Secretary, United States\n             Department of Health and Human Services,\n\n                           Defendants.\n\n\n                           ERRATA SHEET\n\n     The opinion of this court issued on May 18, 2007 is amended as\nfollows:\n\n     On page 4, line 20, replace the words \"defendants were\" with\nthe words \"defendant was.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

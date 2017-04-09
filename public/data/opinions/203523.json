@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203523/",
+  "absolute_url": "/opinion/203523/kadri-v-mukasey/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203523/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:31Z",
+  "date_modified": "2016-02-28T05:11:14.199266Z",
+  "type": "010combined",
+  "sha1": "18ba8464889112b2c8375bad1c83239908d707f3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2599E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/17/Kadri_v._Mukasey.pdf",
+  "plain_text": "               United States Court of Appeals\n                               For the First Circuit\n\nNos.   06-2599\n       07-1754\n\n                                     ZULKIFLY KADRI,\n\n                                          Petitioner,\n\n                                              v.\n\n                            MICHAEL B. MUKASEY,\n                    ATTORNEY GENERAL OF THE UNITED STATES,\n\n                                         Respondent.\n\n\n\n                                     ERRATA SHEET\n\n        The opinion of this Court issued on September 20, 2008, is amended as follows:\n\n      On the cover page insert at the bottom: Ilana Etkin Greenstein, Jeremiah Friedman, Harvey\nKaplan, Maureen O'Sullivan, and Kaplan, O'Sullivan & Friedman, LLP, on brief for Gay & Lesbian\nAdvocates & Defenders, National Lawyers' Guild, Massachusetts Chapter, and National\nImmigration Project, amici curiae.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/262/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/174991/"
+  ]
+}

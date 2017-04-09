@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203957/",
+  "absolute_url": "/opinion/203957/sarsfield-v-great-american-insurance-compa/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203957/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:27:22Z",
+  "date_modified": "2016-02-28T05:12:26.528674Z",
+  "type": "010combined",
+  "sha1": "a9cd7cd1667c03b7c748f9d8f060b5710227472b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1890E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/08/18/Sarsfield_v._Great_American_Insurance_Compa.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-1890\n\n                         ERIC SARSFIELD,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n         GREAT AMERICAN INSURANCE COMPANY OF NEW YORK,\n           GREAT AMERICAN ALLIANCE INSURANCE COMPANY,\n                GREAT AMERICAN ASSURANCE COMPANY,\n\n                      Defendants, Appellees.\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on July 1, 2009 is amended as\nfollows:\n\n     On page 10, line 3, “Great American” should be replaced with\n“the city.”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

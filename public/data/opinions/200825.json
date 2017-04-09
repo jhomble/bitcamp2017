@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200825/",
+  "absolute_url": "/opinion/200825/little-bay-lobster-v-secretary-of-comm/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200825/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:01:40Z",
+  "date_modified": "2016-02-28T05:03:55.313175Z",
+  "type": "010combined",
+  "sha1": "43a9843b4f310788af9d59d1a2f2c0aa11260a83",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1864ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/01/23/Little_Bay_Lobster_v._Secretary_of_Comm.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\nNo. 02-1864\n\n              LITTLE BAY LOBSTER COMPANY, INC., ET AL.,\n\n                       Plaintiffs, Appellants,\n\n                                  v.\n\n               DONALD L. EVANS, SECRETARY OF COMMERCE,\n\n                         Defendant, Appellee.\n\n\n\n\n                                ERRATA\n\n\n\n     The opinion of this court issued December 19, 2003, is amended\n\nas follows:\n\n     On page 2, line 22:    please replace \"311 F.3d 120\" with \"311\n\nF.3d 109, 110.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

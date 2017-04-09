@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201594/",
+  "absolute_url": "/opinion/201594/igartua-de-la-rosa-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201594/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:30:10Z",
+  "date_modified": "2016-02-28T05:06:01.773072Z",
+  "type": "010combined",
+  "sha1": "1912cf0a712fc5951931d44c808d0674231effa5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2186ORDERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/05/20/Igartua-De-La-Rosa_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 04-2186\n\n              GREGORIO IGARTÚA de la ROSA, et al.,\n\n                      Plaintiffs-Appellants,\n\n                                v.\n\n                    UNITED STATES OF AMERICA,\n\n                       Defendant-Appellant.\n\n\n\n\n                              ERRATA\n\n\n     The memorandum and order of this court issued on May 12, 2005,\nshould be amended as follows:\n\n     On the cover sheet replace \"Torruella, Selya, Lynch, Howard\nand Lipez, Circuit Judges.\" with \"Torruella, Selya, Lynch, Lipez\nand Howard, Circuit Judges.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

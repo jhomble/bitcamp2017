@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200827/",
+  "absolute_url": "/opinion/200827/poy-v-boutselis/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200827/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:01:42Z",
+  "date_modified": "2016-02-28T05:03:54.212100Z",
+  "type": "010combined",
+  "sha1": "e0be1788dd60f4ee2a59ce189c73bceb372f15b6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1201ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/01/23/Poy_v._Boutselis.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\nNo.   03-1201\n\n                             PHALY POY,\n                       Plaintiff, Appellant,\n\n                                v.\n\n                      JOHN BOUTSELIS, ET AL.,\n                       Defendants, Appellees.\n\n\nNo.   03-1243\n                      JOHN BOUTSELIS, ET AL.,\n                      Defendants, Appellants,\n\n                                v.\n\n                            PHALY POY,\n                       Plaintiff, Appellee.\n\n\n                              Before\n                       Selya, Circuit Judge,\n                  Coffin, Senior Circuit Judge,\n                    and Lipez, Circuit Judge.\n\n\n                           ERRATA SHEET\n\n\n     The opinion of the court issued on December 19, 2003, is\namended as follows:\n\n     On page 12, lines 11-12, delete the sentence that begins\nwith \"The notice of appeal filed . . . .\" and replace it with\n\"The notice of appeal filed by Boutselis makes no mention of\nConroy. Lacking any indication that Conroy intended to appeal,\nwe find that we have no jurisdiction. Fed. R. App. P. 3.\"\n\n\n      On page 20, line 6 \"n.3\" should be \"n.4\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

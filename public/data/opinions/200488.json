@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200488/",
+  "absolute_url": "/opinion/200488/in-re-pharmatrak-inc-privacy-litigation/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200488/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:54:04Z",
+  "date_modified": "2016-02-28T05:03:07.470828Z",
+  "type": "010combined",
+  "sha1": "9fecbc521a5ad356c31d1853d322a2fdc699063c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2138ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/05/30/Blumofe_v._Pharmatrak_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\nNo. 02-2138\n\n              IN RE PHARMATRAK, INC. PRIVACY LITIGATION,\n\n  NOAH BLUMOFE, on behalf of himself and all others similarly\n situated; ROB BARRING; JIM DARBY; KAREN GRASSMAN, on behalf of\nherself and all others similarly situated; ROBIN MCCLARY; HARRIS\n                    PERLMAN; MARCUS SCHROERS,\n\n                       Plaintiffs, Appellants,\n\n                                  v.\n\n         PHARMATRAK, INC.; GLOCAL COMMUNICATIONS, LTD.,\n\n                        Defendants, Appellees,\n\n  PFIZER, INC.; PHARMACIA CORP.; SMITHKLINE BEECHAM PLC; GLAXO\nWELLCOME PLC; DOES 1-100; AMERICAN HOME PRODUCTS CORP.; NOVARTIS\n                             CORP.,\n\n                             Defendants.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court, issued on May 9, 2003, is amended\nas follows:\n\n     p. 9, l. 10: Delete \"at which point they promptly terminated\nthe service.\"\n\n     p. 22, l. 9-12: Delete sentence beginning, \"Further, when\nplaintiffs . . . .\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201953/",
+  "absolute_url": "/opinion/201953/pharmaceutical-care-v-rowe/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201953/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:35Z",
+  "date_modified": "2016-02-28T05:06:48.916078Z",
+  "type": "010combined",
+  "sha1": "93a6c41be93f0ec59c0f23b648993ab3ba7a065f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1606ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/07/Pharmaceutical_Care_v._Rowe.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 05-1606\n\n           PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION,\n\n                         Plaintiff, Appellant,\n\n                                  v.\n\n           G. STEVEN ROWE, in his official capacity as\n             ATTORNEY GENERAL OF THE STATE OF MAINE,\n\n                         Defendant, Appellee.\n\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on November 8, 2005, should\n\nbe amended as follows:\n\n     On page 41, line 7 of 1st paragraph, delete \"state\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

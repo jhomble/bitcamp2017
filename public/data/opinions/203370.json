@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203370/",
+  "absolute_url": "/opinion/203370/united-states-v-garcia-ortiz/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203370/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:15:13Z",
+  "date_modified": "2016-02-28T05:10:57.291549Z",
+  "type": "010combined",
+  "sha1": "84af4a664317204c68a9322e9365841056cc89bf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1923ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/07/07/US_v._Garcia-Ortiz.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1923\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                      JOSÉ A. GARCÍA-ORTIZ,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on June 10, 2008, is amended\nas follows:\n\n\n     On page 5, line    12:    replace    \"February   28,   2000\"   with\n\"February 28, 2001.\"\n\n     On page 10, line 1: capitalize \"count three\" to read \"Count\nThree.\"\n\n     On page 14, line 4: replace \"Id. at 69\" with \"Id. at 691.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

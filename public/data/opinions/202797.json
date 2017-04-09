@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202797/",
+  "absolute_url": "/opinion/202797/aroostook-band-v-ryan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202797/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:12Z",
+  "date_modified": "2016-02-28T05:09:01.124857Z",
+  "type": "010combined",
+  "sha1": "f17f18d7f64ef075457dcd7e5ac15f0ef99d84e3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1127ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/15/Aroostook_Band_v._Ryan.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 06-1127, 06-1358\n\n                    AROOSTOOK BAND OF MICMACS,\n\n                         Plaintiff, Appellee,\n\n                                  v.\n\n PATRICIA E. RYAN, in her official capacity as Executive Director\n  of the Human Rights Commission of the State of Maine; WARREN C.\n  KESSLER, in his official capacity as member of the Human Rights\n   Commission of the State of Maine; PAUL K. VESTAL, JR., in his\nofficial capacity as member of the Human Rights Commission of the\n State of Maine; JAMES VARNER, in his official capacity as member\n  of the Human Rights Commission of the State of Maine; JADINE R.\n  O'BRIEN, in her official capacity as member of the Human Rights\n    Commission of the State of Maine; KRISTEN L. AIELLO, in her\nofficial capacity as member of the Human Rights Commission of the\n            State of Maine; LISA GARDINER; TAMMY CONDON,\n\n                        Defendants, Appellants,\n\n                            BEVERLY AYOOB,\n\n                              Defendant.\n\n\n\n                             ERRATA SHEET\n\n     The opinion of this court issued on April 17, 2007 is amended\nas follows:\n\n     Cover Page, Listing of Appellants: Replace the comma between\n\"State of Maine\" and \"LISA GARDINER\" with a semicolon. Replace the\ncomma between \"LISA GARDINER\" and \"TAMMY CONDON\" with a semi colon.\n\n     Cover Page, Listing of Counsel, line 2: Delete all of the\nspaces between \"Rowe, Attorney\" and \"General,\" and insert a single\nspace.\n\n     On page 8, line 3: Replace the word \"section\" with the word\n\f\"subsection.\"\n\n     On page 24, lines 12-13: Take the parenthetical \"(internal\nquotation marks omitted)\" and move it after the parenthetical\n\"(quoting 25 U.S.C. § 899 (repealed 1973)).\"\n\n     On page 39, line 2: Delete the word \"be.\"\n\n     On page 41, note 24, line 11: Delete the brackets surrounding\nthe letter \"n\" in the word \"[n]othing.\"\n\n     On page 45, note 27, line 4: Replace the partially bracketed\nphrase \"the [state Micmac Act]\" with the fully bracketed phrase\n\"[the state Micmac Act].\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/149043/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/179901/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202708/"
+  ]
+}

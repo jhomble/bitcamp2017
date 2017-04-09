@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203667/",
+  "absolute_url": "/opinion/203667/noonan-v-staples-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203667/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:12Z",
+  "date_modified": "2016-02-28T05:11:45.195131Z",
+  "type": "010combined",
+  "sha1": "c2f04c3539792697e5e055722f8617e60d4fa05d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2159O1-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/02/13/Noonan_v._Staples_Inc..pdf",
+  "plain_text": "                United States Court of Appeals\n                                  For the First Circuit\n\nNo. 07-2159\n\n                                        ALAN S. NOONAN,\n\n                                        Plaintiff, Appellant,\n\n                                                  v.\n\n                                          STAPLES, INC.,\n\n                                        Defendant, Appellee.\n\n\n\n                                              Before\n                                              *\n                          Torruella, Wallace, and Lipez, Circuit Judges.\n\n\n                                        Order of Court\n                                   Entered: February 13, 2009\n\n\n       The petition for panel rehearing is granted. Accordingly, the panel opinion issued August\n21, 2008, is withdrawn, and the judgment of even date is vacated. A new opinion is to issue this day.\n\n\n\n                                                       By the Court:\n\n                                                       /s/ Richard Cushing Donovan, Clerk\n\n\n\n\ncc: Hon. Morris E. Lasker, Ms. Sarah Thornton, Clerk, United States District Court for the District\nof Massachusetts, Ms. Wendy Sibbison, Mr. Daniel Gelb, Mr. Richard Gelb, Ms. Ariel Cudkowicz,\nMs. Pratt, Mr. Robert Messinger, Ms. Stamenia Tzouganatos, Ms. Gail Gelb, Ms. Jennifer Serafyn,\n& Ms. Krista Pratt.\n\n\n\n       *\n           Of the Ninth Circuit, sitting by designation.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203660/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203732/"
+  ]
+}

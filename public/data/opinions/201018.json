@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201018/",
+  "absolute_url": "/opinion/201018/greenland-school-v-amy-n/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201018/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:05:53Z",
+  "date_modified": "2016-02-28T05:04:24.779556Z",
+  "type": "010combined",
+  "sha1": "b9ae6f06f42282d6ef97579c113d87bb87bb2aba",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1668ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/14/Greenland_School_v._Amy_N..pdf",
+  "plain_text": "           United States Court of Appeals\n                       For the First Circuit\n\n\nNo.   03-1668\n      03-1697\n\n\n                     GREENLAND SCHOOL DISTRICT,\n                Plaintiff-Appellee, Cross-Appellant,\n\n                                 v.\n\n  AMY N., as parent and next friend of minor daughter, KATIE C.;\nROBERT N., as parent and next friend of minor daughter, KATIE C.,\n              Defendants-Appellants, Cross-Appellees.\n\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on February 23, 2004 is\namended as follows:\n\n     Page 1, change \"Appellee, Cross-Appellant,\" to Plaintiff-\nAppellee, Cross-Appellant,\"   and \"Appellants, Cross-Appellees.\"\nto \"Defendants-Appellants, Cross-Appellees.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

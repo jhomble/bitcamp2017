@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203368/",
+  "absolute_url": "/opinion/203368/united-states-v-skerret-ortega/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203368/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:15:12Z",
+  "date_modified": "2016-02-28T05:10:38.407673Z",
+  "type": "010combined",
+  "sha1": "de93779e2b155ec44a05dad379d826b1bf0f6037",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1126ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/07/07/US_v._Skerret-Ortega.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 06-1126\n\n                    UNITED STATES OF AMERICA,\n\n                             Appellee,\n\n                                v.\n\n                       JOSÉ SKERRET-ORTEGA,\n\n                      Defendant, Appellant.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on June 13, 2008, is amended\nas follows:\n\n\n     On page 10, lines 16-17:     Insert a comma after \"that\" and\nbefore \"under\"; and insert the word \"it\" after \"circumstances,\" and\nbefore \"may.\"\n\n     On page 13, line 6:   Delete the word \"of.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

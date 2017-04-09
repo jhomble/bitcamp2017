@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201192/",
+  "absolute_url": "/opinion/201192/providence-journal-v/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201192/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:09:43Z",
+  "date_modified": "2016-02-28T05:04:53.493053Z",
+  "type": "010combined",
+  "sha1": "01ba3f0a1a92cf6b8d8187a07c7b977779f48c44",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2158ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/13/Providence_Journal_v..pdf",
+  "plain_text": "      United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 02-2158\n     02-2159\n     02-2165\n     02-2166\n     02-2188\n\n                   UNITED STATES OF AMERICA,\n                           Appellee,\n\n                               v.\n\n         VINCENT A. CIANCI, JR., FRANK E. CORRENTE, and\n                       RICHARD E. AUTIELLO,\n                     Defendants, Appellants.\n\n\n                             ERRATA\n\n     The opinion of the court issued on August 10, 2004, is\namended as follows:\n\n     On the cover sheet replace \"02-2188\" with \"02-2288\"\n\n     On page 10 line 17 replace \"defendants\" with \"defendant\"\n\n     On page 18 line 16 replace \"ontinuing\" with \"continuing\"\n\n     On page 30 line 20 delete \"and\"\n\n     On page 43 line 20 between delete \"and\" between \"in and\n     1998\"\n\n     On page 64 line 6 replace \"of\" with \"or\"\n\n     On page 64 line 8 delete \"of any such transcript\"\n\n     On page line 11 replace \"Ths\" with \"This\"\n\n     On page 77 renumber footnote 17 number 1\n\n     On page 78 renumber footnote 18 number 2\n\fOn page 79 renumber footnote 19 number 3\n\nOn page 80 renumber footnote 20 number 4\n\nOn page 81 renumber footnote 21 number 5\n\nOn page 82 renumber footnote 22 number 6\n\nOn page 84 renumber footnote 23 number 7\n\nOn page 85 renumber footnote 24 number 8\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

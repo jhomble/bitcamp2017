@@ -1,0 +1,28 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202828/",
+  "absolute_url": "/opinion/202828/mewengkang-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202828/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:44Z",
+  "date_modified": "2016-02-28T05:09:03.348220Z",
+  "type": "010combined",
+  "sha1": "0193467819ecbe262ebcac2f55969c3d6df76a78",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1976ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/29/Mewengkang_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo. 06-1976\n\n                     JOHNNY FRITS MEWENGKANG,\n\n                           Petitioner,\n\n                                v.\n\n                       ALBERTO R. GONZÁLES,\n              Attorney General of the United States,\n\n                           Respondent.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on May 25, 2007, is amended\nas follows:\n\n     On page 6, line 12, \"asylum\" should be replaced with\n     \"withholding\".\n\n     On page 6, line 14, \"asylum\" should be replaced with\n     \"withholding.\"\n\n     On page 7, line 9, \"and withholding\" should be inserted\n     after \"asylum.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/175121/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202784/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203013/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203117/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203120/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203218/"
+  ]
+}

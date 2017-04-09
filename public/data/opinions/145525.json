@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145525/",
+  "absolute_url": "/opinion/145525/united-states-v-william/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145525/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-04T20:09:51Z",
+  "date_modified": "2016-02-28T03:33:33.130334Z",
+  "type": "010combined",
+  "sha1": "6a5b4eb7b6b7ffcf75ab29e44be9c3923f4d778e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2303E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/27/US_v._William.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\nNo. 08-2303\n\n                      UNITED STATES OF AMERICA,\n\n                        Plaintiff, Appellee,\n\n                                 v.\n\n                           MOISE WILLIAM,\n\n                        Defendant, Appellant.\n\n\n                               ERRATA\n\n     The opinion of this Court, issued on April 22, 2010, should be\n\namended as follows.\n\n     On page 9, line 13, \"42 U.S.C.\" should be \"21 U.S.C.\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

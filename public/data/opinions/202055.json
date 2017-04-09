@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202055/",
+  "absolute_url": "/opinion/202055/naughton-reynolds-v-norwegian-cruise/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202055/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:43:39Z",
+  "date_modified": "2016-02-28T05:07:04.183676Z",
+  "type": "010combined",
+  "sha1": "182eb9940394c34967e940cfe3bf4611f54f6ce6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1183ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/02/10/Naughton-Reynolds_v._Norwegian_Cruise.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 04-1183\n\n                    LINDA REYNOLDS-NAUGHTON,\n\n                      Plaintiff, Appellant,\n\n                                  v.\n\n                 NORWEGIAN CRUISE LINE LIMITED,\n                  d/b/a NORWEGIAN CRUISE LINE,\n\n                      Defendant, Appellee.\n\n\n                                ERRATA\n\n\n     The opinion of this Court, issued on September 14, 2004,\n\nshould be amended as follows.\n\n     On page 7, line 7 of full paragraph, replace \"Rep.\" with\n\n\"Sen.\".\n\n     On page 8, 1st line after indented quote, replace \"Rep.\" with\n\n\"Sen.\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

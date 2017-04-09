@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/233927/",
+  "absolute_url": "/opinion/233927/arthur-t-wasserman-trustee-v-benjamin-seigel/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/233927/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:52Z",
+  "date_modified": "2016-02-28T05:50:46.680346Z",
+  "type": "010combined",
+  "sha1": "84613a2d66032536d825f40bb97dc1ef1efdea24",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/212/212.F2d.438.4811_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">212 F.2d 438</p>\n    <p class=\"parties\">Arthur T. WASSERMAN, Trustee<br>v.<br>Benjamin SEIGEL.</p>\n    <p class=\"docket\">No. 4811.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">May 12, 1954</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Jr., District Judge.</p>\n      <p class=\"indent\">Maurice M. Isen, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">David Lasker, Boston, Mass., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">212</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">438</span></span></p>\n    <p class=\"parties\">Arthur T. WASSERMAN, Trustee<br>v.<br>Benjamin SEIGEL.</p>\n    <p class=\"docket\">No. 4811.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">May 12, 1954</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Jr., District Judge.</p>\n      <p class=\"indent\">Maurice M. Isen, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">David Lasker, Boston, Mass., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/236836/",
+  "absolute_url": "/opinion/236836/claremont-waste-mfg-co-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/236836/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:31:38Z",
+  "date_modified": "2016-02-28T05:52:57.421020Z",
+  "type": "010combined",
+  "sha1": "b0f907fc9d892bb2fb38ec6dfad7b65ea029bf98",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/222/222.F2d.959.4628.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">222 F.2d 959</p>\n    <p class=\"case_cite\">52-2 USTC  P 9429</p>\n    <p class=\"parties\">CLAREMONT WASTE MFG. CO.<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\n    <p class=\"docket\">No. 4628</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">May 7, 1952.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of respondent's memorandum confessing error in the instant review, It is ordered that the order of the Tax Court be, and the same hereby is, vacated, and the cause is remanded to that court for further proceedings.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">222</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">959</span></span></p>\n    <p class=\"case_cite\">52-2 USTC  P 9429</p>\n    <p class=\"parties\">CLAREMONT WASTE MFG. CO.<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\n    <p class=\"docket\">No. 4628</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">May 7, 1952.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of respondent's memorandum confessing error in the instant review, It is ordered that the order of the Tax Court be, and the same hereby is, vacated, and the cause is remanded to that court for further proceedings.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

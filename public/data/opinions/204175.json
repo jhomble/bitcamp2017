@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204175/",
+  "absolute_url": "/opinion/204175/united-states-v-dowdell/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204175/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:31:43Z",
+  "date_modified": "2016-02-28T05:13:04.578180Z",
+  "type": "010combined",
+  "sha1": "3283ac18cb0f7f117e5b770b97d83e772ef59c62",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1855E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/02/22/US_v._Dowdell.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-1855\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                         DARRYL DOWDELL,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on February 12, 2010 is\namended as follows:\n\n     On page 51, line 11, change \"547\" to \"548\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

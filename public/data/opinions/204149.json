@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204149/",
+  "absolute_url": "/opinion/204149/united-states-v-carta/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204149/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:57Z",
+  "date_modified": "2016-02-28T05:12:57.283156Z",
+  "type": "010combined",
+  "sha1": "90ec4ccbf9978180bc49f7115b8402bd3b444933",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1949E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/01/22/US_v._Carta.pdf",
+  "plain_text": "           United States Court of Appeals\n                         For the First Circuit\n\nNos. 09-1949, 09-2005\n\n                        UNITED STATES OF AMERICA,\n\n               Petitioner, Appellant/Cross-Appellee,\n\n                                   v.\n\n                               TODD CARTA,\n\n               Respondent, Appellee/Cross-Appellant.\n\n\n                                 ERRATA\n\n     The opinion of this Court, issued on January 15, 2010, should be\namended as follows.\n\n     On page 2, line 6 of 3rd paragraph, replace \"interest the\nprogram's\" with \"interest in the program's\".\n\n     On page 10, line 4 of footnote 3, insert \"No. 07-12056,\" between\n\"Shields,\" and \"2008 WL\".\n\n     On page 15, line 1 of 2nd full paragraph, delete the comma after\n\"2010 WL 46968\".\n\n     On page 17, 2nd line from top of page, replace \"Eng.\" with\n\"England\".\n\n     On page 17, 3rd line of 1st full paragraph, replace \"Pa.\" with\n\"Pennsylvania\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/148501/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/223603/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/620509/"
+  ]
+}

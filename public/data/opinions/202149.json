@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202149/",
+  "absolute_url": "/opinion/202149/rivera-garcia-v-sistema-universitari/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202149/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:45:49Z",
+  "date_modified": "2016-02-28T05:07:20.330868Z",
+  "type": "010combined",
+  "sha1": "5c3ecd93014155b95aceb02a473a0257a19fb98b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1659ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/04/12/Rivera-Garcia_v._Sistema_Universitari.pdf",
+  "plain_text": "      United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 05-1659\n\n              HÉCTOR A. RIVERA-GARCÍA; DELMA QUIÑONES;\n                CONJUGAL PARTNERSHIP RIVERA-QUIÑONES,\n\n                      Plaintiffs, Appellants,\n\n                                 v.\n\n               SISTEMA UNIVERSITARIO ANA G. MÉNDEZ;\n                  COLEGIO UNIVERSITARIO DEL ESTE;\n          ALBERTO MALDONADO, in his official capacity as\n        Chancellor of the Colegio Universitario del Este,\n\n                       Defendants, Appellees.\n\n\n\n                               ERRATA\n\n          The opinion of this court, issued March 22, 2006,\nshould be amended as follows:\n\n\npage 2, line 1:   replace \"PER CURIAM\" with \"LYNCH, Circuit Judge\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

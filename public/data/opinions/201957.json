@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201957/",
+  "absolute_url": "/opinion/201957/federal-insurance-co-v-raytheon-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201957/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:38Z",
+  "date_modified": "2016-02-28T05:06:48.618120Z",
+  "type": "010combined",
+  "sha1": "57171a7688953101387ad56eb6e3101229bf1854",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1086ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/12/Federal_Insurance_Co_v._Raytheon_Company.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-1086\n\n                   FEDERAL INSURANCE COMPANY;\n                AXIS SURPLUS INSURANCE COMPANY,\n\n                     Plaintiffs, Appellees;\n\n                               v.\n\n                        RAYTHEON COMPANY\n\n                      Defendant, Appellant.\n\n\n\n                             ERRATA\n\n     The opinion of this Court issued on October 21, 2005, is\namended as follows:\n\n     On page 25, footnote number 10, line 2, replace \"Fed. R. Civ.\nP. 12©\" with \"Fed. R. Civ. P. 12(b)(6)\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

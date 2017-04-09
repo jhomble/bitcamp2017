@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202478/",
+  "absolute_url": "/opinion/202478/rio-grande-community-v-commonwealth-of-pr/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202478/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:53:57Z",
+  "date_modified": "2016-02-28T05:08:04.765952Z",
+  "type": "010combined",
+  "sha1": "6d4e119abf0d1246db75b66e9b110e5d18238cab",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2854ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/10/31/Rio_Grande_Community_v._Commonwealth_of_PR.pdf",
+  "plain_text": "            United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 05-2854\n\n                     DR. JOSÉ S. BELAVAL, INC.,\n\n                        Plaintiff/Appellant,\n\n   RIO GRANDE COMMUNITY HEALTH CENTER, INC.; CONCILIO DE SALUD\n                     INTEGRAL DE LOIZA, INC.,\n\n                             Plaintiffs,\n\n                                 v.\n\n HON. ROSA PERÉZ-PERDOMO, Secretary, Department of Health of the\n                   Commonwealth of Puerto Rico,\n\n                         Defendant/Appellee,\n\n COMMONWEALTH OF PUERTO RICO; UNITED STATES DEPARTMENT OF HEALTH\nAND HUMAN SERVICES; MICHAEL O. LEAVITT, Secretary, United States\n             Department of Health and Human Services,\n\n                             Defendants.\n\n\n                            ERRATA SHEET\n\n     The opinion of this court issued on October 2, 2006 is amended\nas follows:\n\n     On page 5, line 12, replace the italicized word \"that\" with\nthe underlined word \"that\".\n\n       On page 6, line 23, replace the word \"1st\" with the numeral\n\"1\".\n\n       On page 7, line 15, replace \"1292(a)\" with \"1292(a)(1)\".\n\n       On page 7, line 19, replace \"1292(a)\" with \"1292(a)(1)\".\n\n     On page 9, line 10, delete one of the two spaces between \"884-\n85\" and \"(10th Cir. 1968)\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

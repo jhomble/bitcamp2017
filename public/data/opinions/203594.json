@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203594/",
+  "absolute_url": "/opinion/203594/estate-of-bennett-v-wainwright/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203594/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:19:57Z",
+  "date_modified": "2016-02-28T05:11:28.429657Z",
+  "type": "010combined",
+  "sha1": "b64d8efb4bec12dd08475946f07a50cf84a7bc45",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2169E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/12/17/Est._of_D._Bennett_v._Wainwright.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 07-2169\n\n                  ESTATE OF DANIEL BENNETT, II,\n         ARLENE BEDARD, ISABEL BEDARD, and LAURIE HART,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n     CHRISTOPHER WAINWRIGHT, MATTHEW BAKER, TIMOTHY TURNER,\n          JAMES MICLON, JAMES DAVIS, LLOYD HERRICK, and\n                     COUNTY OF OXFORD, MAINE,\n\n                     Defendants, Appellees.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on November 26, 2008, is\namended as follows:\n\n     On p. 24, line 5 of the block quote: Replace \"plaintiffs ...\"\nwith \"plaintiffs' ...\".\n\n     On p. 28, lines 9-10: Replace \"Wainwright and Bennett\" with\n\"Wainwright and Turner\".\n\n     On p. 30, line 13: Delete the \"a\" between the words \"to have\"\nand \"had\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

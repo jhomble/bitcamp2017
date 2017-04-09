@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201995/",
+  "absolute_url": "/opinion/201995/whitfield-v-melendez-rivera/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201995/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:42:24Z",
+  "date_modified": "2016-02-28T05:06:54.640600Z",
+  "type": "010combined",
+  "sha1": "d8ca191762dbec6591c6ab9cfeead7ef91df739b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1217ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/01/04/Whitfield_v._Melendez-Rivera.pdf",
+  "plain_text": "               United States Court of Appeals\n                          For the First Circuit\n\nNo. 04-1217\n\n          JUSTIN LEE WHITFIELD; TERRY WHITFIELD; GAIL WHITFIELD,\n\n                              Plaintiffs, Appellees,\n\n                                        v.\n\n               ANIBAL MELÉNDEZ-RIVERA; ISMAEL ÁLVAREZ-MONGE;\n                           MARIA L. LEBRÓN-RAMOS,\n\n                             Defendants, Appellants,\n\n              MUNICIPALITY OF FAJARDO; WILLIAM MANGOMÉ-ROLDÁN\n\n                                  Defendants.\n\n\nNo. 04-1218\n\n          JUSTIN LEE WHITFIELD; TERRY WHITFIELD; GAIL WHITFIELD,\n\n                              Plaintiffs, Appellees,\n\n                                        v.\n\n                          MUNICIPALITY OF FAJARDO\n\n                              Defendant, Appellant,\n\n              ANIBAL MELÉNDEZ-RIVERA; ISMAEL ÁLVAREZ-MONGE;\n              MARIA L. LEBRÓN-RAMOS; WILLIAM MANGOMÉ-ROLDÁN\n\n                                  Defendants.\n\fNo. 04-1219\n\n           JUSTIN LEE WHITFIELD; TERRY WHITFIELD; GAIL WHITFIELD,\n\n                                      Plaintiffs, Appellees,\n\n                                                v.\n\n              MUNICIPALITY OF FAJARDO; ANIBAL MELÉNDEZ-RIVERA;\n               ISMAEL ÁLVAREZ-MONGE; MARIA L. LEBRÓN-RAMOS\n\n                                           Defendants,\n\n                              WILLIAM MANGOMÉ-ROLDÁN,\n\n                                     Defendant, Appellant.\n\n\n\n                                       ERRATA SHEET\n\n\n      The opinion of this court issued December 6, 2005, should be amended as follows:\n\n      On page 3, lines 13 and 14, after \"reverse in part,\" insert \"vacate in part,\"\n\n      On page 15, line 9 replace \"noncancerous\" with \"nondangerous\"\n\n      On page 40, line 3, replace \"vacate\" with \"reverse\"\n\n      On page 40, line 4, replace \"vacate\" with \"reverse\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/202046/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202050/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202865/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204113/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/217243/"
+  ]
+}

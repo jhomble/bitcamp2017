@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/236180/",
+  "absolute_url": "/opinion/236180/feener-business-schools-inc-v-school-of-speedwriti/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/236180/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:31:27Z",
+  "date_modified": "2016-02-28T05:52:29.227193Z",
+  "type": "010combined",
+  "sha1": "7f828eb57bd1e868db89542b3c7c1a34d9e0d525",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/220/220.F2d.747.4900.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">220 F.2d 747</p>\n    <p class=\"parties\">FEENER BUSINESS SCHOOLS, Inc., Defendant-Appellant,<br>v.<br>SCHOOL OF SPEEDWRITING, Inc., Plaintiff-Appellee.</p>\n    <p class=\"docket\">No. 4900.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">April 18, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carleton L. Feener, Boston, Mass., as attorney-in-fact for appellant.</p>\n      <p class=\"indent\">Samuel P. Sears, Boston, Mass., with whom Brickley, Sears &amp; Cole, and Lawrence R. Cohen, Boston, Mass., were on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The final decree of the District Court and order of that Court denying motion for rehearing are affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">220</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">747</span></span></p>\n    <p class=\"parties\">FEENER BUSINESS SCHOOLS, Inc., Defendant-Appellant,<br>v.<br>SCHOOL OF SPEEDWRITING, Inc., Plaintiff-Appellee.</p>\n    <p class=\"docket\">No. 4900.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">April 18, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carleton L. Feener, Boston, Mass., as attorney-in-fact for appellant.</p>\n      <p class=\"indent\">Samuel P. Sears, Boston, Mass., with whom Brickley, Sears &amp; Cole, and Lawrence R. Cohen, Boston, Mass., were on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The final decree of the District Court and order of that Court denying motion for rehearing are affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/243484/",
+  "absolute_url": "/opinion/243484/boston-development-corporation-v-state-realty-co-o/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/243484/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:33:23Z",
+  "date_modified": "2016-02-28T05:58:44.268081Z",
+  "type": "010combined",
+  "sha1": "dc175eaa633f152e4bb848f7ed900e83b2542081",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/249/249.F2d.442.5286.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">249 F.2d 442</p>\n    <p class=\"parties\">BOSTON DEVELOPMENT CORPORATION, Petitioner, Appellant,<br>v.<br>STATE REALTY CO. OF BOSTON, Inc., Respondent, Appellee.</p>\n    <p class=\"docket\">No. 5286.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">November 22, 1957.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeals from the United States District Court for the District of Massachusetts; Francis J. W. Ford, Judge.</p>\n      <p class=\"indent\">Angus M. MacNeil, Somerville, Mass., for appellant.</p>\n      <p class=\"indent\">Phillip Cowin, Boston, Mass., with whom Sidney J. Kagan, Boston, Mass., was on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The orders of the district court are affirmed on Judge Ford's Memorandum of Decision dated May 23, 1957 In re petition for review of referee's order. In re State Realty Co., D.C., 152 F.Supp. 774.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">249</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">442</span></span></p>\n    <p class=\"parties\">BOSTON DEVELOPMENT CORPORATION, Petitioner, Appellant,<br>v.<br>STATE REALTY CO. OF BOSTON, Inc., Respondent, Appellee.</p>\n    <p class=\"docket\">No. 5286.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">November 22, 1957.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeals from the United States District Court for the District of Massachusetts; Francis J. W. Ford, Judge.</p>\n      <p class=\"indent\">Angus M. MacNeil, Somerville, Mass., for appellant.</p>\n      <p class=\"indent\">Phillip Cowin, Boston, Mass., with whom Sidney J. Kagan, Boston, Mass., was on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The orders of the district court are affirmed on Judge Ford's Memorandum of Decision dated May 23, 1957 In re petition for review of referee's order. In re State Realty Co., D.C., 152 F.Supp. 774.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203008/",
+  "absolute_url": "/opinion/203008/united-states-v-cirilo-munoz/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203008/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:06:47Z",
+  "date_modified": "2016-02-28T05:09:42.464875Z",
+  "type": "010combined",
+  "sha1": "8e049c6156d0f7d9865056dcd5064aa273c8723c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2469ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/11/03/US_v._Cirilo-Munoz.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 05-2469\n\n                          UNITED STATES,\n\n                            Appellee,\n\n                                v.\n\n               ERNESTO CIRILO-MUÑOZ, a/k/a Nesty,\n\n                      Defendant, Appellant.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on October 2, 2007, is\namended as follows:\n\n     On p.17, line 4, \"baby boy\" should be \"baby girl.\"\n\n     On p.18, line 22, \"this bloody clothes\" should be \"his bloody\nclothes.\"\n\n     On p.20, line 6 of footnote 18, \"Agents Medina and Page's 302\nReport\" should be \"Agents Medina and Pages' 302 Report.\"\n\n     On p.24, line 3 of footnote 35, \"of just to Saúl\" should be\n\"or just to Saúl.\"\n\n     On p.33, line 6 of footnote 61, \"Mejías and Tony in the\nSuzuki\" should be \"Mejías and Saúl in the Suzuki.\"\n\n     On p.45, line 9, \"How it can be argued\" should be \"How can it\nbe argued.\"\n\n     On p.46, line 13, \"on the ground at the results\" should be \"on\nthe ground that the results.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

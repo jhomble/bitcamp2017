@@ -1,0 +1,30 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202857/",
+  "absolute_url": "/opinion/202857/united-states-v-munoz-franco/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202857/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:03:31Z",
+  "date_modified": "2016-02-28T05:09:27.112301Z",
+  "type": "010combined",
+  "sha1": "4a8059c1d3e2cac209dcf4aa19cc9f9b60848acf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1532ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/07/27/US_v._Munoz-Franco.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 04-1532, 04-1533, 04-1534, 04-1535\n\n          LORENZO MUÑOZ-FRANCO, FRANCISCO SÁNCHEZ-ARÁN,\n   ARIEL GUTIÉRREZ-RODRÍGUEZ, and WILFREDO UMPIERRE-HERNÁNDEZ,\n\n                     Defendants, Appellants,\n\n                                v.\n\n                    UNITED STATES OF AMERICA,\n\n                       Plaintiff, Appellee.\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this court issued on May 22, 2007 is amended as\nfollows:\n\n     On page   5, line 20: replace \"Not a single house was ever\nbuilt on the project\" with \"The houses were never completed on the\nsection of the project for which the loan was issued\"\n\n     On page 44, lines 5-8: replace \"Gutiérrez and Umpierre-\nHernández were also involved in the wrongful use of funds: they\nendorsed the checks, accepted the funds, and immediately applied\nthese funds to pay down their other loans with the bank\" with \"A\njury also could infer that Gutiérrez and Umpierre-Hernández aided\nand abetted Muñoz-Franco and Sánchez-Arán in the transaction:\nUmpierre negotiated the transaction involving the sale of\nCerrovista, and the funds were used to pay down loans held by\ncompanies that Gutiérrez owned and supervised\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/2/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203458/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203647/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203661/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/217058/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/218749/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220729/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/614777/"
+  ]
+}

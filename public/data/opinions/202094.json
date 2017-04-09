@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202094/",
+  "absolute_url": "/opinion/202094/villanueva-mendez-v-nieves-vazquez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202094/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:22Z",
+  "date_modified": "2016-02-28T05:07:11.536462Z",
+  "type": "010combined",
+  "sha1": "7fb63293a3d794908d9a91b6b65fc290ffdd8473",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1638ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/09/Villanueva-Mendez_v._Nieves-Vazquez.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 05-1638\n\n      ÁNGEL VILLANUEVA-MÉNDEZ; LUZ IRAIDA HERNÁNDEZ-PÉREZ;\n            CONJUGAL PARTNERSHIP VILLANUEVA-HERNÁNDEZ,\n\n                      Plaintiffs, Appellants,\n\n                                v.\n\n    RÁMON L. NIEVES-VÁZQUEZ, in his personal capacity; SAMUEL\nGONZÁLEZ, in his official capacity as Executive Director of the\nNational Parks Company; SAMUEL GONZÁLEZ, in his personal capacity\nand in his official capacity as Deputy Director of Facilities of\nthe National Parks Company; DEFENDANTS X, Y and Z,\n\n                      Defendants, Appellees.\n                             _________\n\n EDNA PÉREZ-TOLEDO, in her personal capacity and in her official\ncapacity as Assistant Superintendent of the National Parks Company;\nSONIA CANCEL, in her personal capacity and in her official capacity\nas Director of Human Resources of the National Parks Company; NILDA\nSOTOMAYOR, in her personal capacity and in her official capacity as\nDirector of Administration of the National Parks Company.\n\n                            Defendants.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on March 1, 2006, should be\n\namended as follows:\n\n     On cover page, replace listing of parties for \"Defendants,\n\nAppellees.\" with:\n\n   \"RÁMON L. NIEVES-VÁZQUEZ, in his personal capacity; SAMUEL\n GONZÁLEZ, in his personal capacity and in his official capacity\n  as Deputy Executive Director of the National Parks Company,\".\n\n     On page 9, line 10 of 1st full paragraph, replace \"1983\" with\n\"section 1983\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

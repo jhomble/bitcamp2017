@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202824/",
+  "absolute_url": "/opinion/202824/commonwealth-of-pr-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202824/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:40Z",
+  "date_modified": "2016-02-28T05:09:06.424311Z",
+  "type": "010combined",
+  "sha1": "7010fab05e6886c3b02b7c1d3bec71f35dc7f54f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2449ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/28/Commonwealth_of_PR_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 06-2449\n\n                  COMMONWEALTH OF PUERTO RICO,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n UNITED STATES OF AMERICA; ALBERTO R. GONZALES, Attorney General;\nROBERT MUELLER, Director of the FBI; ROSA EMILIA RODRIGUEZ-VÉLEZ,\n    U.S. Attorney for the District of Puerto Rico; and LUIS S.\n  FRATICELLI, Special Agent in Charge of the FBI in Puerto Rico,\n\n                     Defendants, Appellees.\n\n\n                             ERRATA\n\n     The opinion of this court issued on June 15, 2007, should be\namended as follows:\n\n     On page 49, line 4, replace \"note 16,\" with \"note 15,\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

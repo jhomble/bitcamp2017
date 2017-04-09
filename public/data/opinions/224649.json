@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/224649/",
+  "absolute_url": "/opinion/224649/samson-crane-company-v-union-national-sales-incorporated/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/224649/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:26:06Z",
+  "date_modified": "2016-02-28T05:42:25.875081Z",
+  "type": "010combined",
+  "sha1": "691254865ff591ab9aec1dea9b1746d007cc60ab",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/180/180.F2d.896.4474.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">180 F.2d 896</p>\n    <p class=\"parties\">SAMSON CRANE COMPANY, Plaintiff, Appellant,<br>v.<br>UNION NATIONAL SALES, Incorporated, et al., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 4474.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 10, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Francis J. W. Ford, Judge.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS (by special assignment) and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">Charles M. Goldman, Boston, Mass. (Slater &amp; Goldman, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">Henry E. Foley, Boston, Mass., for appellee Union National Sales, Inc.</p>\n      <p class=\"indent\">Robert M. Segal, Boston, Mass., for appellees District Lodge 38 of International Ass'n of Machinists and Paul Tobias.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed on the memorandum opinion by Ford, D. J. 87 F.Supp. 218.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">180</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">896</span></span></p>\n    <p class=\"parties\">SAMSON CRANE COMPANY, Plaintiff, Appellant,<br>v.<br>UNION NATIONAL SALES, Incorporated, et al., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 4474.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 10, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Francis J. W. Ford, Judge.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS (by special assignment) and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">Charles M. Goldman, Boston, Mass. (Slater &amp; Goldman, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">Henry E. Foley, Boston, Mass., for appellee Union National Sales, Inc.</p>\n      <p class=\"indent\">Robert M. Segal, Boston, Mass., for appellees District Lodge 38 of International Ass'n of Machinists and Paul Tobias.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed on the memorandum opinion by Ford, D. J. 87 F.Supp. 218.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

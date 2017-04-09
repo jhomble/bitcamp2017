@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204091/",
+  "absolute_url": "/opinion/204091/diffenderfer-v-gomez-colon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204091/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:29:47Z",
+  "date_modified": "2016-02-28T05:12:49.843229Z",
+  "type": "010combined",
+  "sha1": "c484ef6ea075eafe81648ac9880e8fe696a72f7c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2139E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/12/03/Diffenderfer_v._Gomez-Colon.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 08-2139, 09-1742, 09-1743\n\nSYLVIA DIFFENDERFER, on behalf of herself and as a representative\nof the class herein defined; ROBERT MCCARROLL, on behalf of himself\nand as a representative of the class herein defined,\n\n             Plaintiffs, Appellees/Cross-Appellants,\n\n                                 v.\n\nRAMON E. GOMEZ-COLON, President of the State Electoral Commission\n of Puerto Rico; WALTER VELEZ-RODRIGUEZ, Secretary of the State\n     Electoral Commission of the Commonwealth of Puerto Rico,\n\n                     Defendants, Appellants,\n\n    GERARDO CRUZ-MALDONADO, Electoral Commissioner of Popular\n Democratic Party; JUAN DALMAU-RODRIGUEZ, Electoral Commissioner\nof the Puerto Rican Independence Party; NELSON ROSARIO-RODRIGUEZ,\n   Electoral Commissioner of the Puerto Ricans for Puerto Rico\n    Party; EDWIN MUNDO-RIOS, Electoral Commissioner of the New\n                   Progressive Party; JOHN DOE,\n\n                           Defendants.\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on November 19, 2009, is\namended as follows:\n\n     On the cover sheet, Hon. José Fusté should be referred to as\n\"U.S. District Judge\" and not \"Chief Judge\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/234227/",
+  "absolute_url": "/opinion/234227/gifford-d-warner-v-zenith-steamship-corporation-cl/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/234227/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:56Z",
+  "date_modified": "2016-02-28T05:50:59.474360Z",
+  "type": "010combined",
+  "sha1": "3f1d5063db8a0240f77b6c4584e5bb4f2e684f8b",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/213/213.F2d.542.4835.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">213 F.2d 542</p>\n    <p class=\"parties\">Gifford D. WARNER, Petitioner-Appellant<br>v.<br>ZENITH STEAMSHIP CORPORATION et al., Claimants-Appellees.</p>\n    <p class=\"docket\">No. 4835.</p>\n    <p class=\"court\">United States Court of Appeals<br>First Circuit.</p>\n    <p class=\"date\">June 10, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Jr., District Judge.</p>\n      <p class=\"indent\">Gifford D. Warner, Essex, Conn., pro se.</p>\n      <p class=\"indent\">Thomas H. Walsh, Boston, Mass.  (Leo F. Glynn, Boston, Mass., and Wilbur E. Dow, Jr., New York City, on the brief), for Zenith S.S. Corp.</p>\n      <p class=\"indent\">Charles S. Bolster, Boston, Mass.  (Bingham, Dana &amp; Gould, Boston, Mass., on the brief), for Esso Standard Oil Co.</p>\n      <p class=\"indent\">Joseph F. Dolan, Boston, Mass., John C. Crawley and Ezra G. Benedict Fox, New York City, on the brief of National Bulk Carriers, Inc., amici curiae.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decree of the District Court is affirmed.  Cuttyhunk Boat Lines v. The Pendleton, 119 F.Supp. 608, 1954 A.M.C. 123.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">213</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">542</span></span></p>\n    <p class=\"parties\">Gifford D. WARNER, Petitioner-Appellant<br>v.<br>ZENITH STEAMSHIP CORPORATION et al., Claimants-Appellees.</p>\n    <p class=\"docket\">No. 4835.</p>\n    <p class=\"court\">United States Court of Appeals<br>First Circuit.</p>\n    <p class=\"date\">June 10, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Jr., District Judge.</p>\n      <p class=\"indent\">Gifford D. Warner, Essex, Conn., pro se.</p>\n      <p class=\"indent\">Thomas H. Walsh, Boston, Mass.  (Leo F. Glynn, Boston, Mass., and Wilbur E. Dow, Jr., New York City, on the brief), for Zenith S.S. Corp.</p>\n      <p class=\"indent\">Charles S. Bolster, Boston, Mass.  (Bingham, Dana &amp; Gould, Boston, Mass., on the brief), for Esso Standard Oil Co.</p>\n      <p class=\"indent\">Joseph F. Dolan, Boston, Mass., John C. Crawley and Ezra G. Benedict Fox, New York City, on the brief of National Bulk Carriers, Inc., amici curiae.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decree of the District Court is affirmed.  Cuttyhunk Boat Lines v. The Pendleton, <span class=\"citation no-link\"><span class=\"volume\">119</span> <span class=\"reporter\">F. Supp.</span> <span class=\"page\">608</span></span>, 1954 A.M.C. 123.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

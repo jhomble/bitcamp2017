@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203548/",
+  "absolute_url": "/opinion/203548/united-states-v-giambro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203548/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:58Z",
+  "date_modified": "2016-02-28T05:11:15.808810Z",
+  "type": "010combined",
+  "sha1": "d0d22c7ab073cfcb65e07916c809bfc0aa45d1d4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1044E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/29/US_v._Giambro.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 08-1044\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                         DARIO GIAMBRO,\n\n                      Defendant, Appellant.\n\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 2, 2008, is\ncorrected as follows:\n\n     On page 8, line 16, replace \"Sypher\" with \"Syphers.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

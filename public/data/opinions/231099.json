@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/231099/",
+  "absolute_url": "/opinion/231099/american-railroad-company-of-porto-rico-v-daniel-vallejo/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/231099/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:03Z",
+  "date_modified": "2016-02-28T05:48:27.529684Z",
+  "type": "010combined",
+  "sha1": "9e00c7ad0ba1b9cb0c2058559c4910d0f650cf2f",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/202/202.F2d.149.4675_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">202 F.2d 149</p>\n    <p class=\"parties\">AMERICAN RAILROAD COMPANY OF PORTO RICO et al., defendants, appellants,<br>v.<br>Daniel VALLEJO et al., claimants, appellees.</p>\n    <p class=\"docket\">No. 4675.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">February 20, 1953.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Puerto Rico; Snyder, Acting Judge.</p>\n      <p class=\"indent\">See also 1 Cir., 188 F.2d 513.</p>\n      <p class=\"indent\">Luis E. Dubon, San Juan, Puerto Rico, for appellants.</p>\n      <p class=\"indent\">Mariano Acosta Velarde and Daniel Pellon Lafuente, San Juan, Puerto Rico, for appellees.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed on the opinion by Acting District Judge Snyder. 110 F.Supp. 45.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">202</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">149</span></span></p>\n    <p class=\"parties\">AMERICAN RAILROAD COMPANY OF PORTO RICO et al., defendants, appellants,<br>v.<br>Daniel VALLEJO et al., claimants, appellees.</p>\n    <p class=\"docket\">No. 4675.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">February 20, 1953.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Puerto Rico; Snyder, Acting Judge.</p>\n      <p class=\"indent\">See also 1 Cir., 188 F.2d 513.</p>\n      <p class=\"indent\">Luis E. Dubon, San Juan, Puerto Rico, for appellants.</p>\n      <p class=\"indent\">Mariano Acosta Velarde and Daniel Pellon Lafuente, San Juan, Puerto Rico, for appellees.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed on the opinion by Acting District Judge Snyder. 110 F.Supp. 45.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,29 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204080/",
+  "absolute_url": "/opinion/204080/diffenderfer-v-gomez-colon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204080/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:29:39Z",
+  "date_modified": "2016-02-28T05:12:48.603532Z",
+  "type": "010combined",
+  "sha1": "ec408d381a443d26e0596e78e5738defcc3d029e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2139E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/11/23/Diffenderfer_v._Gomez-Colon.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 08-2139, 09-1742, 09-1743\n\nSYLVIA DIFFENDERFER, on behalf of herself and as a representative\nof the class herein defined; ROBERT MCCARROLL, on behalf of himself\nand as a representative of the class herein defined,\n\n             Plaintiffs, Appellees/Cross-Appellants,\n\n                                 v.\n\nRAMON E. GOMEZ-COLON, President of the State Electoral Commission\n of Puerto Rico; WALTER VELEZ-RODRIGUEZ, Secretary of the State\n     Electoral Commission of the Commonwealth of Puerto Rico,\n\n                     Defendants, Appellants,\n\n    GERARDO CRUZ-MALDONADO, Electoral Commissioner of Popular\n Democratic Party; JUAN DALMAU-RODRIGUEZ, Electoral Commissioner\nof the Puerto Rican Independence Party; NELSON ROSARIO-RODRIGUEZ,\n   Electoral Commissioner of the Puerto Ricans for Puerto Rico\n    Party; EDWIN MUNDO-RIOS, Electoral Commissioner of the New\n                   Progressive Party; JOHN DOE,\n\n                           Defendants.\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on November 19, 2009, is\namended as follows:\n\n     On page 10, line 13, the phrase \"attorney's fees does not\ncreate a stake in the outcome sufficient\" should not be\nunderlined.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/149874/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/149936/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/173758/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/213296/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220364/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/222780/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/223662/"
+  ]
+}

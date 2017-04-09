@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201162/",
+  "absolute_url": "/opinion/201162/beacon-mutual-v-onebeacon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201162/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:08:49Z",
+  "date_modified": "2016-02-28T05:04:44.664606Z",
+  "type": "010combined",
+  "sha1": "7d607bd65d2a401266d1b20318d803bdc0a5b4a6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2671ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/29/Beacon_Mutual_v._Onebeacon.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-2671\n\n              THE BEACON MUTUAL INSURANCE COMPANY,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                   ONEBEACON INSURANCE GROUP,\n\n                      Defendant, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on July 12, 2004 is amended\nas follows:\n\n     In the sentence from page 20, line 24 to page 21, line 1,\nreplace \"Lynch's affidavit (which has not been controverted)\"\nwith \"the Confusion Matrix (the accuracy of which has not been\nchallenged)\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}
