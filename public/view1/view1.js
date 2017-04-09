@@ -22,7 +22,9 @@ angular.module('myApp.view1', ['ngRoute'])
     $scope.firstName = ""
     $scope.lastName = ""
     $scope.flag = false; 
-
+    $scope.nlpText = ""
+    $scope.nlpFlag = false;
+    $scope.nlpDatas = [];
     var loadMap = function () {
       $.ajax({
         async: false,
@@ -39,6 +41,11 @@ angular.module('myApp.view1', ['ngRoute'])
           secMap = json
         }
       });
+    }
+
+    $scope.runNLP = function(){
+      $scope.nlpFlag = true;
+      $scope.nlpDatas = [];
     }
 
     loadMap();
