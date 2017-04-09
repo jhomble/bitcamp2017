@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203683/",
+  "absolute_url": "/opinion/203683/mass-eye-and-ear-infirmary-v-qlt-phototherap/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203683/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:28Z",
+  "date_modified": "2016-02-28T05:11:45.216173Z",
+  "type": "010combined",
+  "sha1": "f6aefa0da543348a42d479652e9683184877ef0d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2615E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/02/23/MA_Eye__Ear_v._QLT_Phototherapeutic.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 07-2615, 07-2616\n\n              MASSACHUSETTS EYE AND EAR INFIRMARY,\n\n   Plaintiff/Counterclaim Defendant-Appellee/Cross-Appellant,\n\n                                  v.\n\n                     QLT PHOTOTHERAPEUTICS, INC.,\n\n                              Defendant.\n\n\n                              QLT, INC.,\n\n        Counterclaim Plaintiff, Appellant/Cross-Appellee,\n\n                                  v.\n\n               MASSACHUSETTS EYE AND EAR INFIRMARY;\n       EVANGELOS S. GRAGOUDAS, M.D.; JOAN W. MILLER, M.D.,\n\n      Counterclaim Defendants, Appellees/Cross-Appellants.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on January 12, 2009 is\namended as follows:\n\nOn p. 9, line 17:    the \"a\" between \"with\" and some\" should be\ndeleted.\n\nOn p. 55, line 16:    insert the word \"is\" between \"motion\" and \"to\ndispose.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

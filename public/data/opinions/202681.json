@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202681/",
+  "absolute_url": "/opinion/202681/united-states-v-tobin/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202681/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:59:26Z",
+  "date_modified": "2016-02-28T05:08:29.173088Z",
+  "type": "010combined",
+  "sha1": "b72adb4b43b1e1c8fb38572df1772fdcc22afd61",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1883ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/03/28/US_v._Tobin.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 06-1883\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                           JAMES TOBIN,\n\n                      Defendant, Appellant.\n\n\n\n\n                              ERRATA\n\n\n\n     The opinion of this court issued March 21, 2007, is amended as\nfollows:\n\n     On page 14, note 6, line 3, omit the comma after \"1990))\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203613/"
+  ]
+}

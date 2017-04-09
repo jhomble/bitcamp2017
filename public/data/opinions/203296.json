@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203296/",
+  "absolute_url": "/opinion/203296/davignon-v-hodgson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203296/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:13:11Z",
+  "date_modified": "2016-02-28T05:10:32.397011Z",
+  "type": "010combined",
+  "sha1": "7c67e7e2e1f9f3b9ef65afa7830ce331a879f36f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1191ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/05/20/Davignon_v._Hodgson.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 06-1191\n\n          DAVID DAVIGNON, DAVID GOUVEIA, DAVID MILLER,\n              EDWARD MORIS, JR., and THOMAS PRESBY,\n\n                      Plaintiffs, Appellees,\n\n                                v.\n\n              THOMAS M. HODGSON, Individually and as\n                      Bristol County Sheriff,\n\n                      Defendant, Appellant.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on April 24, 2008 is\namended as follows:\n\n     Page 14, lines 11-12: the citation to Mt. Healthy City Sch.\nDist. Bd. of Educ. v. Doyle, 429 U.S. 274, 281-282 (1977) is\ndeleted.\n\n     Page 28, line 11: the following sentence is inserted as\npart of the quoted language, following 'decision.': \"Of course,\nthe employer must have the opportunity to prove that it would\nhave made the same decision regardless of the protected\nexpression.\"\n\n     Page 28, line 15: \"thus\" is inserted between 'is' and\n'ordinarily'.\n\n     Page 29, line 8: The citation to Id. is amended to read\n\"Curran, 509 F.3d at 45; O'Connor, 994 F.2d at 913.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 06-1191\n\n          DAVID DAVIGNON, DAVID GOUVEIA, DAVID MILLER,\n              EDWARD MORIS, JR., and THOMAS PRESBY,\n\n                      Plaintiffs, Appellees,\n\n                                v.\n\n              THOMAS M. HODGSON, Individually and as\n                      Bristol County Sheriff,\n\n                      Defendant, Appellant.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on April 24, 2008 is\namended as follows:\n\n     Page 14, lines 11-12: the citation to Mt. Healthy City Sch.\nDist. Bd. of Educ. v. Doyle, </pre><span class=\"citation\" data-id=\"109574\"><a href=\"/opinion/109574/mt-healthy-city-bd-of-ed-v-doyle/\"><span class=\"volume\">429</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">274</span></a></span><pre class=\"inline\">, 281-282 (1977) is\ndeleted.\n\n     Page 28, line 11: the following sentence is inserted as\npart of the quoted language, following 'decision.': \"Of course,\nthe employer must have the opportunity to prove that it would\nhave made the same decision regardless of the protected\nexpression.\"\n\n     Page 28, line 15: \"thus\" is inserted between 'is' and\n'ordinarily'.\n\n     Page 29, line 8: The citation to Id. is amended to read\n\"Curran, 509 F.3d at 45; O'Connor, 994 F.2d at 913.\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/109574/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201952/",
+  "absolute_url": "/opinion/201952/united-states-v-rondeau/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201952/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:34Z",
+  "date_modified": "2016-02-28T05:06:47.878538Z",
+  "type": "010combined",
+  "sha1": "a01cb670369097e674d9665b11ab259280c93781",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1054ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/07/US_v._Rondeau.pdf",
+  "plain_text": "              United States Court of Appeals\n                              For the First Circuit\n\n\nNo. 05-1054\n\n                             UNITED STATES OF AMERICA,\n\n                                          Appellee,\n\n                                              v.\n\n                                    COREY RONDEAU,\n\n                                    Defendant, Appellant.\n\n\n\n                                          ERRATA\n\n      The opinion of this court issued on November 23, 2005, is amended as follows:\n\n      On page 4, line 19, insert the word \"as\" between\"the Colt\" and \"the gun\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

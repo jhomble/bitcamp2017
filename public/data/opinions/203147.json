@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203147/",
+  "absolute_url": "/opinion/203147/parker-v-town-of-lexington/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203147/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:09:34Z",
+  "date_modified": "2016-02-28T05:10:03.352818Z",
+  "type": "010combined",
+  "sha1": "8bbf361c6f3262ad8485747e01317553089c1560",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1528ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/02/12/Parker_v._Town_of_Lexington.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 07-1528\n\n DAVID PARKER; TONIA PARKER; JOSHUA PARKER; JACOB PARKER; JOSEPH\n  ROBERT WIRTHLIN; ROBIN WIRTHLIN; JOSEPH ROBERT WIRTHLIN, JR.,\n\n                      Plaintiffs, Appellants,\n\n                                   v.\n\n WILLIAM HURLEY; PAUL B. ASH; HELEN LUTTON; THOMAS R. DIAZ; OLGA\n    GUTTAG; SCOTT BURSON; ANDRE RAVENELLE; JONI JAY; JENNIFER\n   WOLFRUM; HEATHER KRAMER; TOWN OF LEXINGTON; THOMAS GRIFFITH,\n\n                      Defendants, Appellees.\n\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on January 31, 2008 is\ncorrected as follows:\n\n     On the coversheet replace \"John K. Davis with whom Pierce,\nDavis & Perritano, LLP, was on brief for appellees.\" with \"John J.\nDavis with whom Pierce, Davis & Perritano, LLP, was on brief for\nappellees.\"\n\n     On page 3, line 7, replace \"asserted\" with \"assert.\"\n\n     On page 12, last line, remove the tab after \"are.\"\n\n     On page   15,   line   13,   replace   \"is   rational\"   with   \"are\nrational.\"\n\n     On page 30, line 7, replace \"Id.\" with \"268 U.S.\"\n\n     On page 41, line 12, add a second closing parenthesis after\n\"1980.\"\n\n     On page 41, line 13, remove the third closing parenthesis\nafter \"omitted.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

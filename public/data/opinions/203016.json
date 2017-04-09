@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203016/",
+  "absolute_url": "/opinion/203016/todisco-v-verizon-communications-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203016/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:06:54Z",
+  "date_modified": "2016-02-28T05:09:42.636281Z",
+  "type": "010combined",
+  "sha1": "3083077dbfb665c1b7e7c302532ab5d42d2113c3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1957ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/11/07/Todisco_v._Verizon_Communicatio.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1957\n\n                         DIANE TODISCO,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                  VERIZON COMMUNICATIONS, INC.,\n\n                      Defendant, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on August 6, 2007, is\namended as follows:\n\n     Page 9, line 2: remove underlining and extra space in \"the_\nterms\"\n     Page 13, line 7: change \"These cases\" to \"Glista and Bard\"\n     Page 17, line 5: change \"different than\" to \"different from\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

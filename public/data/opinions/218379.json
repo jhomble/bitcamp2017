@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/218379/",
+  "absolute_url": "/opinion/218379/voice-of-the-arab-world-v-mdtv-medical-news-now/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/218379/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-06-08T18:27:43Z",
+  "date_modified": "2016-02-28T05:31:25.210493Z",
+  "type": "010combined",
+  "sha1": "1959980263a65ad95577eb013e8ede193daf72a7",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-1396E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/06/08/Voice_of_the_Arab_World_Inc._v._MDTV_Medical_News_Now_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 10-1396\n\n                 VOICE OF THE ARAB WORLD, INC.,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                  MDTV MEDICAL NEWS NOW, INC.,\n\n                      Defendant, Appellee,\n\n      ZAGLOUL E. AYAD; MASSACHUSETTS EYE AND EAR INFIRMARY;\n             BOSTON EYE GROUP; NEXT STEP PROSTHETICS;\n                 BOSTON PUBLIC HEALTH COMMISSION,\n\n                     Third Party Defendants.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on May 27, 2011, is amended\nas follows:\n\n     On page 21, line 17: replace \"On August 15, 2009,\" with \"On\nAugust 14, 2009,\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

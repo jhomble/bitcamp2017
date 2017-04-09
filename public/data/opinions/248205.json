@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/248205/",
+  "absolute_url": "/opinion/248205/paul-s-bachant-v-salvatore-l-ficaro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/248205/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:34:38Z",
+  "date_modified": "2016-02-28T06:03:24.558537Z",
+  "type": "010combined",
+  "sha1": "c844add143b3c6c0294737b24978bfb338c47577",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/267/267.F2d.319.5454_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">267 F.2d 319</p>\n    <p class=\"parties\">Paul S. BACHANT, Plaintiff, Appellant,<br>v.<br>Salvatore L. FICARO, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5454.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">June 11, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Bailey Aldrich, Judge.</p>\n      <p class=\"indent\">Carl Liddy, Boston, Mass., with whom Fusaro &amp; Fusaro, Worcester, Mass., was on brief, for appellant.</p>\n      <p class=\"indent\">James C. Donnelly, Jr., Worcester, Mass., with whom Joseph F. Sawyer, Jr., and Ceaty, Ceaty, MacCarthy &amp; Donnelly, Worcester, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">A judgment will be entered affirming the judgment of the District Court.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">267</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">319</span></span></p>\n    <p class=\"parties\">Paul S. BACHANT, Plaintiff, Appellant,<br>v.<br>Salvatore L. FICARO, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5454.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">June 11, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Bailey Aldrich, Judge.</p>\n      <p class=\"indent\">Carl Liddy, Boston, Mass., with whom Fusaro &amp; Fusaro, Worcester, Mass., was on brief, for appellant.</p>\n      <p class=\"indent\">James C. Donnelly, Jr., Worcester, Mass., with whom Joseph F. Sawyer, Jr., and Ceaty, Ceaty, MacCarthy &amp; Donnelly, Worcester, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">A judgment will be entered affirming the judgment of the District Court.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

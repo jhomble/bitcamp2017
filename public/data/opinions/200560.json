@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200560/",
+  "absolute_url": "/opinion/200560/united-states-v-goodine/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200560/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:55:20Z",
+  "date_modified": "2016-02-28T05:03:15.569509Z",
+  "type": "010combined",
+  "sha1": "5fd941572eed655f5872e6a222e8c7f5bbece842",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1953ERRA-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/07/23/US_v._Goodine.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 02-1953\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n              BRIAN GOODINE, a/k/a DWAYNE GOODINE,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court, issued on April 9, 2003, should be\namended as follows:\n\n     On page 12, line 2, delete \"is entitled 'Penalties' and\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

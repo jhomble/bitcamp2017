@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/224291/",
+  "absolute_url": "/opinion/224291/russell-box-company-v-grant-paper-box-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/224291/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:26:01Z",
+  "date_modified": "2016-02-28T05:42:09.380807Z",
+  "type": "010combined",
+  "sha1": "c44ad5d656095b59ae9a7373f13938c0bae92fd6",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/179/179.F2d.784.4469.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">179 F.2d 784</p>\n    <p class=\"parties\">RUSSELL BOX COMPANY, Appellant,<br>v.<br>GRANT PAPER BOX COMPANY, Appellee.</p>\n    <p class=\"docket\">No. 4469.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">February 2, 1950.</p>\n    <p class=\"date\">Rehearing Denied February 21, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Judge.</p>\n      <p class=\"indent\">Herbert A. Baker, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">Hector M. Holmes, Boston, Mass., William H. Parmelee, Pittsburgh, Pa., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY, Circuit Judge.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On the authority of Russell Box Company v. Grant Paper Box Company, 1 Cir., 179 F.2d 785, the appeal herein is dismissed for lack of jurisdiction.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">179</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">784</span></span></p>\n    <p class=\"parties\">RUSSELL BOX COMPANY, Appellant,<br>v.<br>GRANT PAPER BOX COMPANY, Appellee.</p>\n    <p class=\"docket\">No. 4469.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">February 2, 1950.</p>\n    <p class=\"date\">Rehearing Denied February 21, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; Charles Edward Wyzanski, Judge.</p>\n      <p class=\"indent\">Herbert A. Baker, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">Hector M. Holmes, Boston, Mass., William H. Parmelee, Pittsburgh, Pa., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY, Circuit Judge.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On the authority of Russell Box Company v. Grant Paper Box Company, 1 Cir., <span class=\"citation\" data-id=\"224293\"><a href=\"/opinion/224293/russell-box-co-v-grant-paper-box-co/\"><span class=\"volume\">179</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">785</span></a></span>, the appeal herein is dismissed for lack of jurisdiction.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/224293/"
+  ]
+}

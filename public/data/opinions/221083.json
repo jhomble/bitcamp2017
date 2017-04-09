@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/221083/",
+  "absolute_url": "/opinion/221083/pruell-v-christi/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/221083/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-07-15T18:41:01Z",
+  "date_modified": "2016-02-28T05:36:19.232946Z",
+  "type": "010combined",
+  "sha1": "db002414e9933a21e0a995c1c5ae27a9e373d9bc",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-2262E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/07/15/Pruell_v._Caritas_Christi.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\nNo. 10-2262\n\n   ASHLEIGH PRUELL, on behalf of herself and all other employees\nsimilarly situated; AMY GORDON, on behalf of herself and all other\n                   employees similarly situated,\n\n                      Plaintiffs, Appellants,\n\n                                 v.\n\n  CARITAS CHRISTI; CARITAS CHRISTI NETWORK SERVICES; CARITAS GOOD\n  SAMARITAN MEDICAL CENTER, INC.; CARITAS NORWOOD HOSPITAL, INC.;\nCARITAS SOUTHWOOD HOSPITAL, INC.; CARITAS ST. JOHN OF GOD HOSPITAL,\n INC.; SAINT ANNE'S HOSPITAL CORPORATION; RALPH DE LA TORRE, M.D.;\n RICHARD KROPP; CARITAS CARNEY HOSPITAL, INC.; CARITAS HOLY FAMILY\n HOSPITAL, INC.; CARITAS ST. ELIZABETH'S MEDICAL CENTER OF BOSTON,\n                               INC.,\n\n                       Defendants, Appellees.\n\n\n                               ERRATA\n\n\n     The opinion of this Court, issued on July 14, 2011, should be\n\namended as follows.\n\n     On page 3, line 4 of 2nd full paragraph, insert a comma after\n\n\"law\".\n\n     On page 9, line 3 down from top of page, replace \"Fleabite\" with\n\n\"Flibotte\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

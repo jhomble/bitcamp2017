@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202091/",
+  "absolute_url": "/opinion/202091/waweru-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202091/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:20Z",
+  "date_modified": "2016-02-28T05:07:09.779140Z",
+  "type": "010combined",
+  "sha1": "af5d5d083331fa5f89a38aed5182400f03fb73ba",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1100ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/09/Waweru_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 05-1100\n\n                         STEPHEN WAWERU,\n\n                           Petitioner,\n\n                               v.\n\n               ALBERTO GONZALES, ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n               ON PETITION FOR REVIEW OF AN ORDER\n               OF THE BOARD OF IMMIGRATION APPEALS\n\n\n                             ERRATA\n\n\n     The opinion of this court dated February 13, 2006, is amended\nas follows:\n\n     On page 11, second full paragraph, line 5, replace \"909 F.2d\n3\" with \"909 F.2d at 3.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

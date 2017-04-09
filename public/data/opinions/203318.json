@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203318/",
+  "absolute_url": "/opinion/203318/cao-v-puerto-rico/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203318/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:13:32Z",
+  "date_modified": "2016-02-28T05:10:29.791731Z",
+  "type": "010combined",
+  "sha1": "172d5d4f2463130cb4c9e01d062786e8c937c7ba",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1394ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/06/06/Cao_v._Commonwealth_of_PR.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 07-1394\n\n                         DOLORES H. CAO,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n  COMMONWEALTH OF PUERTO RICO THROUGH THE SECRETARY OF JUSTICE,\n     ROBERTO SÁNCHEZ-RAMOS; PUERTO RICO DEPARTMENT OF FAMILY;\n    PUERTO RICO DEPARTMENT OF FAMILY, UNIT OF SUBSTITUTE CARE\nOF ADULTS; FÉLIX MATOS-RODRÍGUEZ, in his personal capacity and as\n   Secretary of the Department of the Family; STATE PSYCHIATRIC\n     HOSPITAL; ADMINISTRATOR B OF STATE PSYCHIATRIC HOSPITAL,\n        DOCTOR X; UNKNOWN DEFENDANTS; AB INSURANCE COMPANY;\n            BC INSURANCE COMPANY; CD INSURANCE COMPANY;\n            DF INSURANCE COMPANY; FG INSURANCE COMPANY,\n\n                      Defendants, Appellees.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on May 13, 2008 is amended as\nfollows:\n\n     On page 7, lines 11-12: Substitute \"more than a year and a\nhalf\" with \"more than six months.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

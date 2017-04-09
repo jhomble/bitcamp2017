@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203816/",
+  "absolute_url": "/opinion/203816/centennial-insurance-company-v-patterson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203816/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:23:51Z",
+  "date_modified": "2016-02-28T05:12:06.422385Z",
+  "type": "010combined",
+  "sha1": "e0eeb066910530dbfe2d23873a688a414984c13a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1521E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/05/12/Centennial_Insurance_Company_v._Patterson.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\nNo. 08-1521\n\n                  CENTENNIAL INSURANCE COMPANY,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n                        ROBERT PATTERSON,\n\n                       Defendant, Appellee.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on April 23, 2009, is amended\nas follows:\n\n     On p. 6, lines 12-15: Replace sentence beginning with\n\"At that point in time . . .\" with the following:\n\n     \"At that point in time, Dr. Patterson had already\n     incurred costs defending himself in the underlying Murphy\n     action, and in connection with establishing Centennial's\n     duty to defend in the instant suit.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

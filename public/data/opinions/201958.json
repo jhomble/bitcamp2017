@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201958/",
+  "absolute_url": "/opinion/201958/united-states-v-mckoy/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201958/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:38Z",
+  "date_modified": "2016-02-28T05:06:48.644879Z",
+  "type": "010combined",
+  "sha1": "a222135c6f496f29f0df6e3f2928f54961fab881",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1096ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/12/US_v._McKoy.pdf",
+  "plain_text": "          United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 05-1096\n\n                   UNITED STATES OF AMERICA,\n\n                          Appellant,\n\n                              v.\n\n                      OMAR SHARIF McKOY,\n\n                     Defendant, Appellee.\n\n\n\n                            ERRATA\n\n     The opinion of this Court issued on November 1, 2005, is\namended as follows:\n\n     On page 2, line 12, replace \"license place\" with \"license\nplate\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/235469/",
+  "absolute_url": "/opinion/235469/david-d-glassman-dba-glassman-and-sons-v-roger-e-b/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/235469/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:31:16Z",
+  "date_modified": "2016-02-28T05:52:02.804072Z",
+  "type": "010combined",
+  "sha1": "51f4f0df489a307dc7e35ee148ee3ea344fbb2de",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/218/218.F2d.351.4903.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">218 F.2d 351</p>\n    <p class=\"parties\">David D. GLASSMAN et al., d.b.a. Glassman and Sons, Plaintiffs, Appellants,<br>v.<br>Roger E. BRASSARD, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 4903.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">January 21, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire; Aloysius J. Connor, Judge.</p>\n      <p class=\"indent\">Charles F. Hartnett, Dover, N.H., with whom Nathan Fink, Boston, Mass., was on the brief, for appellants.</p>\n      <p class=\"indent\">Paul E. Nourie, Manchester, N.H., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This is an appeal from a judgment entered on a verdict for the defendant in an action brought in the court below under Title 28 U.S.C. &#167; 1332(a) (1) to recover for personal injuries and property damage resulting from an automobile collision. A careful consideration of the record appendices, the oral arguments, the briefs, and the authorities cited therein, discloses the commission of no error at the trial. Indeed, the appellants' assertions of error are so insubstantial that discussion or even enumeration of them is not warranted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">218</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">351</span></span></p>\n    <p class=\"parties\">David D. GLASSMAN et al., d.b.a. Glassman and Sons, Plaintiffs, Appellants,<br>v.<br>Roger E. BRASSARD, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 4903.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">January 21, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire; Aloysius J. Connor, Judge.</p>\n      <p class=\"indent\">Charles F. Hartnett, Dover, N.H., with whom Nathan Fink, Boston, Mass., was on the brief, for appellants.</p>\n      <p class=\"indent\">Paul E. Nourie, Manchester, N.H., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This is an appeal from a judgment entered on a verdict for the defendant in an action brought in the court below under Title 28 U.S.C. &#167; 1332(a) (1) to recover for personal injuries and property damage resulting from an automobile collision. A careful consideration of the record appendices, the oral arguments, the briefs, and the authorities cited therein, discloses the commission of no error at the trial. Indeed, the appellants' assertions of error are so insubstantial that discussion or even enumeration of them is not warranted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

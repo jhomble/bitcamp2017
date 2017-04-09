@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203066/",
+  "absolute_url": "/opinion/203066/united-states-v-rivera-hernandez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203066/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:05Z",
+  "date_modified": "2016-02-28T05:09:55.487336Z",
+  "type": "010combined",
+  "sha1": "6d98ff3dbc90ad3811223fecbb81b5a8729ceef1",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1355ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/11/US_v._Rivera-Hernandez.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\n\nNo. 06-1355\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                    MIGUEL RIVERA-HERNÁNDEZ,\n\n                      Defendant, Appellant.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on August 3, 2007 is amended\nas follows:\n\n\n     On page 2, line 23:    Replace \"1991\" with \"1997\"\n\n     On page 7, line 5: Replace \"September 17\" with \"September 27\"\n\n     On page 8, line 6:    Replace \"19 U.S.C.\" with \"18 U.S.C.\"\n\n     On page 22, line 4:    Replace \"untrusworthy\" with\n\"untrustworthy\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

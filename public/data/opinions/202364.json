@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202364/",
+  "absolute_url": "/opinion/202364/padilla-v-barnhart/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202364/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:51:01Z",
+  "date_modified": "2016-02-28T05:07:55.048102Z",
+  "type": "010combined",
+  "sha1": "3032a3582016fa5e9430cbfa49fdb77a39a00fb7",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1883ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/08/21/Padilla_v._Barnhart.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-1883\n\n                        LUIS A. PADILLA,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                       JOANNE B. BARNHART,\n                COMMISSIONER OF SOCIAL SECURITY,\n\n                      Defendant, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on July 19, 2006, is\ncorrected as follows:\n\n     In the first sentence of the first paragraph on the second\npage, delete \"accepting the opinion and order of the magistrate\njudge\".\n\n     In the first sentence of the final paragraph on page 4,\ncapitalize \"RFC\".\n\n     In the case citation appearing on page 7, replace \"1sr\" with\n\"1st\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

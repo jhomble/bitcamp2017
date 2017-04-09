@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203960/",
+  "absolute_url": "/opinion/203960/in-re-rudler/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203960/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:27:24Z",
+  "date_modified": "2016-02-28T05:12:27.758833Z",
+  "type": "010combined",
+  "sha1": "e51e54e9af6be2b734203e1824ab9e5b032de730",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-9007E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/08/18/Morse_v._Rudler.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-9007\n\n                      IN RE GLEN H. RUDLER,\n\n                             Debtor.\n\n                      _____________________\n\n              PHOEBE MORSE, United States Trustee,\n\n                            Appellant,\n\n                                v.\n\n                         GLEN H. RUDLER,\n\n                            Appellee.\n\n\n                              ERRATA\n\n\n     The opinion of this Court issued on August 5, 2009, is amended\nas follows:\n\n\n     On page 3, delete footnote 1.\n\n     On page 15, line 18, change \"note 6\" to \"note 5.\"\n\n     On page 19, line 11, change \"note 6\" to \"note 5.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

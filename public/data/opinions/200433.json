@@ -1,0 +1,33 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200433/",
+  "absolute_url": "/opinion/200433/stonkus-v-city-of-brockton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200433/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:52:39Z",
+  "date_modified": "2016-02-28T05:02:59.850439Z",
+  "type": "010combined",
+  "sha1": "bbf83ed46296bd8d0a993ee557404b77a76fd438",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2223ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/04/17/Stonkus_v._City_of_Brockton.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 02-2223\n\n\n                         FRANCES STONKUS,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n      CITY OF BROCKTON SCHOOL DEPARTMENT; RICHARD E. ZOINO;\n                        ANTONIO M. CABRAL,\n\n                      Defendants, Appellees.\n\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this court issued on March 14, 2003, is amended\nas follows:\n\nPage 5, lines 7-8: \"August 15, 2001\" should be \"August 15, 2002\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1509/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/180884/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200474/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201581/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202447/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202492/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202522/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202602/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203810/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/211035/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220524/"
+  ]
+}

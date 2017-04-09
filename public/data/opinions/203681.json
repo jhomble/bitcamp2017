@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203681/",
+  "absolute_url": "/opinion/203681/securities-and-exchange-commis-v-tambone/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203681/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:26Z",
+  "date_modified": "2016-02-28T05:11:43.270590Z",
+  "type": "010combined",
+  "sha1": "9d85cbbd4c862ec94e69ad48eb709d1f258ef9d2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1384O1-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/02/23/Securities_and_Exchange_Commis_v._Tambone.pdf",
+  "plain_text": "                  United States Court of Appeals\n                                   For the First Circuit\n\nNo. 07-1384\n\n                          SECURITIES AND EXCHANGE COMMISSION,\n\n                                          Plaintiff, Appellant,\n\n                                                   v.\n\n                              JAMES TAMBONE; ROBERT HUSSEY,\n\n                                        Defendants, Appellees.\n\n\n\n                                                 Before\n\n                                    Selya and Lipez, Circuit Judges,\n                                  and Delgado-Colón,1 District Judge.\n\n\n                                       ORDER OF COURT\n                                     Entered: February 23, 2009\n\n\n       The appellees' petitions for panel rehearing are denied.\n\n\n                                                          By the Court:\n\n                                                          /s/ Richard Cushing Donovan, Clerk\n\n\ncc: Hon. Nathaniel M. Gorton, Ms. Sarah A. Thornton, Mr. Pappalardo, Mr. Feldman, Mr. Scherker,\nMr. Joralemon, Mr. Sten, Ms. Foster, Mr. Cadigan, Ms. Moore, Mr. London, Mr. Avery, Mr. Libby,\nMr. Thomas, & Mr. Commisso, Ms. DeGiacomo, Chamber of Commerce of the United States,\nConsumer Federation of America, Financial Industry Regulatory Authority, National Association\nof Shareholder and Consumer Attorneys, North American Securities Administrators Association,\nSecurities Industry and Financial Markets Association, and U.S. Public Interest Research Groups\n(PIRG).\n\n\n       1\n           Of the District of Puerto Rico, sitting by designation.\n\f\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

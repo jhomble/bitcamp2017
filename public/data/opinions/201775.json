@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201775/",
+  "absolute_url": "/opinion/201775/brody-v-ram-trust-services/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201775/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:34:04Z",
+  "date_modified": "2016-02-28T05:06:27.566883Z",
+  "type": "010combined",
+  "sha1": "b4acbbf5a2bced88d033d337fecc74b7df061735",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2429ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/08/18/Brody_v._RAM_Trust_Services.pdf",
+  "plain_text": "            United States Court of Appeals\n                       For the First Circuit\n\n\nNo.     03-2429\n\n         IN RE STONE & WEBSTER, INC., SECURITIES LITIGATION\n\n    ADELE BRODY, on behalf of herself and all others similarly\n   situated; FRED DUBOIS, JR., individually and on behalf of all\n others similarly situated; ALBERT A. BLANK, on behalf of himself\nand all others similarly situated; DAVID B. EVERSON, on behalf of\n  himself and all others similarly situated; FANNY MANDELBAUM, on\nbehalf of herself and all others similarly situated; MARK HANSON,\n      on behalf of himself and all others similarly situated,\n\n                             Plaintiffs,\n\n      RAM TRUST SERVICES, INC., LENS INVESTMENT MANAGEMENT LLC,\n\n                       Plaintiffs, Appellants,\n\n                                 v.\n\n      STONE & WEBSTER, INC., H. KERNER SMITH, THOMAS LANGFORD,\n                    PRICEWATERHOUSECOOPERS, LLP,\n\n                       Defendants, Appellees.\n\n\n\n                               ERRATA\n\n     The opinion of this court dated July 14, 2005, is amended as\nfollows:\n\n       On page 2, line 4, replace “appellant” with “appellants.”\n\n     On page 11, line 22, delete the comma between “We have\nexplained” and “that ‘[]under the . . . .”\n\n     On page 12, line 2, insert a space between “§” and “78u-\n4(b)(2).”\n\n     On page 14, line 17, delete “two” between “as part of GAAP,”\nand “accounting methods.”\n\f     On page 20, line 15, insert “the” between “complied\nsufficiently with” and “PSLRA’s requirement.”\n\n     On page 20, line 18, insert “the” between “previously stated\nthat” and “PSLRA does not.”\n\n     On page 21, line 7, insert “the” between “requirement of”\nand “PSLRA.”\n\n     On page 27, line 6, insert “a” between “imposes no burden\non” and “plaintiff to prove.”\n\n     On page 42, line 22, replace “Any” with “any” following\n“(2).”\n\n     On page 42, line 24, replace “Because” with “because”\nfollowing “(3).”\n\n     On page 46, line 10, insert “to be” between “may appear” and\n“the inevitable.”\n\n     On page 50, line 22, replace “defendant’s” with “defendants’\n” between “in considering the” and “motion to dismiss.”\n\n     On page 54, line 16, replace “superceded” with “superseded”\nbefore “by statute on other grounds.”\n\n     On page 56, line 9, replace “PWC” with “PwC” between “that”\nand “audits were performed.”\n\n     On page 57, line 11, insert “the” between “clarity-and-basis\ntest of” and “PSLRA.”\n\n     On page 59, line 1, replace “allegations” with “allegation”\nbetween “The final” and “on which plaintiffs rely.”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202088/",
+  "absolute_url": "/opinion/202088/gillespie-v-sears-roebuck/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202088/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:18Z",
+  "date_modified": "2016-02-28T05:07:09.762973Z",
+  "type": "010combined",
+  "sha1": "33402d9712370342a48c3d82f30d19b931526a0a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2087ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/09/Gillespie_v._Sears_Roebuck.pdf",
+  "plain_text": "             United States Court of Appeals\n                       For the First Circuit\n\nNo. 03-2087\n\n               JAMES GILLESPIE and DEBORAH GILLESPIE,\n\n                       Plaintiffs, Appellees,\n\n                                 v.\n\n                    SEARS, ROEBUCK & COMPANY and\n                      EMERSON ELECTRIC COMPANY,\n\n                      Defendants, Appellants.\n\n\n                               ERRATA\n\n     The opinion of this Court, issued on October 6, 2004, should\n\nbe amended as follows.\n\n     On page 3, line 8 of first paragraph, replace \"labeling\" with\n\n\"warning\".\n\n     On page 6, line 6 of footnote 2, replace \"standards\" with\n\n\"standard\".\n\n     On page 12, line 1 of second paragraph, delete \"also\".\n\n     On page 15, footnote 6, replace lines 2-3 after the word\n\n\"2000)\", with the following:\n\n          (requiring an affirmative showing that the\n          jury   \"probably  was   confused: by  being\n          instructed on a claim or.\n\n     On page 19, line 7 of footnote 9, insert a space before \"and\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/180885/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203443/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203621/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203936/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/219565/"
+  ]
+}

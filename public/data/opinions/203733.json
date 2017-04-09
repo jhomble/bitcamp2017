@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203733/",
+  "absolute_url": "/opinion/203733/dutil-v-murphy/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203733/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:15Z",
+  "date_modified": "2016-02-28T05:11:51.916146Z",
+  "type": "010combined",
+  "sha1": "bd11ff036ebcae40c860ca13b29787d8bc7156aa",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2292E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/03/24/Dutil_v._Murphy.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-2292\n\n                         DAVID M. DUTIL,\n\n                     Petitioner, Appellant,\n\n                               v.\n\n                         ROBERT MURPHY,\n\n                      Respondent, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on December 11, 2008 is\namended as follows:\n\nOn page 16, line 15: the word \"hearing\" is substituted for the\nword \"trial\"\n\nOn page 16, line 18: the word \"hearing\" is substituted for the\nword \"trial\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

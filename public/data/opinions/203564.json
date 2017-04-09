@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203564/",
+  "absolute_url": "/opinion/203564/zheng-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203564/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:19:16Z",
+  "date_modified": "2016-02-28T05:11:17.674080Z",
+  "type": "010combined",
+  "sha1": "8f0ecab5b72992effaa2360c5e479fc2c25e8d53",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2479E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/11/13/Zheng_v._Gonzales.pdf",
+  "plain_text": "             United States Court of Appeals\n                          For the First Circuit\n\nNos.   06-2479\n       07-1568\n\n                               YEN ZHENG ZHENG,\n\n                                   Petitioner,\n\n                                       v.\n\n                  MICHAEL B. MUKASEY, ATTORNEY GENERAL,\n\n                                  Respondent.\n\n\n\n\n                                ERRATA SHEET\n\n\n     The opinion of this Court issued on October 29, 2008, is\ncorrected as follows:\n\n       On   the   coverpage:   Replace      \"Ligigation\"   with   \"Litigation\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

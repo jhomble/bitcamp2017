@@ -1,0 +1,30 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200628/",
+  "absolute_url": "/opinion/200628/maysonet-robles-v-cabrero/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200628/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:56:47Z",
+  "date_modified": "2016-02-28T05:03:25.239185Z",
+  "type": "010combined",
+  "sha1": "472348eddd35229fc6ca7fda04effe5439a68305",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1010ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/09/05/Maysonet-Robles_v._Cabrero.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 02-1010\n\nNORMA I MAYSONET ROBLES; ANGEL RAMON MARTINEZ DOMINGUEZ; CARMEN\nM. ROBLES COLLAZO; LYDIA HERNANDEZ DE LEON; CAMILO GINEZ PEREZ;\nJESUS OCASIO DE LA ROSA; for themselves and on BEHALF OF A CLASS\n                OF SIMILARLY SITUATED INDIVIDUALS\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n  ANTONIO J. CABRERO, as Trustee for Urban Renewal and Housing\n                    Corporation, Puerto Rico.\n\n                      Defendants, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on March 14, 2003 is\namended as follows:\n\n     On page 18, line 11, replace “incorporated” with\n“unincorporated”.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/77340/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/147972/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200653/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201226/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202296/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202655/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203975/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204753/"
+  ]
+}

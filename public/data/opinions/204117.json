@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204117/",
+  "absolute_url": "/opinion/204117/united-states-v-catalan-roman/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204117/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:16Z",
+  "date_modified": "2016-02-28T05:12:53.329675Z",
+  "type": "010combined",
+  "sha1": "d22336347ef545f32091f7f45e6d19553cbcf555",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1182E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/12/23/US_v._Catalan-Roman.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 06-1182, 06-1183\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                  v.\n\n                        LORENZO CATALÁN-ROMAN\n\n                   and HERNALDO MEDINA-VILLEGAS,\n\n                        Defendants-Appellants.\n\n\n                             ERRATA SHEET\n\n\n     The opinion of this court, issued on October 23, 2009 is\nhereby amended as follows:\n\nOn page 19, insert a new footnote - which will be note 10 - after\nthe sentence beginning \"The 302 of their interview . . .\npremeditation and death penalty.\"     The text of new footnote 10\nshould read: \"This 302, which is central to Catalán's arguments\nabout the improper restrictions on impeachment, has a curious\nhistory in this case. The document, in its original Spanish, was\nclearly in the possession of the parties in the courtroom, and was\ndiscussed extensively by them in English.       Thus, much of its\ncontent is apparent from the record. Nevertheless, a properly and\nfully translated version of the report was never placed in the\nrecord. That was a serious oversight. In the usual situation, it\nwould not be overlooked. See First Circuit L.R. 30(e) (\"The court\nwill not receive documents . . . not in the English Language unless\ntranslations are furnished.\").    However, the government has not\nobjected to Catalán's arguments on the basis that a translated\nversion of the 302 is not in the record and, in fact, it has not\ndisputed any of Catalán's account of what the document said.\nTherefore, given this somewhat unusual situation, we will address\nin this case the merits of Catalán's arguments despite the serious\nprocedural error in the handling of the 302.\"\n\fOn page 19, footnote 10 (which will be footnote 11 after the new\nfootnote is added) should be edited. The two sentences from \"As\nfar as can be discerned . . .\" to \". . . had ever discussed the\nMarch 6 attempt with Torres.\" should be replaced with the following\ntext: \"Yet, at no time during the extensive discussions and\narguments over this matter during trial -- not even when the\ndefendants made a proffer about Agent Cruz's testimony -- was it\nsuggested that Marrero or Cruz had ever discussed the March 6\nattempt with Torres.     Without some evidence in the record to\nsupport his claim, we cannot assess its merits.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/182274/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/182659/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/216075/"
+  ]
+}

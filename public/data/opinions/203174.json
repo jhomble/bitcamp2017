@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203174/",
+  "absolute_url": "/opinion/203174/muniz-v-sabol/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203174/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:10:17Z",
+  "date_modified": "2016-02-28T05:10:09.399848Z",
+  "type": "010combined",
+  "sha1": "12e52e0cca911a4f7cb4f4d975a4e2ed601a777e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2692ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/03/07/Muniz_v._Sabol.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 06-2692, 06-2693\n\n                 Richard Muniz, Victor Gonzalez\n                      Petitioners-Appellees\n\n                                  v.\n\n                       Carolyn A. Sabol, Warden\n\n                        Respondent-Appellant.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on February 26, 2008, is\namended as follows:\n\n     On page 1, Gonzales is amended to read Gonzalez\n\n     On page 3, line 9: \"loathe\" is amended to read \"loath\"\n\n     On page 4, line 14: \"Gonzales\" is amended to read \"Gonzalez\"\n\n     On page 30, line 22: \"U.S.C.994(a)(2)\" is amended to read\n\"U.S.C. section 994(a)(2)\"\n\n     On p.31, line 10: \"simple\" is amended to read \"simply\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

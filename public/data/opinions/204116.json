@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204116/",
+  "absolute_url": "/opinion/204116/in-re-pharmaceutical-industry-average-wholesale-price-litigation/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204116/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:16Z",
+  "date_modified": "2016-02-28T05:12:53.400812Z",
+  "type": "010combined",
+  "sha1": "92fb8d323618bfa7bd905161e28bc9597896b0c1",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1196E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/12/22/In_Re_Pharmaceutical_Case_v..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 09-1196\n\n              IN RE PHARMACEUTICAL INDUSTRY AVERAGE\n                    WHOLESALE PRICE LITIGATION\n\n                          M. JOYCE HOWE,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n                         LEROY TOWNSEND,\n\n                       Plaintiff, Appellee.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on November 20, 2009, is\namended as follows:\n\n     On page 15, line 6, \"January 16, 2006\" should be \"January\n30, 2006\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/204023/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/617626/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/619337/"
+  ]
+}

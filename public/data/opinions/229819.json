@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/229819/",
+  "absolute_url": "/opinion/229819/commissioner-of-internal-revenue-v-wolf-envelope-company-an-ohio/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/229819/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:29:42Z",
+  "date_modified": "2016-02-28T05:47:35.087823Z",
+  "type": "010combined",
+  "sha1": "fc272bcc9f51ba42ffc215a90e6941c0254abe70",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/197/197.F2d.864.11639-11646_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">197 F.2d 864</p>\n    <p class=\"parties\">COMMISSIONER OF INTERNAL REVENUE<br>v.<br>WOLF ENVELOPE COMPANY (an Ohio Corporation).<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Jennie LITTMAN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Alan L. LITTMAN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Elsa L. SELDEN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Rhoda L. AFFELDER.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Harry F. AFFELDER.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Doris L. LUX.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>ESTATE of Nathan I. DRYFOOS, Deceased, The First National Bank of Miami, Executor.</p>\n    <p class=\"docket\">Nos. 11639-11646.</p>\n    <p class=\"court\">United States Court of Appeals Sixth Circuit.</p>\n    <p class=\"date\">July 21, 1952.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petitions to review Decision of the Tax Court.</p>\n      <p class=\"indent\">Ellis N. Slack, Washington, D. C., for petitioner.</p>\n      <p class=\"indent\">Daniel W. Loeser, Irwin N. Loeser, Cleveland, Ohio, Mooney, Hahn, Loeser, Keough &amp; Freedheim, Cleveland, Ohio, of counsel, for respondents.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It Is ordered that the petition for review in each of the above-entitled cases be dismissed pursuant to motion of counsel for petitioner. 17 T.C. 471.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"229818\"><a href=\"/opinion/229818/joseph-hepburn-v-united-states/\"><span class=\"volume\">197</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">864</span></a></span></p>\n    <p class=\"parties\">COMMISSIONER OF INTERNAL REVENUE<br>v.<br>WOLF ENVELOPE COMPANY (an Ohio Corporation).<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Jennie LITTMAN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Alan L. LITTMAN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Elsa L. SELDEN.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Rhoda L. AFFELDER.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Harry F. AFFELDER.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>Doris L. LUX.<br>COMMISSIONER OF INTERNAL REVENUE<br>v.<br>ESTATE of Nathan I. DRYFOOS, Deceased, The First National Bank of Miami, Executor.</p>\n    <p class=\"docket\">Nos. 11639-11646.</p>\n    <p class=\"court\">United States Court of Appeals Sixth Circuit.</p>\n    <p class=\"date\">July 21, 1952.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petitions to review Decision of the Tax Court.</p>\n      <p class=\"indent\">Ellis N. Slack, Washington, D. C., for petitioner.</p>\n      <p class=\"indent\">Daniel W. Loeser, Irwin N. Loeser, Cleveland, Ohio, Mooney, Hahn, Loeser, Keough &amp; Freedheim, Cleveland, Ohio, of counsel, for respondents.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It Is ordered that the petition for review in each of the above-entitled cases be dismissed pursuant to motion of counsel for petitioner. 17 T.C. 471.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/229818/"
+  ]
+}

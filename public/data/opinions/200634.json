@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200634/",
+  "absolute_url": "/opinion/200634/united-states-v-brennick/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200634/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:56:52Z",
+  "date_modified": "2016-02-28T05:03:36.005880Z",
+  "type": "010combined",
+  "sha1": "6d67324a271edc62aa55182089ff18489e13a0df",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1204ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/09/05/US_v._Brennick.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 03-1204\n\n                   UNITED STATES OF AMERICA,\n\n                           Appellee,\n\n                               v.\n\n                         JOHN BRENNICK,\n\n                     Defendant, Appellant.\n\n\n                             ERRATA\n\n     The opinion of this Court, issued on July 29, 2003, should\n\nbe amended as follows.\n\n     On page 8, line 6 of 2nd full paragraph, delete \", 1154\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

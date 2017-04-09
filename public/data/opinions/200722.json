@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200722/",
+  "absolute_url": "/opinion/200722/montes-v-ponce-municipality/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200722/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:58:34Z",
+  "date_modified": "2016-02-28T05:03:41.787815Z",
+  "type": "010combined",
+  "sha1": "fed82c29136fe23e37896d56a5bc5ed565e04ecf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1409ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/11/06/Montes_v._Ponce_Municipality.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 02-1409\n\n              PEDRO J. MONTES; ELIZABETH QUINONES;\n          PEDRO MONTES-QUINONES; JOSUE MONTES-QUINONES,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n          PONCE MUNICIPALITY; RAFAEL CORDERO SANTIAGO;\n        GILBERTO COLON-RODRIGUEZ; MARCO MORALES-BARBOSA;\n           RAMOS CRUZ-LOPEZ; JOSE M. GALARZA-CAPIELO,\n\n                     Defendants, Appellees.\n\n\n     The opinion of this Court issued on October 31, 2003 is\namended as follows:\n\n     On the cover sheet replace \"Seyla, Circuit Judge,\" with\n\"Lynch, Circuit Judge,\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

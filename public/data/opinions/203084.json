@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203084/",
+  "absolute_url": "/opinion/203084/moron-barrada-v-department-of-educat/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203084/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:27Z",
+  "date_modified": "2016-02-28T05:09:53.368116Z",
+  "type": "010combined",
+  "sha1": "9c73b2ec3b61664c60ae064337823fa70780a07d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1456ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/21/Moron-Barrada_v._Department_of_Educat.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\n\nNo. 06-1456\n\n                    MARY FLOR MORÓN-BARRADAS,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n   DEPARTMENT OF EDUCATION OF THE COMMONWEALTH OF PUERTO RICO,\n\n                      Defendant, Appellee.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on May 24, 2007, is amended\nas follows:\n\n     On page 20, line 1, \"July 15\" should be replaced with \"May 2\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

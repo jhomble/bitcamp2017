@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203671/",
+  "absolute_url": "/opinion/203671/united-states-v-combs/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203671/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:16Z",
+  "date_modified": "2016-02-28T05:11:41.788662Z",
+  "type": "010combined",
+  "sha1": "47b5e6474ed1dd02c344950da0f4fb4b8b832fbb",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2258E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/02/18/US_v._Combs.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-2258\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                       ANTOIN QUARLES COMBS\n                    a/k/a ANTOINE COMBS-QUARLES,\n                          a/k/a ANTOINE COMBS\n\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on February 11, 2009 is\namended as follows:\n\n     On page 3, lines 18-19, please delete the following sentence:\n\"Hicks did not testify about either of these statements made by\nRudnicki.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

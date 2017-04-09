@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203846/",
+  "absolute_url": "/opinion/203846/in-re-grand-jury-v/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203846/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:16Z",
+  "date_modified": "2016-02-28T05:12:09.519954Z",
+  "type": "010combined",
+  "sha1": "e0020ff22090f9a71f347f081af74b05d4f2c522",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1880E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/05/29/In_Re_Grand_Jury_v..pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\nNo. 08-1880\n\n                        IN RE: GRAND JURY\n\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on May 11, 2009 is amended\nas follows:\n\n     On p. 27, footnote 13, line 2:   Replace \"note 1,\" with \"note\n12,\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

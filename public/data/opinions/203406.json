@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203406/",
+  "absolute_url": "/opinion/203406/weems-v-citigroup/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203406/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:16:01Z",
+  "date_modified": "2016-02-28T05:10:47.338051Z",
+  "type": "010combined",
+  "sha1": "e4f2c7487d6d8c5dd44801c348a106a45566c16c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2565-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/07/24/Weems_v._CitiGroup.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

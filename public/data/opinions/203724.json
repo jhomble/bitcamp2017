@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203724/",
+  "absolute_url": "/opinion/203724/espinoza-v-sabol/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203724/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:06Z",
+  "date_modified": "2016-02-28T05:11:50.363754Z",
+  "type": "010combined",
+  "sha1": "dafa2e4957be2b89c82c07ef4e958091de2c8bc1",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1712E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/03/13/Espinoza_v._Sabol.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 08-1712\n\n                         GILBERT ESPINOZA,\n\n                      Petitioner, Appellant,\n\n                                v.\n\n              CAROLYN A. SABOL, WARDEN OF FMC DEVENS,\n\n                       Respondent, Appellee.\n\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on February 27, 2009, is\ncorrected as follows:\n\n     On page 10, line 12, replace \"expiation\" with \"expiration.\"\n\n     On page 10, footnote line 5, replace \"April\" with \"Apr.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

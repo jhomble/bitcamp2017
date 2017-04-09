@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202170/",
+  "absolute_url": "/opinion/202170/in-re-us-v/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202170/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:46:11Z",
+  "date_modified": "2016-02-28T05:07:22.006887Z",
+  "type": "010combined",
+  "sha1": "aaaec1292b531e34a6f5d364b958462109dc7952",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1136ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/04/18/In_re_US_v..pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\nNo. 06-1136\n\n                  IN RE: UNITED STATES OF AMERICA,\n\n                            Petitioner.\n\n\n\n\n                               ERRATA\n\n          The opinion of this court, issued March 24, 2006,\nshould be amended as follows:\n\n\npage 2, line 1:   replace \"Per Curiam\" with \"LYNCH, Circuit Judge\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

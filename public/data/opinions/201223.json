@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201223/",
+  "absolute_url": "/opinion/201223/american-cyanamid-co-v-a-capuano-brothers/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201223/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:10:20Z",
+  "date_modified": "2016-02-28T05:04:53.238886Z",
+  "type": "010combined",
+  "sha1": "e8b1f982c7c5f41ab58c45a1da001edca9dd7092",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2143ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/27/American_Cyanamid_Co_v._A._Capuano_Brothers.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-2143\n\n                   AMERICAN CYANAMID COMPANY,\n                           Plaintiff,\n\n                     ROHM AND HAAS COMPANY,\n                      Plaintiff, Appellee,\n\n                                v.\n\n              DANIEL J. CAPUANO, JR.; JACK CAPUANO;\n                     UNITED SANITATION, INC.,\n                      Defendants, Appellants,\n\n       A. CAPUANO BROS., INC.; CAPUANO ENTERPRISES, INC.,\n                           Defendants.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on August 18, 2004 is\namended as follows:\n\n     On page 19, line 17:   \"Capuanos's\" should be \"Capuanos\";\n\n     On page 33, line 22: \"Transportation\" should be\n\"Sanitation\";\n\n     On page 38, lines 4, 18 and 20 and on page 39, line 5: All\nreferences to \"section 9607(3)\" should instead read \"section\n9607(a)(3)\";\n\n     On page 38, line 23: The first reference to \"persons\"\n[inside quotation mark] should be \"person\";\n\n     On page 48, line 10: \"Capuanos\" should be \"Capuanos'\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

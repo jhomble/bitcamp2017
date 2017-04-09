@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203424/",
+  "absolute_url": "/opinion/203424/reyelt-v-danzell/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203424/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:16:28Z",
+  "date_modified": "2016-02-28T05:10:53.895331Z",
+  "type": "010combined",
+  "sha1": "ba4edef315a9cee3d80309a03e7f904723e386c4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2603ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/08/06/Reyelt_v._Danzell.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-2603\n\n                         JAMES H. REYELT\n\n                               v.\n\n         WILLIAM B. DANZELL and LOUISE BEENKER DANZELL.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on July 14, 2008 is amended\nas follows:\n\n     On page 9, line 3: Assocs. should be changed to Associates\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203521/"
+  ]
+}

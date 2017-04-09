@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/147474/",
+  "absolute_url": "/opinion/147474/shell-co-v-los-frailes-service-station/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/147474/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-28T19:19:22Z",
+  "date_modified": "2016-02-28T03:39:11.210334Z",
+  "type": "010combined",
+  "sha1": "5ac20ee8fb213ea14874953fc42ad5362c598838",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1279E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/05/28/The_Shell_Company_LTD._v._Los_Frailes_Service_Station_In.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 09-1279\n\n              THE SHELL COMPANY (PUERTO RICO) LIMITED,\n\n                        Plaintiff, Appellee,\n\n                                 v.\n\n                 LOS FRAILES SERVICE STATION, INC.,\n\n                       Defendant, Appellant.\n\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on May 5, 2010, is amended as\nfollows:\n\n     On the cover sheet replace \"Raul M. Arias-Marxuach with whom\nNannette Berríos Haddock, Frank LaFontaine, and McConnell Valdes\nLLC were on brief for appellee.\" with \"Nannette Berríos Haddock\nwith whom Raul M. Arias-Marxuach, Frank LaFontaine,and McConnell\nValdes LLC were on brief for appellee.\"\n\n     On page 1, line 1, \"Petroleum Practices Marketing\" should be\nreplaced with \"Petroleum Marketing Practices\".\n\n     On page 23, line 24, \"sublease of the station from LFSS\"\nshould be replaced with \"sublease of the station from Shell\".\n\n     On page 19, line 19, \"proximity does not does not\" should be\nreplaced with \"proximity does not\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

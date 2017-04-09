@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/214248/",
+  "absolute_url": "/opinion/214248/in-re-grand-jury/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/214248/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-04-07T20:18:53Z",
+  "date_modified": "2016-02-28T05:24:26.595690Z",
+  "type": "010combined",
+  "sha1": "3f15e36436ee6b62dde3c7b44fa3f9dedbc3085d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-2005E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/04/07/In_re_Grand_Jury_v..pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\nNo. 10-2005\n\n                           IN RE: GRAND JURY.\n\n\n              APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                   FOR THE DISTRICT OF MASSACHUSETTS\n\n          [Hon. Richard G. Stearns, U.S. District Judge]\n\n\n                                 ERRATA\n\n     The opinion of this Court, issued on March 23, 2011, should be\n\namended as follows.\n\n     On page 8, line 3 of 2nd full paragraph, replace \"879\" in the\n\ncitation with \"579\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

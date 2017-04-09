@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201552/",
+  "absolute_url": "/opinion/201552/united-states-v-bourgeois/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201552/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:29:18Z",
+  "date_modified": "2016-02-28T05:05:51.924268Z",
+  "type": "010combined",
+  "sha1": "3d29a262ca22d355931a6b6f5cd012d7c34192ef",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2203ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/04/21/US_v._Bourgeois.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\nNo. 04-2203\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                         JASON BOURGEOIS,\n\n                      Defendant, Appellant.\n\n\n                              ERRATA\n\n     The unpublished opinion issued on April 18, 2005 is amended as\nfollows:\n\n     On page 2, lines 10, 14 and 18 and on page 4, line 2,\n\"Bourgeios\" should be corrected to read \"Bourgeois\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/219759/",
+  "absolute_url": "/opinion/219759/house-of-flavors-inc-v-tfg-michigan-lp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/219759/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-06-27T18:47:51Z",
+  "date_modified": "2016-02-28T05:33:40.359449Z",
+  "type": "010combined",
+  "sha1": "77ffbfddb2b9a7e3f4b5c4d507eec2b65ea312bf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-2086E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/06/27/House_of_Flavors_Inc._v._TFG-Michigan_L.P..pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\nNo. 10-2086\n\n                      HOUSE OF FLAVORS, INC.,\n\n                       Plaintiff, Appellee,\n\n                                v.\n\n                        TFG MICHIGAN, L.P.,\n\n                       Defendant, Appellant.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on June 23, 2011, should be\n\namended as follows.\n\n     On page 14, line 4 down on page, delete \"more\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

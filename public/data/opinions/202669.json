@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202669/",
+  "absolute_url": "/opinion/202669/jennings-v-pare/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202669/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:59:13Z",
+  "date_modified": "2016-02-28T05:08:27.890389Z",
+  "type": "010combined",
+  "sha1": "dc6bc8f8b75fd07f35af7689c67847bada7cb363",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2522ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/03/23/Jennings_v._Pare.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-2522\n\n                            ADAM JENNINGS,\n\n                         Plaintiff, Appellant,\n\n                                  v.\n\n                            KENNETH JONES,\n\n                         Defendant, Appellee.\n\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on March 7, 2007 is amended\nas follows:\n\n\n     Page 65, line 10:    replace \"findings of facts\" with\n\"findings of fact\"\n\n     Page 71, in footnote 39, second line:       replace \"entering a\nJMOL\" with \"entering JMOL\"\n\n     Page 76, first line of block quote:     replace \"[plaintiffs]\"\nwith \"[Plaintiffs]\"\n\n     Page 80, line 4: replace \"See Wilson v. Layne, 526 U.S.\n603, 615 (1999)\" with \"See Wilson, 526 U.S. at 615\"\n\n     Page 80, in footnote 42, sixth line from the end: replace\n\"Priester, 208 F.3d at 926\" with \"Priester v. City of Riviera\nBeach, 208 F.3d 919, 926 (11th Cir. 2000)\"\n\n     Page 81, line 15: replace \"Brady v. Dill, 187 F.3d 104, 116\n(1st Cir. 1999).\" with \"Brady, 187 F.3d at 116.\"\n\f    Page 89, line 7:    delete \",\"\n\n    Page 100, line 8:    replace \"its\" with \"their\"\n\n    Page 102, line 11:   replace \"principal\" with \"principle\"\n\n    Page 108, line 7:    replace \"emphasis\" with \"emphases\"\n\n     Page 111, footnote 57, lines 7-12: do not indent margins;\nthese lines are not part of the block quote\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-2522\n\n                            ADAM JENNINGS,\n\n                         Plaintiff, Appellant,\n\n                                  v.\n\n                            KENNETH JONES,\n\n                         Defendant, Appellee.\n\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on March 7, 2007 is amended\nas follows:\n\n\n     Page 65, line 10:    replace \"findings of facts\" with\n\"findings of fact\"\n\n     Page 71, in footnote 39, second line:       replace \"entering a\nJMOL\" with \"entering JMOL\"\n\n     Page 76, first line of block quote:     replace \"[plaintiffs]\"\nwith \"[Plaintiffs]\"\n\n     Page 80, line 4: replace \"See Wilson v. Layne, </pre><span class=\"citation\" data-id=\"118289\"><a href=\"/opinion/118289/wilson-v-layne/\"><span class=\"volume\">526</span> <span class=\"reporter\">U.S.</span>\n<span class=\"page\">603</span></a></span><pre class=\"inline\">, 615 (1999)\" with \"See Wilson, 526 U.S. at 615\"\n\n     Page 80, in footnote 42, sixth line from the end: replace\n\"Priester, 208 F.3d at 926\" with \"Priester v. City of Riviera\nBeach, </pre><span class=\"citation\" data-id=\"74532\"><a href=\"/opinion/74532/priester-v-city-of-riviera-beach/\"><span class=\"volume\">208</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">919</span></a></span><pre class=\"inline\">, 926 (11th Cir. 2000)\"\n\n     Page 81, line 15: replace \"Brady v. Dill, </pre><span class=\"citation\" data-id=\"198570\"><a href=\"/opinion/198570/brady-v-dill/\"><span class=\"volume\">187</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">104</span></a></span><pre class=\"inline\">, 116\n(1st Cir. 1999).\" with \"Brady, 187 F.3d at 116.\"\n\f    Page 89, line 7:    delete \",\"\n\n    Page 100, line 8:    replace \"its\" with \"their\"\n\n    Page 102, line 11:   replace \"principal\" with \"principle\"\n\n    Page 108, line 7:    replace \"emphasis\" with \"emphases\"\n\n     Page 111, footnote 57, lines 7-12: do not indent margins;\nthese lines are not part of the block quote\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/74532/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/118289/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/198570/"
+  ]
+}

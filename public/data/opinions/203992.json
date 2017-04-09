@@ -1,0 +1,29 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203992/",
+  "absolute_url": "/opinion/203992/limone-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203992/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:04Z",
+  "date_modified": "2016-02-28T05:12:29.891555Z",
+  "type": "010combined",
+  "sha1": "66bdf9a0de0514d53d7f42d734cc155d2e9f5081",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1327E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/09/04/Limone_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\n\nNo. 08-1327\n\n                     PETER J. LIMONE ET AL.,\n\n                     Plaintiffs, Appellees,\n\n                               v.\n\n                    UNITED STATES OF AMERICA,\n\n                      Defendant, Appellant.\n\n                      ____________________\n\nNo. 08-1328\n\n                          EDWARD GRECO,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                    UNITED STATES OF AMERICA,\n\n                      Defendant, Appellee.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on August 27, 2009 is\ncorrected as follows:\n\n     On p.9, l.19, \"Norman Zalkind\" should be \"Jack I. Zalkind\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/78465/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/147684/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/147902/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/176946/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/176960/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/622112/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/622781/"
+  ]
+}

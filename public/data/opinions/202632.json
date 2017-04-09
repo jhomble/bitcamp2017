@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202632/",
+  "absolute_url": "/opinion/202632/united-states-v-sepulveda-contreras/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202632/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:58:26Z",
+  "date_modified": "2016-02-28T05:08:24.364357Z",
+  "type": "010combined",
+  "sha1": "89f3c62c158331306708d3e48cb9c30fb891e214",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1409ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/02/16/US_v._Sepulveda_Contreras.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 04-1409\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                    LUIS SEPÚLVEDA-CONTRERAS,\n\n                           Appellant.\n\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on October 25, 2006, is\namended as follows:\n\n     On page 5, lines 8-9, replace \"at oral argument\" with\n\"orally at sentencing\".\n\n     On page 13, line 11, insert \"for abuse of discretion\"\nwithin the internal quotation after \"release\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

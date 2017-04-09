@@ -1,0 +1,30 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203526/",
+  "absolute_url": "/opinion/203526/singh-v-mukasey/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203526/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:34Z",
+  "date_modified": "2016-02-28T05:11:14.230362Z",
+  "type": "010combined",
+  "sha1": "8851ed5a20c209b24b42042bb0ff05e3dc27915a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2187E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/17/Singh_v._Mukasey.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-2187\n\n                           BAGH SINGH,\n\n                           Petitioner,\n\n                               v.\n\n              MICHAEL B. MUKASEY, ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n                             ERRATA\n\n\n     The opinion of this court issued on September 25, 2008 is\namended as follows:\n\n     On page 2, line 18, March 25, 2006 should be March 25, 2005.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/69271/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/147642/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/173955/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/176578/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203591/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203817/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204084/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204925/"
+  ]
+}

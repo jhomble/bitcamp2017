@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202107/",
+  "absolute_url": "/opinion/202107/quiles-quiles-v-potter/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202107/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:55Z",
+  "date_modified": "2016-02-28T05:07:10.324086Z",
+  "type": "010combined",
+  "sha1": "eb15d746a10f8ee3d421ebd996d6a09ee891913c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1591ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/21/Quiles-Quiles_v._Potter.pdf",
+  "plain_text": "               United States Court of Appeals\n                               For the First Circuit\n\n\nNo. 05-1591\n\n                                 GENARO QUILES-QUILES,\n                                    Plaintiff, Appellant,\n\n                                              v.\n\n                  WILLIAM J. HENDERSON, POSTMASTER GENERAL,\n                        UNITED STATES POSTAL SERVICE,\n                                Defendant, Appellee.\n\n\n                                          ERRATA\n\n\n       The opinion of this court, issued on February 21, 2006, should be amended as follows:\n\nOn page 6, line 2, replace \"303 F.2d 387\" with \"303 F.3d 387\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

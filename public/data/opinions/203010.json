@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203010/",
+  "absolute_url": "/opinion/203010/galarneau-v-merrill-lynch-pierce-fenner-smith/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203010/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:06:48Z",
+  "date_modified": "2016-02-28T05:09:43.243904Z",
+  "type": "010combined",
+  "sha1": "c114bd1f2fcba3e192e03723e065d84fca331be5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2410ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/11/03/Galarneau_v._Merrill_Lynch.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-2410\n\n                       DEBORAH GALARNEAU,\n\n                      Plaintiff, Appellee,\n\n                                v.\n\n          MERRILL LYNCH, PIERCE, FENNER & SMITH, INC.,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on October 12, 2007 is\namended as follows:\n\n     On page 13, line    21:   Replace   \"February   6,   2005\"   with\n\"February 6, 2004.\"\n\n     On page 33, second line of the block quote: Replace \"In think\nunder 408\" with \"I think under 408.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

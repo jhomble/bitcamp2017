@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/244893/",
+  "absolute_url": "/opinion/244893/united-states-v-the-standard-electric-time-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/244893/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:33:45Z",
+  "date_modified": "2016-02-28T06:00:03.184310Z",
+  "type": "010combined",
+  "sha1": "1f8b1899b2adfdc3ce410bebc7ac410b999d7786",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/254/254.F2d.598.5319.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">254 F.2d 598</p>\n    <p class=\"case_cite\">116 U.S.P.Q. 422</p>\n    <p class=\"parties\">UNITED STATES of America<br>v.<br>The STANDARD ELECTRIC TIME COMPANY.</p>\n    <p class=\"docket\">No. 5319.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Feb. 3, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon agreement, it is ordered that the appeal herein be, and the same hereby is, dismissed without costs.  D.C., 155 F.Supp. 949.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">254</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">598</span></span></p>\n    <p class=\"case_cite\">116 U.S.P.Q. 422</p>\n    <p class=\"parties\">UNITED STATES of America<br>v.<br>The STANDARD ELECTRIC TIME COMPANY.</p>\n    <p class=\"docket\">No. 5319.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Feb. 3, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon agreement, it is ordered that the appeal herein be, and the same hereby is, dismissed without costs.  D.C., 155 F.Supp. 949.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/233871/",
+  "absolute_url": "/opinion/233871/san-juan-trading-company-inc-v-the-mexican-steamship-marmex-etc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/233871/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:51Z",
+  "date_modified": "2016-02-28T05:50:44.352637Z",
+  "type": "010combined",
+  "sha1": "8705c5fe071dd031274acb573077fc64744993c8",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/212/212.F2d.206.4747.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">212 F.2d 206</p>\n    <p class=\"parties\">SAN JUAN TRADING COMPANY, Inc.<br>v.<br>The MEXICAN STEAMSHIP MARMEX etc. et al.</p>\n    <p class=\"docket\">No. 4747.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 12, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Puerto Rico; Clemente Ruiz-Nazario, Judge.</p>\n      <p class=\"indent\">L. E. Dubon, San Juan, Puerto Rico, for appellant.</p>\n      <p class=\"indent\">Francisco Castro Amy, San Juan, Puerto Rico (James R. Beverley and R. Castro Fernandez, San Juan, Puerto Rico, on brief), for appellees.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decree of the District Court is affirmed on the opinion of Judge Ruiz-Nazario reported 1952, 107 F.Supp. 253.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">212</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">206</span></span></p>\n    <p class=\"parties\">SAN JUAN TRADING COMPANY, Inc.<br>v.<br>The MEXICAN STEAMSHIP MARMEX etc. et al.</p>\n    <p class=\"docket\">No. 4747.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 12, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Puerto Rico; Clemente Ruiz-Nazario, Judge.</p>\n      <p class=\"indent\">L. E. Dubon, San Juan, Puerto Rico, for appellant.</p>\n      <p class=\"indent\">Francisco Castro Amy, San Juan, Puerto Rico (James R. Beverley and R. Castro Fernandez, San Juan, Puerto Rico, on brief), for appellees.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decree of the District Court is affirmed on the opinion of Judge Ruiz-Nazario reported 1952, 107 F.Supp. 253.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

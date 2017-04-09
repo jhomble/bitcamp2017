@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203045/",
+  "absolute_url": "/opinion/203045/mejia-orellana-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203045/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:07:35Z",
+  "date_modified": "2016-02-28T05:09:54.795509Z",
+  "type": "010combined",
+  "sha1": "77ba5b616547e370f69b0a95722d8359256fb102",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2454ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/04/Mejia-Orellana_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-2454\n\n                  JOSE LORENZO MEJIA-ORELLANA,\n\n                           Petitioner,\n\n                               v.\n\n               ALBERTO GONZALES, Attorney General,\n\n                           Respondent.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on September 6, 2007 is\namended as follows:\n\n     On page 2, line 1, remove the word \"Petitioner\" before \"Jose\nLorenzo Mejia-Orellana\"\n\n     On page 6, footnote 1, line 3, replace \"United States\" with\n\"U.S.\"\n\n     On page 9, line 3, underline \"Waiver of Inadmissibility\nUnder 8 U.S.C. § 1182(h)\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

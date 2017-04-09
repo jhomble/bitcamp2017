@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203565/",
+  "absolute_url": "/opinion/203565/united-states-v-grullon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203565/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:19:17Z",
+  "date_modified": "2016-02-28T05:11:17.690299Z",
+  "type": "010combined",
+  "sha1": "c702aa292f238772673ca01ebf4546cee802845b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1982E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/11/13/US_v._Grullon.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\nNo. 07-1982\n\n                       UNITED STATES OF AMERICA,\n\n                               Appellee,\n\n                                   v.\n\n                      BENITO GRULLON, a/k/a QUICO,\n\n                         Defendant, Appellant.\n\n\n                                 ERRATA\n\n     The opinion of this Court, issued on October 24, 2008, should be\n\namended as follows:\n\n     On page 5, line 5, \"Grulllon's\" should be \"Grullon's\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203729/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203832/"
+  ]
+}

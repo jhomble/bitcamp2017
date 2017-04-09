@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204178/",
+  "absolute_url": "/opinion/204178/abrante-v-st-amand/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204178/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:31:58Z",
+  "date_modified": "2016-02-28T05:13:02.216212Z",
+  "type": "010combined",
+  "sha1": "f9a2a8e0a224b1af2a9cd2307cc408634388f3fa",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1020E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/03/01/Abrante_v._St._Amand.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 09-1020\n\n                          TITO ABRANTE,\n\n                      Petitioner, Appellant,\n\n                                v.\n\n                         PETER ST. AMAND,\n\n              Superintendent at MCI-Cedar Junction,\n\n                      Respondent, Appellee.\n\n\n                           ERRATA SHEET\n\n     The opinion of the court issued on February 3, 2010, is\namended as follows:\n\n     Delete the first paragraph of footnote 6 on page 8 of the\nopinion. Replace it with the following text:\n\n          Abrante's only evidence that police did anything\n     other than ask Maldonado and Melendez whether Abrante had\n     already discussed his case with them is the testimony of\n     defense investigator Philip Kass. Kass testified that he\n     had two conversations with Maldonado: the first, which\n     lasted about \"five minutes or so,\" was without an\n     interpreter.     Kass ended that conversation after\n     Maldonado told him that he would be more comfortable with\n     an interpreter.     According to Kass, in that first\n     conversation, Maldonado told him that police had told\n     Maldonado that they could help him with his case if he\n     would talk with them about Abrante. When Kass spoke with\n     Maldonado again two days later, with the help of an\n     interpreter, Maldonado made no such statement.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200283/",
+  "absolute_url": "/opinion/200283/united-states-v-hornbecker/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200283/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:47:46Z",
+  "date_modified": "2016-02-28T05:02:34.971807Z",
+  "type": "010combined",
+  "sha1": "218f6441ba87ad17895c514a062ae7323ffd6767",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1969ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/01/13/US_v._Hornbecker.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 01-1969\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                       MICHAEL HORNBECKER,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on January 9, 2003 is\namended as follows:\n\n     Page 9, line 24: Replace \"See pages 7-8, above.\" with \"See\npage 8, above.\"\n\n     Page 10, line 6: Replace \"suppression remedy is\" with\n\"suppression is\".\n\n     Page 12, line 7: Replace \"See p. 7, above.\" with \"See page\n8, above.\"\n\n     Page 13, Footnote 3, line 12: Replace \"See p. 4, above.\"\nwith \"See pgs. 4-5, above.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/169008/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200818/"
+  ]
+}

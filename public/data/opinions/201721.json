@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201721/",
+  "absolute_url": "/opinion/201721/kasneci-v-ashcroft/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201721/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:32:45Z",
+  "date_modified": "2016-02-28T05:06:12.953189Z",
+  "type": "010combined",
+  "sha1": "d886350539009d01074e1c07e850803c654c4a86",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2657-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/07/21/Kasneci_v._Ashcroft.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

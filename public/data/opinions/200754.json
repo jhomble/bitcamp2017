@@ -1,0 +1,30 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200754/",
+  "absolute_url": "/opinion/200754/tremblay-v-mcclellan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200754/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:59:31Z",
+  "date_modified": "2016-02-28T05:03:42.329941Z",
+  "type": "010combined",
+  "sha1": "4cffafe091da9557d64e6ddbda4086c9b85e5c69",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1641ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/12/02/Tremblay_v._McClellan.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 03-1641\n\n              JASON A. TREMBLAY and RICHARD TREMBLAY,\n\n                      Plaintiffs, Appellees,\n\n                                v.\n\n WILLIAM E. MCCLELLAN, Individually and Officially as a Corporal\n                with the Conway Police Department,\n\n                       Defendant, Appellant,\n\n    DAVID BENNETT, CONWAY POLICE DEPARTMENT, TOWN OF CONWAY,\n\n                            Defendants.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on November 20, 2003 is\namended as follows:\n\n     On page 7, line 10, \"with whom\" should be replaced with \"at\nwhose house\"\n\n     On page 14, line 21, the semicolon should be changed to a\ncomma.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/145918/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201366/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201386/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201433/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202504/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202656/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202853/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203573/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203430/",
+  "absolute_url": "/opinion/203430/fayard-v-northeast-vehicle-services-llc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203430/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:16:34Z",
+  "date_modified": "2016-02-28T05:10:59.400169Z",
+  "type": "010combined",
+  "sha1": "c8a2638451087206aaaa5e786e05e47d0c04bacd",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2222ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/08/08/Fayard_v._Northeast_Vehicle.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-2222\n\n                LEO E. FAYARD and SARA K. FAYARD,\n\n                     Plaintiffs, Appellants,\n\n                                 v.\n\n   NORTHEAST VEHICLE SERVICES, LLC, EAST BROOKFIELD & SPENCER\nRAILROAD, LLC, HOLSTON LAND COMPANY, INCORPORATED, CSX REAL\nPROPERTY, INC., STEVEN M. PUGLIESE, and GEORGE W. BELL, II,\n\n                     Defendants, Appellees.\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on July 14, 2008 is amended\nas follows:\n\n     On page 13, line 24:    change \"ordinarily\" to \"sometimes\"\n\n     On page 6, line 11:    close space before \"Exclusive\"\n\n     On page 12, line 7:    close space following semi-colon\n\n     On page 14, line 15: close space following semi-colon\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/615411/"
+  ]
+}

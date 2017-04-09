@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203119/",
+  "absolute_url": "/opinion/203119/aca-financial-guaranty-corp-v-advest-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203119/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:09:04Z",
+  "date_modified": "2016-02-28T05:09:58.183151Z",
+  "type": "010combined",
+  "sha1": "a5b1ae13d7b5ccadd2b6b690cac0c8535bea78fa",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1367ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/01/29/ACA_Financial_v._Advest.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-1367\n\n ACA FINANCIAL GUARANTY CORPORATION; DRYDEN NATIONAL MUNICIPALS\n     FUNDS, INC.; JOHN MOORE; LOIS MOORE; SMITH BARNEY INCOME\nFUNDS/SMITH BARNEY MUNICIPAL HIGH INCOME FUND; T. ROWE PRICE TAX-\n                    FREE HIGH YIELD FUND, INC.,\n\n                     Plaintiffs, Appellants,\n\n                  DENISE MCKEOWN; ROBERT LUTTS,\n\n                           Plaintiffs,\n\n                               v.\n\n   ADVEST, INC.; KAREN SUGHRUE; GARRY CRAGO; JEAN CHILDS; PAULA\nEDWARDS COCHRAN; G. DAVIS STEVENS, JR.; JULIA DEMOSS; WILLIAM R.\nDILL; LESLIE A. FERLAZZO; JOYCE SHAFFER FLEMING; ERIC W. HAYDEN;\nCATHERINE CHAPIN KOBACHER; ANNE MARCUS; CELESTE REID; RICHARD J.\n SHEEHAN, JR.; JOSEPH SHORT; GREGORY E. THOMAS; SUSAN K. TURBEN;\n                         DONALD W. KISZKA,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on January 10, 2008 is\namended as follows:\n\n     On page 40, replace footnote 13 with the following new\nfootnote: \"These comments are case specific. We do not suggest\nthat there is any special rule for scienter for not-for-profit\ninstitutions. Indeed, such institutions have been sued in the\npast on price fixing allegations. See United States v. Brown\nUniv., 5 F.3d 658 (3d Cir. 1993).\"\n\n     On page 16, footnote 6, line 3, replace \"Trustee's\" with\n\"Trustees'\"\n\n     On page 44, line 16, replace \"Secs.\" with \"Sec.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-1367\n\n ACA FINANCIAL GUARANTY CORPORATION; DRYDEN NATIONAL MUNICIPALS\n     FUNDS, INC.; JOHN MOORE; LOIS MOORE; SMITH BARNEY INCOME\nFUNDS/SMITH BARNEY MUNICIPAL HIGH INCOME FUND; T. ROWE PRICE TAX-\n                    FREE HIGH YIELD FUND, INC.,\n\n                     Plaintiffs, Appellants,\n\n                  DENISE MCKEOWN; ROBERT LUTTS,\n\n                           Plaintiffs,\n\n                               v.\n\n   ADVEST, INC.; KAREN SUGHRUE; GARRY CRAGO; JEAN CHILDS; PAULA\nEDWARDS COCHRAN; G. DAVIS STEVENS, JR.; JULIA DEMOSS; WILLIAM R.\nDILL; LESLIE A. FERLAZZO; JOYCE SHAFFER FLEMING; ERIC W. HAYDEN;\nCATHERINE CHAPIN KOBACHER; ANNE MARCUS; CELESTE REID; RICHARD J.\n SHEEHAN, JR.; JOSEPH SHORT; GREGORY E. THOMAS; SUSAN K. TURBEN;\n                         DONALD W. KISZKA,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on January 10, 2008 is\namended as follows:\n\n     On page 40, replace footnote 13 with the following new\nfootnote: \"These comments are case specific. We do not suggest\nthat there is any special rule for scienter for not-for-profit\ninstitutions. Indeed, such institutions have been sued in the\npast on price fixing allegations. See United States v. Brown\nUniv., </pre><span class=\"citation\" data-id=\"653630\"><a href=\"/opinion/653630/united-states-v-brown-university-in-providence-in-the-state-of-rhode/\"><span class=\"volume\">5</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">658</span></a></span><pre class=\"inline\"> (3d Cir. 1993).\"\n\n     On page 16, footnote 6, line 3, replace \"Trustee's\" with\n\"Trustees'\"\n\n     On page 44, line 16, replace \"Secs.\" with \"Sec.\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/653630/"
+  ]
+}

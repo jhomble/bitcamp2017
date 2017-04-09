@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202342/",
+  "absolute_url": "/opinion/202342/united-states-v-marquez-figueroa/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202342/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:50:30Z",
+  "date_modified": "2016-02-28T05:07:46.824056Z",
+  "type": "010combined",
+  "sha1": "363f13e824781bc6b71e55eebfb3f732afb8b6ca",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1069ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/08/09/US_v._Marquez-Figueroa.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 04-1069\n\n                         UNITED STATES,\n\n                            Appellee,\n\n                               v.\n\n                  HÉCTOR LUIS MÁRQUEZ-FIGUEROA,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on July 6, 2006 is corrected\nas follows:\n\n     On Page 5, Line 17 it should read \"count based upon . . .\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

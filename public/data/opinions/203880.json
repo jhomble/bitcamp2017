@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203880/",
+  "absolute_url": "/opinion/203880/united-states-v-zayas/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203880/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:50Z",
+  "date_modified": "2016-02-28T05:12:12.590610Z",
+  "type": "010combined",
+  "sha1": "a798ceb09f60d56e32a92123c0023995dc90a6c5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1089E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/06/22/US_v._Zayas.pdf",
+  "plain_text": "              United States Court of Appeals\n                              For the First Circuit\n\n\nNo. 08-1089\n\n\n                                    UNITED STATES,\n\n                                         Appellee,\n\n                                             v.\n\n                                       LUIS ZAYAS,\n\n                                   Defendant, Appellant.\n\n\n                                    ERRATA SHEET\n\n\n      The opinion of this Court, issued on June 8, 2009, should be amended as follows:\n\n      On Page 5, Line 10 3553(f)4) should read 3553(f)(4).\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

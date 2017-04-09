@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202821/",
+  "absolute_url": "/opinion/202821/rossi-v-gemma/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202821/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:38Z",
+  "date_modified": "2016-02-28T05:09:02.546317Z",
+  "type": "010combined",
+  "sha1": "5d4d5ada4a44c51c6e38033a609b9cc2a9747355",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2020ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/28/Rossi_v._Gemma.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 06-2020\n\n                ROBERT V. ROSSI; LINDA A. ROSSI,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n LEONARD P. GEMMA, individually and in his capacity as President\n      of Gem Plumbing & Heating Co., Inc.; ROBERT J. LEVINE,\nindividually and in his capacity as a general partner of Gemma &\n   Levine; HENRY S. KINCH, JR., in his capacity as Clerk of the\n                 Providence County Superior Court,\n\n                     Defendants, Appellees.\n\n\nNo. 06-2021\n\n                ROBERT V. ROSSI; LINDA A. ROSSI,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n                GEM PLUMBING & HEATING CO., INC.,\n\n                      Defendant, Appellee.\n\n\n                             ERRATA\n\n     The opinion of this court, issued May 31, 2007, should be\namended as follows:\n\n     On page 11, line 23: Replace the word \"filled\" with the word\n\"filed.\"\n\n     On line five of footnote 10 (page 14): Delete the apostrophe\nafter \"Rossis.\"\n\n     On page 18, line 14: After \"n.9\" insert a space followed by\nthe parenthetical \"(1987).\"\n\n     On page 29, line 8: Delete the period after \"Dep't.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203233/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203651/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203894/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220073/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/621257/"
+  ]
+}

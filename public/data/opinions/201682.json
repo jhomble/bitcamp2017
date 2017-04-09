@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201682/",
+  "absolute_url": "/opinion/201682/watson-v-boyajian/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201682/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:32:06Z",
+  "date_modified": "2016-02-28T05:06:09.326365Z",
+  "type": "010combined",
+  "sha1": "805a81ae7922bd28f000e28291f836a7c2e9ded3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-9005ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/07/06/Watson_v._Boyajian.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 04-9005\n\n              IN RE MICHAEL WATSON and KATHLEEN WATSON,\n\n                              Debtors,\n\n                 MICHAEL WATSON and KATHLEEN WATSON,\n\n                             Appellants,\n\n                                 v.\n\n                 JOHN BOYAJIAN, Chapter 13 Trustee,\n\n                              Appellee.\n\n\n                            ERRATA SHEET\n\n     The opinion of this     Court    issued   on   March   25,   2005   is\ncorrected as follows:\n\n    Page 16, line 12:    delete the word \"order\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/171367/"
+  ]
+}

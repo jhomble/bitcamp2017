@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145399/",
+  "absolute_url": "/opinion/145399/united-states-v-aguirre-gonzalez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145399/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-03T19:19:04Z",
+  "date_modified": "2016-02-28T03:33:19.825601Z",
+  "type": "010combined",
+  "sha1": "ea049c89b141384c9bc0ee047d3bfe7daa0e76c4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1276E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/06/US_v._Aguirre-Gonzalez.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\nNo. 08-1276\n\n                      UNITED STATES OF AMERICA,\n                              Appellee,\n\n                                 v.\n\n                     ALVIN F. AGUIRRE-GONZÁLEZ,\n                        Defendant, Appellee,\n\n\n              RICHARD J. SCHMEELK; WILLIAM B. FINNERAN;\n                       and JIRA ASSOCIATES, LP,\n                         Movants, Appellants,\n\n\n                   WELLS CAPITAL MANAGEMENT, INC.,\n                       Provisional Intervenor.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on March 2, 2010, is amended\nas follows:\n\n     On page 7, line 1:     Replace \"January 17, 2003\"    with\n     \"January 17, 2008\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

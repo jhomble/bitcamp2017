@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202117/",
+  "absolute_url": "/opinion/202117/boston-edison-co-v-ferc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202117/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:45:08Z",
+  "date_modified": "2016-02-28T05:07:19.451563Z",
+  "type": "010combined",
+  "sha1": "3ee85cdcfcd2ae8ae3895e81b8910c3b0074e2c8",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2590ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/30/Boston_Edison_Co._v._FERC.pdf",
+  "plain_text": "            United States Court of Appeals\n                       For the First Circuit\n\nNo. 04-2590\nNo. 05-1836\n\n                       BOSTON EDISON COMPANY,\n\n                             Petitioner,\n\n                                 v.\n\n                FEDERAL ENERGY REGULATORY COMMISSION,\n\n                             Respondent.\n                              __________\n\n                   CONCORD MUNICIPAL LIGHT PLANT,\n                  WELLESLEY MUNICIPAL LIGHT PLANT,\n\n                            Intervenors.\n\n\n\n\n                               ERRATA\n\n     The opinion of this court issued March 20, 2006, is amended as\nfollows:\n\n       On page 11, paragraph two, line 3:   change \"PTF-in\" to \"PTF--\nin.\"\n\n       On page 16, line 3, change \"Kahn\" to \"Kahn.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

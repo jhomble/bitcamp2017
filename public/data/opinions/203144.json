@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203144/",
+  "absolute_url": "/opinion/203144/jorgji-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203144/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:09:28Z",
+  "date_modified": "2016-02-28T05:10:05.230381Z",
+  "type": "010combined",
+  "sha1": "0a571cb68bfaf45ca2ed143f932e821042dd67f6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1571ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/02/08/Jorgji_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 07-1571\n\n               DIMITRULLA JORGJI, PANDELI JORGJI,\n                      and ANGJELLO JORGJI,\n\n                          Petitioners,\n\n                               v.\n\n               MICHAEL MUKASEY, ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n               ON PETITION FOR REVIEW OF AN ORDER\n\n               OF THE BOARD OF IMMIGRATION APPEALS\n\n\n\n                             ERRATA\n\n\n     The opinion of this court dated January 24, 2008, is amended\nas follows:\n\n     On page 11, line 8: replace the phrase \"attempting the cross\"\nwith \"attempting to cross.\"\n\n     On page 15, line 18: replace the phrase \"and application is\nconsidered\" with \"an application is considered.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}
