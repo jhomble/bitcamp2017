@@ -2,15 +2,9 @@
   "name": "bitcamp",
   "main": "server.js",
   "dependencies": {
-<<<<<<< HEAD
     "@google-cloud/language": "^0.10.0",
     "body-parser": "~1.4.2",
     "express": "~4.5.1",
-    "method-override": "~2.0.2"
-  }
-=======
-    "express": "~4.5.1",
-    "body-parser": "~1.4.2",
     "method-override": "~2.0.2"
   },
   "scripts": {
@@ -27,6 +21,6 @@
     "url": "https://github.com/jhomble/bitcamp2017/issues"
   },
   "homepage": "https://github.com/jhomble/bitcamp2017#readme",
+  "devDependencies": {},
   "description": ""
->>>>>>> 40d794eaad106725bf8cffb7b43b99a04dccb78c
 }

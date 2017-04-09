@@ -70,7 +70,7 @@ app.get('/NLP', function (req, res) {
 require('./app/routes')(app); // configure our routes
 
 // start app ===============================================
-// startup our app at http://localhost:8080
+// startup our app at http://localhost:8000
 app.listen(port);               
 
 // shoutout to the user                     
