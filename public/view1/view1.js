@@ -15,15 +15,28 @@ angular.module('myApp.view1', ['ngRoute'])
     var count = 0;
     var i = 1;
 
+    var caseMap = [];
+
     $scope.cases = [];
     $scope.caseID = ""
 
+    var loadMap = function () {
+      $.ajax({
+        async: false,
+        url: "/view1/map.json",
+        success: function (json) {
+          caseMap = json
+        }
+      });
+    }
+
+    loadMap();
     $scope.loadCases = function () {
       count = 0;
-      for (i; count <= 5 && total < 1763; i++) {
+      for (i; count <= 5 && total < 11174; i++) {
         $.ajax({
           async: false,
-          url: "../data/opinions/" + i.toString() + ".json",
+          url: "../data/opinions/" + caseMap[i].index.toString() + ".json",
           success: function (json) {
             count++;
             total++;
@@ -44,31 +57,45 @@ angular.module('myApp.view1', ['ngRoute'])
       var k = 1;
       var check = false;
       var id = $scope.caseID
-      for (k; k < 1763; k++) {
-        $.ajax({
-          async: false,
-          url: "../data/opinions/" + k.toString() + ".json",
-          success: function (json) {
-            if (id == json.sha1) {
-              total = 1;
-              $scope.cases = []
-              $scope.cases.push({
-                sha1: json.sha1,
-                date: json.date_created.substring(0, 10),
-                absoluteUrl: "https://www.courtlistener.com" + json.absolute_url,
-                resource_uri: json.resource_uri,
-                opinion: json.plain_text
-              })
-
-              check = true;
+      for (k; k < 11174; k++) {
+        if(caseMap[k].id === id){
+          $.ajax({
+            async: false,
+            url: "../data/opinions/" + caseMap[k].index.toString() + ".json",
+            success: function (json) {
+                total = 1;
+                $scope.cases = []
+                $scope.cases.push({
+                  sha1: json.sha1,
+                  date: json.date_created.substring(0, 10),
+                  absoluteUrl: "https://www.courtlistener.com" + json.absolute_url,
+                  resource_uri: json.resource_uri,
+                  opinion: json.plain_text
+                })
             }
-          }
-        });
-        if (check === true)
+          });
           return;
+        }
       }
       alert("Couldn't Find Case")
     }
+
+    // var asd = function () {
+    //   var h = 220073;
+    //   var type = ""
+    //   for (h; h < 249672; h++) {
+    //     $.ajax({
+    //       async: false,
+    //       url: "../data/opinions/" + h.toString() + ".json",
+    //       success: function (json) {
+    //         type = type + "{\"index\": \"" + h + "\", \"id\": \"" + json.sha1 + "\"},"
+    //       }
+    //     });
+    //   }
+    //   console.log(type)
+    // }
+    // asd()
+
     $scope.loadCases()
     // analyzeEntitiesOfText($scope.cases[1].opinion)
   }]);
