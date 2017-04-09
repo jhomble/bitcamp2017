@@ -1,9 +1,10 @@
- {
-      "name": "bitcamp",
-      "main": "server.js",
-      "dependencies": {
-        "express" : "~4.5.1",
-        "body-parser" : "~1.4.2",
-        "method-override" : "~2.0.2"        
-      }
-    }
+{
+  "name": "bitcamp",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/language": "^0.10.0",
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "method-override": "~2.0.2"
+  }
+}

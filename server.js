@@ -1,5 +1,19 @@
 // server.js
 
+'use strict';
+
+// Imports the Google Cloud client library
+const Language = require('@google-cloud/language');
+
+// Your Google Cloud Platform project ID
+const projectId = 'bitcampNLP';
+
+// Instantiates a client
+const languageClient = Language({
+	projectId: projectId
+});
+
+
 // modules =================================================
 var express        = require('express');
 var app            = express();
@@ -7,7 +21,7 @@ var bodyParser     = require('body-parser');
 var methodOverride = require('method-override');
 
 // configuration ===========================================
-    
+
 
 // set our port
 var port = process.env.PORT || 8000; 
@@ -31,6 +45,26 @@ app.use(methodOverride('X-HTTP-Method-Override'));
 
 // set the static files location /public/img will be /img for users
 app.use(express.static(__dirname + '/public')); 
+
+app.get('/NLP', function (req, res) {
+	var params = req.params;
+	var text = params.text;
+
+	if(text){
+		// Detects the entities of the text
+		languageClient.detectEntities(text).then((results) => {
+			const entities = results[0];
+			console.log('Entities:');
+			for (let type in entities) {
+				console.log(`${type}:`, entities[type]);
+			}
+			res.status(200).send(entities);;
+		});
+	}else{
+		res.status(404).send("You done fucked up A-ARON");;
+	}
+
+});
 
 // routes ==================================================
 require('./app/routes')(app); // configure our routes
