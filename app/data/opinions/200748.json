@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200748/",
+  "absolute_url": "/opinion/200748/united-states-v-vega-colon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200748/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:59:21Z",
+  "date_modified": "2016-02-28T05:03:41.846967Z",
+  "type": "010combined",
+  "sha1": "d07c129805ced1e582de87f16a24565dfcf51823",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1361ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/12/02/US_v._Vega-Colon.pdf",
+  "plain_text": "          United States Court of Appeals\n                 For the First Circuit\n\n\nNo. 01-1619\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                           v.\n\n                 WILLIAM SOTO-BENÍQUEZ,\n\n                  Defendant, Appellant.\n\n\nNo. 01-1674\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                           v.\n\n                   JUAN SOTO-RAMÍREZ,\n\n                  Defendant, Appellant.\n\n\nNo. 00-1547\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                           v.\n\n                 EDUARDO ALICEA-TORRES,\n\n                  Defendant, Appellant.\n\n\nNo. 01-1620\n\n                UNITED STATES OF AMERICA,\n\f                      Appellee,\n\n                          v.\n\n               RAMON FERNÁNDEZ-MALAVÉ,\n\n                Defendant, Appellant.\n\n\n\nNo. 00-1464\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                          v.\n\n                CARMELO VEGA-PACHECO,\n\n                Defendant, Appellant.\n\n\n\nNo. 00-1488\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                          v.\n\n                ARMANDO GARCÍA-GARCÍA,\n\n                Defendant, Appellant.\n\n\n\nNo. 00-1470\n\n               UNITED STATES OF AMERICA,\n\n                       Appellee,\n\n                          v.\n\n              JOSE LUIS DE LEÓN MAYSONET,\n\n                 Defendant, Appellant.\n\fNo. 00-1362\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                            v.\n\n                   RENE GONZALEZ-AYALA,\n\n                  Defendant, Appellant.\n\n\n\nNo. 00-1543\n\n                 UNITED STATES OF AMERICA,\n\n                         Appellee,\n\n                            v.\n\n              JUAN ENRIQUE CINTRÓN-CARABALLO,\n\n                   Defendant, Appellant.\n\n\n\nNo. 00-1361\n\n                 UNITED STATES OF AMERICA,\n\n                         Appellee,\n\n                            v.\n\n                    MIGUEL VEGA-COLÓN,\n\n                   Defendant, Appellant.\n\n\n\nNo. 00-1456\n\n                 UNITED STATES OF AMERICA,\n\n                         Appellee,\n\f                               v.\n\n                       MIGUEL VEGA-COSME,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on November 20, 2003 is\namended as follows:\n\n     On the cover sheet, the \"o\" in Luz M. Rios-Rosario should be\nunderlined, and there should be no comma after Victor Miranda-\nCorrada's name.\n\n     On page 13, line 6, \"Soto-Ramírez\" should be replaced with\n\"Soto-Ramírez's\"\n\n     On page 24, line 1, \"and\" should be inserted before\n\"returned to selling\"\n\n     On page 24, line 7, \"de Leon-Maysonet\" should be replaced\nwith \"de León Maysonet\"\n\n     On page 59, line 15, \"nickel plated\" should be replaced with\n\"nickel-plated\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

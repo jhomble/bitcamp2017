@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145531/",
+  "absolute_url": "/opinion/145531/agusty-reyes-v-dept-of-educ-of-puerto-rico/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145531/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-04T20:09:54Z",
+  "date_modified": "2016-02-28T03:33:32.805201Z",
+  "type": "010combined",
+  "sha1": "bd16c97f193c97aa4edbc363f5ba9ea4c24dbc3f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1247E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/20/Agusty-Reyes_v._Department_of_Education_of_Pue.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 09-1247\n\n         OLGA E. AGUSTY-REYES; ARMANDO RIVERA CABALLERO,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n THE DEPARTMENT OF EDUCATION OF THE COMMONWEALTH OF PUERTO RICO;\n                      MIGUEL HERNÁNDEZ-CRUZ,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on April 6, 2010, is\namended as follows:\n\n     On page 2, line 1, the word \"reasonable\" should be inserted\nbetween \"all\" and \"inferences.\"\n\n     On page 24, line 23, a comma should be inserted between\n\"behavior\" and \"well.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203550/",
+  "absolute_url": "/opinion/203550/united-states-v-morales-machuca/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203550/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:59Z",
+  "date_modified": "2016-02-28T05:11:16.852350Z",
+  "type": "010combined",
+  "sha1": "c6a2ebe62ea5f6f8b850885712861aef654cb1d5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1283E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/30/US_v._Morales-Machuca.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 06-1283\n     07-1001\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                     DAVID MORALES-MACHUCA,\n                    QUESTER STERLING-SUÁREZ,\n\n                     Defendants, Appellants.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on October 17, 2008, is\ncorrected as follows:\n\nOn p. 25, lines 4-11: Delete sentence beginning with \"A\nsentence\" and ending with \"original).\" and substitute with:\n\n\"We review sentences for reasonableness regardless of whether\nthey fall inside or outside the applicable Guideline sentencing\nrange. United States v. Jiménez-Beltre, 440 F.3d 514, 519 (1st\nCir. 2006) (en banc). Nevertheless, \"a defendant who attempts to\nbrand a within-the-range sentence as unreasonable must carry a\nheavy burden.\" United States v. Van Anh, 523 F.3d 43, 59 (1st\nCir. 2008) (citing United States v. Pelletier, 469 F.3d 194, 204\n(1st Cir. 2006)).\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 06-1283\n     07-1001\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                     DAVID MORALES-MACHUCA,\n                    QUESTER STERLING-SUÁREZ,\n\n                     Defendants, Appellants.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on October 17, 2008, is\ncorrected as follows:\n\nOn p. 25, lines 4-11: Delete sentence beginning with \"A\nsentence\" and ending with \"original).\" and substitute with:\n\n\"We review sentences for reasonableness regardless of whether\nthey fall inside or outside the applicable Guideline sentencing\nrange. United States v. Jiménez-Beltre, </pre><span class=\"citation no-link\"><span class=\"volume\">440</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">514</span></span><pre class=\"inline\">, 519 (1st\nCir. 2006) (en banc). Nevertheless, \"a defendant who attempts to\nbrand a within-the-range sentence as unreasonable must carry a\nheavy burden.\" United States v. Van Anh, </pre><span class=\"citation\" data-id=\"203238\"><a href=\"/opinion/203238/united-states-v-van-anh/\"><span class=\"volume\">523</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">43</span></a></span><pre class=\"inline\">, 59 (1st\nCir. 2008) (citing United States v. Pelletier, </pre><span class=\"citation\" data-id=\"796023\"><a href=\"/opinion/796023/united-states-v-joseph-pellether/\"><span class=\"volume\">469</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">194</span></a></span><pre class=\"inline\">, 204\n(1st Cir. 2006)).\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203238/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/796023/"
+  ]
+}

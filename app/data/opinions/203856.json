@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203856/",
+  "absolute_url": "/opinion/203856/gomes-v-brady/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203856/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:26Z",
+  "date_modified": "2016-02-28T05:12:10.701101Z",
+  "type": "010combined",
+  "sha1": "26581b1df5766fab58f512022bcb9edaff76203f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1810E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/06/04/Gomes_v._OBrien.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-1810\n\n                        CARLOS LUIS GOMES,\n\n                      Petitioner, Appellant,\n\n                                v.\n\n                  SUPERINTENDENT BERNARD BRADY,\n\n                      Respondent, Appellee.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court, issued on May 6, 2009, should be\n\namended as follows:\n\n     On page 6, lines 1-2, replace \"May 4, 2006\" with \"May 28,\n\n2008.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/180960/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204162/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204163/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/3173809/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201587/",
+  "absolute_url": "/opinion/201587/aroostook-band-of-v-ryan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201587/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:29:57Z",
+  "date_modified": "2016-02-28T05:06:01.756104Z",
+  "type": "010combined",
+  "sha1": "7362f780857cee27cd78eb657d77274c7ba7df07",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1517ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/05/18/Aroostook_Band_of_v._Ryan.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 04-1517\n                   AROOSTOOK BAND OF MICMACS,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n     PATRICIA E. RYAN, EXECUTIVE DIRECTOR, MAINE HUMAN RIGHTS\nCOMMISSION; LINDA E. ABROMSON, WARREN C. KESSLER, KIM C. MILLICK,\n AND PAUL K. VESTAL, JR., MEMBERS, MAINE HUMAN RIGHTS COMMISSION;\n            LISA GARDINER; TAMMY CONDON; BEVERLY AYOOB,\n\n                     Defendants, Appellees.\n\n\n                             ERRATA\n\n     The opinion of this court issued April 13, 2005 is amended\nas follows:\n\n     On page 11, lines 2 and 3, delete \"Approximately ten years\nlater, the Band filed aboriginal land claims against Maine.\" and\ninsert in its place: \"In the years following the passage of\nMICSA, the Band, through counsel, raised its own claims with the\nstate of Maine.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

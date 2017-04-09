@@ -1,0 +1,29 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201137/",
+  "absolute_url": "/opinion/201137/united-states-v-adams/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201137/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:08:24Z",
+  "date_modified": "2016-02-28T05:04:40.814881Z",
+  "type": "010combined",
+  "sha1": "2f41644f1d6d615693a7dde217e2ca0a93e9dfb9",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2010ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/16/US_v._Adams.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\nNo. 03-2010\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                         DELON J. ADAMS,\n                   a/k/a JOSEPH DELEON ADAMS,\n\n                      Defendant, Appellant.\n\n\n\n\n                              ERRATA\n\n\n\n     The opinion of this court dated July 14, 2004, is amended as\n\nfollows:\n\n     On page 3, penultimate line, following the word, \"found\"\n\nreplace the word \"the\" with the word \"a.\"\n\n     On page 5, line 4, insert a hyphen between the words \"African\"\n\nand \"American.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/201369/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201633/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201734/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202737/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203141/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203972/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204136/"
+  ]
+}

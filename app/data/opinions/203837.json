@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203837/",
+  "absolute_url": "/opinion/203837/town-of-winthrop-v-faa/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203837/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:10Z",
+  "date_modified": "2016-02-28T05:12:07.399523Z",
+  "type": "010combined",
+  "sha1": "60e95c86758f30ea77db6c35eaacfae1c55da6e0",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1703E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/05/22/Town_of_Winthrop_v._FAA.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-1703\n\n                        Town of Winthrop,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n                Federal Aviation Administration,\n\n                      Defendant, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on May 8, 2009 is amended\nas follows:\n\n     The sentence beginning on page 5 line 8 is amended so that\nit now reads \"At then of this process, the Town voluntarily\nagreed to eliminate thirty-seven of the documents from its FOIA\nrequest.\"\n\n     The first sentence of footnote 5 on page 8 is deleted.\n\n     The second sentence of footnote 5 on page is amended so that\nit now reads \"After its in camera review, the district court\nordered that an additional nine documents be released to the\nTown, and the agency provided those documents at the close of the\nhearing.\"\n\n     Footnote 7 on page 10 is deleted.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

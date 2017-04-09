@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204095/",
+  "absolute_url": "/opinion/204095/weavers-cove-energy-llc-v-rhode-island-coastal-res/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204095/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:29:55Z",
+  "date_modified": "2016-02-28T05:12:52.500641Z",
+  "type": "010combined",
+  "sha1": "e4781f7c07a3b83b6ff60ec21f51fc688e10b8a2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2440E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/12/04/Weavers_Cove_Energy_LLC_v._Rhode_Island_Coastal_Resources.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-2440\n\n                   WEAVER'S COVE ENERGY, LLC,\n\n                      Plaintiff, Appellee,\n\n                               v.\n\n  RHODE ISLAND COASTAL RESOURCES MANAGEMENT COUNCIL; MICHAEL M.\nTIKOIAN, in his capacity as Chairman of the Rhode Island Coastal\nResources Management Council; PAUL E. LEMONT, in his capacity as\n Vice Chairman of the Rhode Island Coastal Resources Management\n   Council; THOMAS RICCI; DAVID ABEDON; DONALD GOMEZ; K. JOSEPH\n    SHEKARCHI; NEIL GRAY; W. MICHAEL SULLIVAN; RAYMOND C. COIA;\nGERALD P. ZARRELLA; BRUCE DAWSON; in their capacities as Members\n     of the Rhode Island Coastal Resources Management Council,\n\n                     Defendants, Appellants.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 26, 2009, is\namended as follows:\n\n     On page 4, line 13, delete the word \"to\" in the phrase\n\"under the to NGA.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

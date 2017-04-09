@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/223443/",
+  "absolute_url": "/opinion/223443/kaplan-v-first-hartford-corp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/223443/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-17T19:24:44Z",
+  "date_modified": "2016-02-28T05:40:53.851381Z",
+  "type": "010combined",
+  "sha1": "730439b0f6fc701719e3f3b0ef3518954d6f6426",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-2477U-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/08/17/Kaplan_v._First_Hartford_Corp.pdf",
+  "plain_text": "                  Not For Publication in West's Federal Reporter\n\n           United States Court of Appeals\n                          For the First Circuit\n\nNo. 10-2477\n\n                            RICHARD E. KAPLAN,\n\n                           Plaintiff, Appellee,\n\n                                       v.\n\n              FIRST HARTFORD CORPORATION and NEIL ELLIS,\n\n                         Defendants, Appellants.\n\n\n           APPEAL FROM THE UNITED STATES DISTRICT COURT\n                     FOR THE DISTRICT OF MAINE\n\n            [Hon. D. Brock Hornby, U.S. District Judge]\n\n\n                                    Before\n\n                 Torruella, Thompson, Circuit Judges,\n                      and Saris,* District Judge.\n\n\n     Lee H. Kozol, with whom Friedman & Atherton LLP, Peter W.\nCulley, Pierce Atwood LLP, Joseph H. Groff, III and Jensen Baird\nGardner & Henry, were on brief for appellants.\n     Ben Robbins, with whom Martin J. Newhouse and New England\nLegal Foundation, as amicus curiae in support of appellant First\nHartford Corporation.\n     Thomas C. Newman, with whom Richard L. O'Meara, Nicole L.\nBradick and Murray, Plumb & Murray, was on brief for appellee.\n\n\n\n                              August 17, 2011\n\n\n\n\n*\n    Of the District of Massachusetts, sitting by designation.\n\f          Per Curiam.   This case is affirmed on substantially the\n\nsame grounds as stated in the opinions of the district court.   See\n\nKaplan v. First Hartford Corp., 716 F. Supp. 2d 11 (D. Me. 2010);\n\nKaplan v. First Hartford Corp., 484 F. Supp. 2d 131 (D. Me. 2007).\n\nThe appeal is dismissed. Costs allowed to appellees.\n\n          It is so ordered.\n\n\n\n\n                                -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">                  Not For Publication in West's Federal Reporter\n\n           United States Court of Appeals\n                          For the First Circuit\n\nNo. 10-2477\n\n                            RICHARD E. KAPLAN,\n\n                           Plaintiff, Appellee,\n\n                                       v.\n\n              FIRST HARTFORD CORPORATION and NEIL ELLIS,\n\n                         Defendants, Appellants.\n\n\n           APPEAL FROM THE UNITED STATES DISTRICT COURT\n                     FOR THE DISTRICT OF MAINE\n\n            [Hon. D. Brock Hornby, U.S. District Judge]\n\n\n                                    Before\n\n                 Torruella, Thompson, Circuit Judges,\n                      and Saris,* District Judge.\n\n\n     Lee H. Kozol, with whom Friedman & Atherton LLP, Peter W.\nCulley, Pierce Atwood LLP, Joseph H. Groff, III and Jensen Baird\nGardner & Henry, were on brief for appellants.\n     Ben Robbins, with whom Martin J. Newhouse and New England\nLegal Foundation, as amicus curiae in support of appellant First\nHartford Corporation.\n     Thomas C. Newman, with whom Richard L. O'Meara, Nicole L.\nBradick and Murray, Plumb & Murray, was on brief for appellee.\n\n\n\n                              August 17, 2011\n\n\n\n\n*\n    Of the District of Massachusetts, sitting by designation.\n\f          Per Curiam.   This case is affirmed on substantially the\n\nsame grounds as stated in the opinions of the district court.   See\n\nKaplan v. First Hartford Corp., </pre><span class=\"citation\" data-id=\"2538537\"><a href=\"/opinion/2538537/kaplan-v-first-hartford-corp/\"><span class=\"volume\">716</span> <span class=\"reporter\">F. Supp. 2d</span> <span class=\"page\">11</span></a></span><pre class=\"inline\"> (D. Me. 2010);\n\nKaplan v. First Hartford Corp., </pre><span class=\"citation\" data-id=\"2445475\"><a href=\"/opinion/2445475/kaplan-v-first-hartford-corp/\"><span class=\"volume\">484</span> <span class=\"reporter\">F. Supp. 2d</span> <span class=\"page\">131</span></a></span><pre class=\"inline\"> (D. Me. 2007).\n\nThe appeal is dismissed. Costs allowed to appellees.\n\n          It is so ordered.\n\n\n\n\n                                -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/2445475/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/2538537/"
+  ]
+}

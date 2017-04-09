@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201173/",
+  "absolute_url": "/opinion/201173/boyle-v-international-truck/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201173/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:09:03Z",
+  "date_modified": "2016-02-28T05:04:45.833537Z",
+  "type": "010combined",
+  "sha1": "5e3bfb2abfebe2580519aad9a2399ccbdc4d63fb",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1172ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/06/Boyle_v._International_Truck.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\nNo. 03-1172\n\n                          JAMES G. BOYLE and\n                         TUCK'S TRUCKS, INC.,\n\n                        Plaintiffs, Appellants\n\n                                  v.\n\n              INTERNATIONAL TRUCK AND ENGINE CORPORATION,\n\n                         Defendant, Appellee.\n\n\n\n                             ERRATA SHEET\n\n\n     The opinion of this Court issued on May 21, 2004 is amended\nas follows:\n\n\n     Page 10:     Delete footnote 1.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

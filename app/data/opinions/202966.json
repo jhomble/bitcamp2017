@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202966/",
+  "absolute_url": "/opinion/202966/kozak-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202966/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:05:55Z",
+  "date_modified": "2016-02-28T05:09:52.486237Z",
+  "type": "010combined",
+  "sha1": "a0ec02ad704ed6cf908bbcc943d42693fd3fdf75",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1169ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/10/02/Kozak_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\n\nNo. 07-1169\n\n                         VLADIMIR KOZAK,\n\n                           Petitioner,\n\n                               v.\n\n                        ALBERTO GONZÁLES,\n                 UNITED STATES ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on September 14, 2007, is\namended as follows:\n\n     On page 2, line 6, \"July 7\" should read \"July 5.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/69493/"
+  ]
+}

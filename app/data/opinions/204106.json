@@ -1,0 +1,28 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204106/",
+  "absolute_url": "/opinion/204106/kunelius-v-town-of-stow/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204106/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:06Z",
+  "date_modified": "2016-02-28T05:12:51.738101Z",
+  "type": "010combined",
+  "sha1": "731895c5561e8e75e8ba8d57ff01837d437b7ba5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2393E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/12/17/Kunelius_v._Town_of_Stow.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-2393\n\n                        MARILYN KUNELIUS,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n            TOWN OF STOW; THE TRUST FOR PUBLIC LAND;\n        CRAIG A. MACDONNELL, in his individual capacity,\n\n                     Defendants, Appellees,\n\n              A PARTNERSHIP OF UNKNOWN NAME BETWEEN\n           TOWN OF STOW AND THE TRUST FOR PUBLIC LAND,\n\n                           Defendant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on November 9, 2009, is\namended as follows:\n\n     The correct spelling of the Defendant-Appellee's last name\nis \"MacDonnell.\"\n\n     The sentence at page 10, line 11 should read \" . . . most of\nthe forest acres . . . .\"\n\n     At page 12, line 17, the \"a\" before \"realized\" is deleted.\n\n     At page 12, footnote 2, \"2009\" is replaced by \"2003.\"\n\n     At page 41, line 23, \"of\" is replaced by \"off.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/26/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204143/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204161/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204174/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/219565/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220524/"
+  ]
+}

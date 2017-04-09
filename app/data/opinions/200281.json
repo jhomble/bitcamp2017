@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200281/",
+  "absolute_url": "/opinion/200281/trull-v-volkswagenwerk/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200281/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:47:43Z",
+  "date_modified": "2016-02-28T05:03:03.028145Z",
+  "type": "010combined",
+  "sha1": "a4f0ccee2af8dce8c84f7eea25f63bedaece7d83",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2010ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/01/10/Trull_v._Volkswagenwerk.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-2010\n\n        NATHANIEL TRULL, PPA DAVID TRULL AND DAVID TRULL\n         ADMINISTRATOR OF THE ESTATE OF BENJAMIN TRULL,\n\n                     Plaintiffs, Appellees,\n\n                                v.\n\n         VOLKSWAGEN OF AMERICA, INC. and VOLKSWAGEN, AG,\n\n                     Defendants, Appellants.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on November 14, 2002 is\namended as follows:\n\n     Page 3, line 5-6:   Insert Inc., after Volkswagen of Am.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

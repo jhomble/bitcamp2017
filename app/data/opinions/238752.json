@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/238752/",
+  "absolute_url": "/opinion/238752/institute-for-trend-research-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/238752/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:32:09Z",
+  "date_modified": "2016-02-28T05:54:25.293084Z",
+  "type": "010combined",
+  "sha1": "6cc70fe0b62b29199f4e049faaef254c4e7d25da",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/230/230.F2d.611.5080.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">230 F.2d 611</p>\n    <p class=\"case_cite\">56-1 USTC  P 9382</p>\n    <p class=\"parties\">INSTITUTE FOR TREND RESEARCH, Plaintiff, Appellant,<br>v.<br>UNITED STATES of America, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5080.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 16, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reno, Concord, N.H., with whom Orr &amp; Reno, Concord, N.H., was on brief, for appellant.</p>\n      <p class=\"indent\">Louise Foster, Attorney, Department of Justice, Washington, D.C., with whom Charles K. Rice, Acting Asst. Atty. Gen., Lee A. Jackson, Attorney, Department of Justice, Washington, D.C., and Maurice Bois, U.S. Atty., Concord, N.H., were on brief for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">230</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">611</span></span></p>\n    <p class=\"case_cite\">56-1 USTC  P 9382</p>\n    <p class=\"parties\">INSTITUTE FOR TREND RESEARCH, Plaintiff, Appellant,<br>v.<br>UNITED STATES of America, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5080.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 16, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reno, Concord, N.H., with whom Orr &amp; Reno, Concord, N.H., was on brief, for appellant.</p>\n      <p class=\"indent\">Louise Foster, Attorney, Department of Justice, Washington, D.C., with whom Charles K. Rice, Acting Asst. Atty. Gen., Lee A. Jackson, Attorney, Department of Justice, Washington, D.C., and Maurice Bois, U.S. Atty., Concord, N.H., were on brief for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145533/",
+  "absolute_url": "/opinion/145533/united-states-v-charlton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145533/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-04T20:09:56Z",
+  "date_modified": "2016-02-28T03:33:32.806613Z",
+  "type": "010combined",
+  "sha1": "d47a2264e6626cccf8ab299c9812ed5b8fe74ec9",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1797E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/20/US_v._Charlton_1.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-1797\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                        TREVOR CHARLTON,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     Chief Judge Lynch's concurrence in the opinion of this Court\nissued on April 1, 2010, is amended as follows:\n\n     On page 25, line 4, \"though little help to him here\" is\nchanged to \"though of little help to him here\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

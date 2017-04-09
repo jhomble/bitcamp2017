@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/227270/",
+  "absolute_url": "/opinion/227270/railway-express-agency-incorporated-v-benito-di-ca/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/227270/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:29:03Z",
+  "date_modified": "2016-02-28T05:45:23.953461Z",
+  "type": "010combined",
+  "sha1": "b8b7e005b4d6c71701e9ad99d2e0e496d28a47d9",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/189/189.F2d.520.4554_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">189 F.2d 520</p>\n    <p class=\"parties\">* RAILWAY EXPRESS AGENCY, Incorporated, Defendant, Appellant,<br>v.<br>Benito DI CAPRIO, Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4554.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">June 7, 1951.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Matthew W. Goring, Providence, R.I., Hinckley, Allen, Salisbury &amp; Parsons, Providence, R.I., on brief, for appellant.</p>\n      <p class=\"indent\">Francis I. McCanna, Providence, R.I., Robert R. Affick, West Warwick, R.I., and Timothy J. McCarthy, Providence, R.I., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, WOODBURY, Circuit Judge, and SWEENEY, District Judge.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">189</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">520</span></span></p>\n    <p class=\"parties\">* RAILWAY EXPRESS AGENCY, Incorporated, Defendant, Appellant,<br>v.<br>Benito DI CAPRIO, Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4554.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">June 7, 1951.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Matthew W. Goring, Providence, R.I., Hinckley, Allen, Salisbury &amp; Parsons, Providence, R.I., on brief, for appellant.</p>\n      <p class=\"indent\">Francis I. McCanna, Providence, R.I., Robert R. Affick, West Warwick, R.I., and Timothy J. McCarthy, Providence, R.I., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, WOODBURY, Circuit Judge, and SWEENEY, District Judge.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

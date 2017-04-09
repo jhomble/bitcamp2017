@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201100/",
+  "absolute_url": "/opinion/201100/sunoco-inc-v-makol/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201100/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:07:40Z",
+  "date_modified": "2016-02-28T05:04:35.376843Z",
+  "type": "010combined",
+  "sha1": "fe73c04daec68ff62b24997a9b9cc9a57b35c029",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1780ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/07/Sunoco_Inc._v._Makol.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-1780\n\n                       SUNOCO, INC. (R&M),\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n     NAIF MAKOL, JR., and MAKOL FAMILY LIMITED PARTNERSHIP,\n\n                     Defendants, Appellees.\n\n\n\n\n                          ERRATA SHEET\n\n\n\n     The opinion of this court issued on June 10, 2004, should be\namended as follows:\n\n     On page 17, footnote 4, last line:       replace \"(1964)\" with\n\"(Mass. 1964).\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

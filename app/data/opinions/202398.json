@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202398/",
+  "absolute_url": "/opinion/202398/de-aruajo-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202398/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:51:58Z",
+  "date_modified": "2016-02-28T05:07:56.524495Z",
+  "type": "010combined",
+  "sha1": "ee1fa7e45c542889bb14f24913f2583f98764734",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1886ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/09/07/De_Aruajo_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo. 05-1886\n\n                 DOMINGOS JOAO LIBERAL DE ARAUJO,\n\n                           Petitioner,\n\n                                v.\n\n                       ALBERTO R. GONZÁLES,\n              ATTORNEY GENERAL OF THE UNITED STATES,\n\n                           Respondent.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on August 11, 2006, is\namended as follows:\n\n     On page 11, line 10, insert \"he\" between \"that\" and \"is\ntherefore not removable\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

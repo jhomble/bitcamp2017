@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201727/",
+  "absolute_url": "/opinion/201727/micro-signal-researc-v-otus/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201727/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:32:51Z",
+  "date_modified": "2016-02-28T05:06:18.262725Z",
+  "type": "010combined",
+  "sha1": "0309cf2af2bb4c0f882e77cf736d44f8bca2015d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2563ERR2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/07/22/Micro_Signal_Researc_v._Otus_1.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 04-2563\n\n                   MICRO SIGNAL RESEARCH, INC.\n\n                      Plaintiff, Appellee,\n\n                               v.\n\n                NURI OTUS and MAUREEN CUNNINGHAM,\n\n                     Defendants, Appellants.\n                            __________\n\n                CUPERTINO NATIONAL BANK & TRUST,\n\n                            Trustee.\n\n\n\n\n                             ERRATA\n\n\n     The opinion of this court issued July 19, 2005, is amended as\nfollows:\n\n     On page 4, line 3, replace \"Otis\" with \"Otus\".\n\n     On page 6, line 3, footnote 2 should be moved next to \"veil.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

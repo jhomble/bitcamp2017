@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200175/",
+  "absolute_url": "/opinion/200175/calderon-ortiz-v-laboy-alvarado/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200175/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:45:31Z",
+  "date_modified": "2016-02-28T05:02:21.714748Z",
+  "type": "010combined",
+  "sha1": "6cc049107997808bfe2f9277da81d1f8b36bf3bb",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2469ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/10/23/Calderon-Ortiz_v._Laboy-Alvarado.pdf",
+  "plain_text": "             United States Court of Appeals\n                     For the First Circuit\n\nNo.01-2469\n\n\n         JESÚS MANUEL CALDERÓN-ORTIZ; ALFREDO CALDERÓN;\n                       MARIA ISABEL ORTÍZ,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n   ZOE LABOY-ALVARADO; JOHNNY HEREDIA-CALOCA; HÉCTOR FONTANÉZ,\n  Captain; GLADYS RIVERA; LUIS APONTE; CARLOS RODRÍGUEZ-DELGADO;\n AMAURY PÉREZ; WILSON MORALES; LEOCADIO HERNÁNDEZ; GRETCHEN GROE,\n OOCV2100; GEORGE GOE, OOCV2100, Lieutenant and Supervisor at the\n    Baymón Regional Metropolitan Detention Center, JAMES JOE,\n    00CV2100; RICHARD ROSADO; KIRK KOE, OOCV2100; NÉSTOR NOE,\n00CV2100; PETER POE, 00CV2100; TIMOTHY TOE, 00CV2100; MARCOS MOE,\n        00CV2100; SAMUEL SOE, 00CV2100; LYLE LOE, 00CV2100,\n\n                     Defendants, Appellees.\n\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on, August 20 2002, is\namended as follows:\n\n\nPage 2, Line 8:     Delete \"REVERSE\" and replace it with \"VACATE\n                    AND REMAND.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202102/",
+  "absolute_url": "/opinion/202102/united-states-v-cruzado-laureano/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202102/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:30Z",
+  "date_modified": "2016-02-28T05:07:09.999395Z",
+  "type": "010combined",
+  "sha1": "36c68017b1ffe0bc946515b42eb6e48cde72169e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1822ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/17/US_v._Cruzado-Laureano.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 05-1822\n\n                      UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                  v.\n\n              JUAN MANUEL CRUZADO-LAUREANO, a/k/a Manny,\n\n                        Defendant, Appellant.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on March 14, 2006 is\namended as follows:\n\n     On page 13, line 14, replace \"3B3.1\" with \"3B1.3\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/704/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202716/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203310/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220180/"
+  ]
+}

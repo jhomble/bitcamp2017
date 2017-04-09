@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200054/",
+  "absolute_url": "/opinion/200054/howard-v-antilla/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200054/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:43:02Z",
+  "date_modified": "2016-02-28T05:02:03.326224Z",
+  "type": "010combined",
+  "sha1": "29514ae599751b7d9083f08681b98488b6fbc4c2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1643A-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/08/05/Howard_v._Antilla.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\n\n\n\nNo. 01-1643\n\n                            ROBERT HOWARD,\n\n                         Plaintiff, Appellee,\n\n                                  v.\n\n                            SUSAN ANTILLA,\n\n                         Defendant, Appellant.\n\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on June 28, 2002, is amended\nas follows:\n\n        On the cover page, replace:\n\"Robert A. Bertsche, Zick Rubin, Stuart Svonkin and Hill & Barlow\nwere on brief, for amici curiae in support of appellant.\"\n\nwith:\n\n\"Robert A. Bertsche, Zick Rubin, Stuart Svonkin and Hill & Barlow\nwere on brief, for ABC, Inc., Bloomberg L.P., CBS Broadcasting,\nInc., Dow Jones & Company, Inc., The National Broadcasting Co.,\nInc., NYP Holdings, Inc., Time Inc., Ziff Davis Media, Inc., The\nAssociation of American Publishers, Inc., and The Newspaper\nAssociation of America, Inc., amici curiae.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

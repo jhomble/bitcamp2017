@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203536/",
+  "absolute_url": "/opinion/203536/in-re-engage-inc-v/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203536/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:44Z",
+  "date_modified": "2016-02-28T05:11:14.796958Z",
+  "type": "010combined",
+  "sha1": "053526b9157b66fbb3bbdef1316b7f4adae4e06d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1257E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/22/In_Re_Engage_Inc._v..pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 08-1257\n\n                   IN RE ENGAGE, INC., ET AL.,\n                             Debtors\n\n\n                        ROPES & GRAY LLP,\n\n                           Appellant,\n\n                               v.\n\n          CRAIG R. JALBERT, as Liquidating Supervisor,\n\n                            Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 6, 2008 is\namended as follows:\n\n     On page 5, line 2, replace \"December 27, 2008\" with\n\"December 28, 2007\".\n\n     On page 5, line 10, omit \"v. Century Indem. Co.,\".\n\n     On page 6, footnote 5, line 19, remove underline from \"v.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

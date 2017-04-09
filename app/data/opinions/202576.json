@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202576/",
+  "absolute_url": "/opinion/202576/governor-wentworth-v-hendrickson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202576/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:56:49Z",
+  "date_modified": "2016-02-28T05:08:15.230106Z",
+  "type": "010combined",
+  "sha1": "88053b5540e9dedfb600109c3ab8a4d14f337754",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1652ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/12/27/Governor_Wentworth_v._Hendrickson.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\nNo. 06-1652\n\n          GOVERNOR WENTWORTH REGIONAL SCHOOL DISTRICT,\n\n                       Plaintiff, Appellee,\n\n                                v.\n\n                    PAUL HENDRICKSON, ET AL.,\n\n                     Defendants, Appellants,\n\n                                v.\n\n                      GUY DONNELLY, ET AL.,\n\n                      Defendants, Appellees.\n\n\n                              ERRATA\n\n     The Opinion issued on November 13, 2006 is amended as follows:\n\n     The coversheet should read John P. Sherman and Sherman &\nRicker on motion to dismiss.\n\n     Page 5 Line 15 \"such further relief a this\" should be \"such\nfurther relief as this\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

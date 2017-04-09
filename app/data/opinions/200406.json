@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200406/",
+  "absolute_url": "/opinion/200406/davignon-v-clemmey/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200406/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:50:46Z",
+  "date_modified": "2016-02-28T05:02:56.694616Z",
+  "type": "010combined",
+  "sha1": "feea273198cbb65b7f9d650e31c91ab9daaa9727",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1862ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/04/01/Davignon_v._Clemmey.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\nNo. 01-1862\n\n                 NEAL DAVIGNON AND PATRICIA KELLEY,\n\n               Plaintiffs-Appellees/Cross-Appellants,\n\n\n\n                AMANDA DAVIGNON AND CHELSEA DAVIGNON,\n\n                        Plaintiffs-Appellees,\n\n                                 v.\n\n              KARL D. CLEMMEY AND KARL D. CLEMMEY, JR.,\n\n               Defendants-Appellants/Cross-Appellees,\n\n\n\n                  TOWN OF MANSFIELD, MASSACHUSETTS,\n                         ARTHUR O'NEIL, ETC.\n\n                        Defendants-Appellees,\n\n\n\n                       CLEMMEY, INC., ET AL.,\n\n                             Defendants.\n\n\n\nNo. 02-1293\n\n                 NEAL DAVIGNON AND PATRICIA KELLEY,\n\n               Plaintiffs-Appellees/Cross-Appellants,\n\n\n\n                AMANDA DAVIGNON AND CHELSEA DAVIGNON,\n\f                        Plaintiffs-Appellees,\n\n                                 v.\n\n              KARL D. CLEMMEY AND KARL D. CLEMMEY, JR.,\n\n               Defendants-Appellants/Cross-Appellees,\n\n\n\n                  TOWN OF MANSFIELD, MASSACHUSETTS,\n                         ARTHUR O'NEIL, ETC.\n\n                        Defendants-Appellees,\n\n\n\n                       CLEMMEY, INC., ET AL.,\n\n                             Defendants.\n\n\n\nNo. 02-1346\n                 NEAL DAVIGNON AND PATRICIA KELLEY,\n\n               Plaintiffs-Appellees/Cross-Appellants,\n\n\n\n                AMANDA DAVIGNON AND CHELSEA DAVIGNON,\n\n                        Plaintiffs-Appellees,\n\n                                 v.\n\n              KARL D. CLEMMEY AND KARL D. CLEMMEY, JR.,\n\n               Defendants-Appellants/Cross-Appellees,\n\n\n\n                  TOWN OF MANSFIELD, MASSACHUSETTS,\n                         ARTHUR O'NEIL, ETC.\n\n                        Defendants-Appellees,\n\n\n\n                                  2\n\f                    CLEMMEY, INC., ET AL.,\n\n                          Defendants.\n\n\n                         ERRATA SHEET\n\n     The opinion of this court issued March 4, 2003, should be\namended as follows:\n\n    On page 23, n. 8, line 4, \"DDS\" should be \"DSS.\"\n\n\n\n\n                               3\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

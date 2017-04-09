@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201142/",
+  "absolute_url": "/opinion/201142/delarosa-v-bissonette/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201142/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:08:28Z",
+  "date_modified": "2016-02-28T05:04:41.580088Z",
+  "type": "010combined",
+  "sha1": "91ace9c0fcccdbc20a1fa09a2140f0a78704b8f4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2559ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/19/Delarosa_v._Bissonette.pdf",
+  "plain_text": "               Not for Publication in West's Federal Reporter\n              Citation Limited Pursuant to 1st Cir. Loc. R. 32.3\n\n          United States Court of Appeals\n                       For the First Circuit\n\nNo. 03-2559\n\n                          NICHOLAS DELAROSA,\n\n                       Petitioner, Appellant,\n\n                                     v.\n\n      LYNN BISSONETTE; THOMAS F. REILLY, ATTORNEY GENERAL,\n\n                       Respondents, Appellees.\n\n\n\n\n                                  ERRATA\n\n\n     On page 3, last paragraph, line 5, replace the phrase \"in\n\nprevious months;\" with the phrase \"in a previous month;\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202565/",
+  "absolute_url": "/opinion/202565/velez-v-janssen-ortho-llc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202565/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:56:39Z",
+  "date_modified": "2016-02-28T05:08:14.065112Z",
+  "type": "010combined",
+  "sha1": "29b126b1e7ed9f73f247b8d08eee7e0673522215",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2721ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/12/22/Velez_v._Janssen_Ortho_LLC.pdf",
+  "plain_text": "             United States Court of Appeals\n                      For the First Circuit\n\n\nNo.05-2721\n\n                          GLADEN VELEZ,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n                       JANSSEN ORTHO, LLC,\n\n                       Defendant, Appellee.\n\n\n\n                              ERRATA\n\n\n     The opinion of this court issued on November 3, 2006, is\namended as follows:\n\n     On page 6, insert the following language at the end of\nFootnote 6:\n\n     For example, if, as a matter of standard procedure, a\n     company never advertises specific positions that are\n     available for promotion or employment, it might be\n     inappropriate to require the identification of specific\n     positions in a job application.     However, as we have\n     indicated, Janssen did advertise the availability of\n     specific positions if no current employees were selected.\n     Velez's August 2001 letters were not sent in response to\n     any such advertisement.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

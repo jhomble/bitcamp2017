@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204131/",
+  "absolute_url": "/opinion/204131/united-states-v-gonzalez-velez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204131/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:33Z",
+  "date_modified": "2016-02-28T05:12:53.886461Z",
+  "type": "010combined",
+  "sha1": "46a8427396e7033df7425e2bc7aab73ce9b73b9d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2277E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/01/08/US_v._Gonzalez-Velez.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-2277\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                    RAFAEL A. GONZÁLEZ-VÉLEZ,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on November 25, 2009 is\namended as follows:\n\n     On p. 7, line 6: Replace \"July 12, 2007\" with \"July 13, 2007\"\n\n     On p. 15, last line: Replace \"131 months\" with \"135 months\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

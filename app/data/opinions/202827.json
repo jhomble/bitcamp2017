@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202827/",
+  "absolute_url": "/opinion/202827/eiu-group-v-gulf-insurance-co/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202827/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:42Z",
+  "date_modified": "2016-02-28T05:09:03.325740Z",
+  "type": "010combined",
+  "sha1": "160158c3b84e5a488e71722135079757df20eccc",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1932ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/29/EIU_Group_v._Gulf_Insurance_Co..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNos. 06-1932, 06-1933, 06-1934, 06-1935\n\n                    JOSEPH H. REINHARDT, J.D.,\n                         Cross-Appellant.\n\n\n                         EIU GROUP, INC.,\n               Plaintiff-Appellee/Cross-Appellant,\n\n              JAMES W. BRODERICK; JOHN R. STAMATOV;\n       ENVIRONMENTAL INSURANCE UNDERWRITERS AGENCY, INC.;\n        ENVIRONMENTAL CAPITAL INSURANCE BROKERAGE, INC.,\n                           Plaintiffs,\n\n                                v.\n\n        GULF INSURANCE COMPANY; CITIBANK DELAWARE, INC.;\n                          KENT ZIEGLER,\n             Defendants-Appellants/Cross-Appellees,\n\n     GULF UNDERWRITERS INSURANCE COMPANY; GULF GROUP LLOYDS;\n      SELECT INSURANCE COMPANY; ATLANTIC INSURANCE COMPANY,\n                           Defendants.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on June 11, 2007 is amended\nas follows:\n\n     On page 6, line 18: Replace \"policies\" with \"properties.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

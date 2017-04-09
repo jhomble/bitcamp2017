@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200330/",
+  "absolute_url": "/opinion/200330/stoutt-v-banco-popular/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200330/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:48:56Z",
+  "date_modified": "2016-02-28T05:02:44.841807Z",
+  "type": "010combined",
+  "sha1": "e7fced6154b2bd391f7d9e0c54d37bfb2a21829b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2275-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/02/10/Stoutt_v._Banco_Popular.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

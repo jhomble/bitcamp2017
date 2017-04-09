@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203600/",
+  "absolute_url": "/opinion/203600/casamento-v-mbta/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203600/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:20:02Z",
+  "date_modified": "2016-02-28T05:11:25.399723Z",
+  "type": "010combined",
+  "sha1": "c5de237323a6ea9ba0360cbe2292c92ac4fa7679",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1773E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/12/18/Casamento_v._MBTA.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\nNo. 08-1773\n\n                           PAULA D. CASAMENTO,\n\n                          Plaintiff, Appellant,\n\n                                   v.\n\n               MASSACHUSETTS BAY TRANSPORTATION AUTHORITY;\n                    BOSTON CARMEN'S UNION, LOCAL 589,\n\n                         Defendants, Appellees.\n\n\n\n                                 ERRATA\n\n     The opinion of this Court, issued on December 16, 2008, should\n\nbe amended as follows:\n\n     On page 3, line 23, and on page 4, line 1, \"Schleuter\" should be\n\n\"Schlueter\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

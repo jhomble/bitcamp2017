@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/237076/",
+  "absolute_url": "/opinion/237076/howard-hildebrandt-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/237076/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:31:41Z",
+  "date_modified": "2016-02-09T15:10:21.671181Z",
+  "type": "010combined",
+  "sha1": "6129ccf497fca32ba3f442c3d3f5454336ed30a2",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/223/223.F2d.924.5001_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">223 F.2d 924</p>\n    <p class=\"parties\">Howard HILDEBRANDT, Defendants, Appellants,<br>v.<br>UNITED STATES of America, Appellee.</p>\n    <p class=\"docket\">No. 5001.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">July 8, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Howard Hildebrandt, pro se.</p>\n      <p class=\"indent\">Jacob S. Temkin, U.S. Atty., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of appellee's motion to dismiss or affirm under our Rule 26(3) and memorandum in support thereof, and of appellant's reply memorandum in opposition thereto, and further upon consideration of appellant's brief on the merits and of the record on appeal consisting of the original papers, and it appearing that no substantial question is presented by this appeal,</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It is ordered that the orders appealed from be and the same hereby are affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">223</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">924</span></span></p>\n    <p class=\"parties\">Howard HILDEBRANDT, Defendants, Appellants,<br>v.<br>UNITED STATES of America, Appellee.</p>\n    <p class=\"docket\">No. 5001.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">July 8, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Howard Hildebrandt, pro se.</p>\n      <p class=\"indent\">Jacob S. Temkin, U.S. Atty., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of appellee's motion to dismiss or affirm under our Rule 26(3) and memorandum in support thereof, and of appellant's reply memorandum in opposition thereto, and further upon consideration of appellant's brief on the merits and of the record on appeal consisting of the original papers, and it appearing that no substantial question is presented by this appeal,</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It is ordered that the orders appealed from be and the same hereby are affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

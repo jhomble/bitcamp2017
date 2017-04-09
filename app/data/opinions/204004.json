@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204004/",
+  "absolute_url": "/opinion/204004/united-states-v-rivera-calderon/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204004/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:18Z",
+  "date_modified": "2016-02-28T05:12:30.927236Z",
+  "type": "010combined",
+  "sha1": "a3c864ae53c66537c898fde6c9cb0a35b414d5d4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2650E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/09/14/US_v._Rivera-Calderon.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 05-2650\n     05-2651\n     05-2652\n     05-2839\n\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                       JOSÉ RIVERA CALDERÓN,\n                      JESÚS POMALES-PIZARRO,\n                     LEONARDO RIVERA TORRES,\n                        LUIS ROSARIO-RIVAS,\n\n                     Defendants, Appellants.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on August 26, 2009 is\namended as follows:\n\n          On the cover page, between \"Chief\" and \"Division\",\n     replace \"Appellant\" with \"Appellate\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/13/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/145520/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/173724/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203545/",
+  "absolute_url": "/opinion/203545/wheeler-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203545/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:53Z",
+  "date_modified": "2016-02-28T05:11:15.650663Z",
+  "type": "010combined",
+  "sha1": "ec7c4911aa0130eb7cb6b03926e363adb1f4127e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1663E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/29/Wheeler_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 07-1663, 07-1664\n\n    EMILY MCINTYRE, AS ADMINISTRATOR OF THE ESTATE OF JOHN L.\n      MCINTYRE; CHRISTOPHER MCINTYRE, IN HIS CAPACITY AS CO-\n         ADMINISTRATOR OF THE ESTATE OF JOHN L. MCINTRYE,\n\n             Plaintiffs, Appellees/Cross-Appellants,\n\n                                 v.\n\n                    UNITED STATES OF AMERICA,\n\n               Defendant, Appellant/Cross-Appellee\n\n   H. PAUL RICO; JOHN MORRIS; JOHN J. CONNOLLY, JR.; RODERICK\n KENNEDY; ROBERT R. FITZPATRICK; JAMES RING; JAMES W. GREENLEAF;\nJAMES AHEARN; KEVIN J. WEEKS; JAMES J. BULGER; STEPHEN J. FLEMMI;\n JOHN DOE Number 1-50; FEDERAL BUREAU OF INVESTIGATION; LAWRENCE\n SARHATT; JOHN V. MARTORANO; RICHARD F. BATES; JOSEPH YABLONSKY;\n      JAMES F. SCANLON; DENNIS F. CREEDON; THOMAS J. DALY,\n\n                             Defendants.\n\n\n                             ERRATA SHEET\n\n     The opinion of this court issued on October 16, 2008 is\namended as follows:\n\n  On page 44, line 20, “No costs are awarded” should be replaced\nwith \"Appellees are awarded costs.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

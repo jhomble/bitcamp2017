@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202445/",
+  "absolute_url": "/opinion/202445/united-states-v-francisco/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202445/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:53:16Z",
+  "date_modified": "2016-02-28T05:08:00.448169Z",
+  "type": "010combined",
+  "sha1": "da8e70f9587c435858349b11f6068668a3eafb45",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2457-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/10/02/US_v._Francisco.pdf",
+  "plain_text": "X\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201319/",
+  "absolute_url": "/opinion/201319/m-k-welding-inc-v-robot-man-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201319/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:12:18Z",
+  "date_modified": "2016-02-28T05:05:11.970731Z",
+  "type": "010combined",
+  "sha1": "0ba4fe276101ef379400916635453d0643c5c0ed",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1027ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/11/02/M__K_Welding_Inc._v._Robot_Man_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 04-1027\n\n                        M & K WELDING, INC.,\n\n                       Plaintiff, Appellant,\n\n                                 v.\n\n                       LEASING PARTNERS, LLC,\n\n                        Defendant, Appellee.\n\n\n                               ERRATA\n\n\n     The opinion of the court issued on October 22, 2004, is\namended as follows:\n\n     Page 5, line 4:   change \"M & K\" to \"Leasing Partners\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

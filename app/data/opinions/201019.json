@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201019/",
+  "absolute_url": "/opinion/201019/unknown-case-name/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201019/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:05:55Z",
+  "date_modified": "2016-02-28T05:04:25.694173Z",
+  "type": "010combined",
+  "sha1": "749787ad0b982cfd48e7b7265cf050613c69ff2c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1823ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/14/Unknown_case_name.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-1823\n\n    EMILY MCINTYRE, as Administrator of the Estate of John L.\nMcIntyre; CHRISTOPHER MCINTYRE, as Co-administrator of the Estate\n                       of John L. McIntyre,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n                    UNITED STATES OF AMERICA,\n\n                      Defendant, Appellee,\n\n H. PAUL RICO; JOHN MORRIS; JOHN   J. CONNOLLY; RODERICK KENNEDY;\n ROBERT FITZPATRICK; JAMES RING;   JAMES GREENLEAF; JAMES AHEARN;\n        KEVIN J. WEEKS; JAMES J.   BULGER; STEPHEN FLEMMI;\n                      JOHN DOES,   Nos. 1-50,\n\n                           Defendants.\n\n\nNo. 03-1791\n\nLAWRENCE A. WHEELER, Individually and as Special Administrator of\nthe Estate of Roger M. Wheeler; PATRICIA J. WHEELER, Individually\n and as Special Administratrix of the Estate of Roger M. Wheeler;\n   PAMELA (WHEELER) NORBERG; DAVID B. WHEELER; MARK K. WHEELER,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n                    UNITED STATES OF AMERICA,\n\n                      Defendant, Appellee,\n\n      JOHN J. CONNOLLY, JR.; JOHN M. MORRIS; H. PAUL RICO;\n       ROBERT FITZPATRICK; JAMES A. RING; JAMES GREENLEAF;\n           JAMES AHEARN; JAMES J. BULGER, a/k/a Whitey;\n    STEPHEN J. FLEMMI, a/k/a The Rifleman; JOHN V. MARTORANO;\n                       JOHN DOES, Nos. 1-50,\n\f                           Defendants.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on May 10, 2004 is amended as\nfollows:\n\n     On page 46, line 9, \"Roger\" should be replaced with \"David\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201044/",
+  "absolute_url": "/opinion/201044/colon-rodriguez-v-lopez-bonilla/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201044/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:06:27Z",
+  "date_modified": "2016-02-28T05:04:29.048243Z",
+  "type": "010combined",
+  "sha1": "628f4e562615d97a4668c26c5d474311aea06451",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2224ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/27/Colon-Rodriguez_v._Lopez-Bonilla.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 03-2224\n\n   HÉCTOR E. COLÓN-RODRÍGUEZ, in his personal capacity and as\n President of Fundación Eco-Cultural, Inc. and doing business as\n     the Eco-Logic Co., Inc. & TM; ECO-LOGIC CO., INC., & TM;\n   FUNDACIÓN ECO-CULTURAL, INC., represented by its president\n                      Héctor Colón-Rodríguez,\n                       Plaintiffs, Appellees,\n\n                               v.\n\n   CARLOS D. LÓPEZ-BONILLA, Hon., in his personal capacity and\nofficial capacity as Mayor of the Municipality of Rincón; ALEXIS\n    ROSADO, Director of the Department of Public Works of the\n     Municipality of Rincón and member of the Municipality's\n   Procurement Board, ZAYDA RODRÍGUEZ-MORALES, in her personal\n capacity and official capacity as President of the Procurement\n      Board, Municipality of Rincón; MUNICIPALITY OF RINCÓN,\nrepresented by its Mayor Hon. Carlos D. López-Bonilla; PERSONS A-\n                                 Z,\n                      Defendants, Appellants.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on April 22, 2004 is amended\nas follows:\n\n     On page 3, line 12, \"June 19, 2003\" should be replace with\n\"June 19, 2002\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

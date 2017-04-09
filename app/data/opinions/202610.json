@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202610/",
+  "absolute_url": "/opinion/202610/lazarus-v-greater-atlantic/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202610/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:58:00Z",
+  "date_modified": "2016-02-28T05:08:22.197501Z",
+  "type": "010combined",
+  "sha1": "a86b04b7a4c84b34608c27dd41b24e5b3c99eb84",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1982ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/01/26/Lazarus_v._Greater_Atlantic.pdf",
+  "plain_text": "            United States Court of Appeals\n                     For the First Circuit\n\nNo. 06-1982\n\n                  IN RE:   CHRISTINE H. LAZARUS,\n\n                              Debtor.\n                            __________\n\nJOSEPH B. COLLINS, TRUSTEE IN BANKRUPTCY OF CHRISTINE H. LAZARUS,\n\n                            Appellant,\n\n                                v.\n\n  GREATER ATLANTIC MORTGAGE CORPORATION and MORTGAGE ELECTRONIC\n                   REGISTRATION SYSTEMS, INC.,\n\n                            Appellees.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on January 9, 2007, should\n\nbe amended as follows:\n\n     On page 3, 1st line of \"(C)\" in indented quote, fix spacing\n\nbetween \"such\" and \"creditor\", if possible.\n\n     On page 10, last line of footnote 6, add a period after\n\n\"(1970)\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

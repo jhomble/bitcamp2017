@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/238751/",
+  "absolute_url": "/opinion/238751/mary-a-mullen-v-marion-b-folsom-secretary-departme/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/238751/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:32:09Z",
+  "date_modified": "2016-02-28T05:54:25.211317Z",
+  "type": "010combined",
+  "sha1": "ca788ecae6c9aae5702d6a244a681a54cef0bc06",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/230/230.F2d.611.5070_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">230 F.2d 611</p>\n    <p class=\"parties\">Mary A. MULLEN, Plaintiff, Appellant,<br>v.<br>Marion B. FOLSOM, Secretary, Department of Health, Education<br>and Welfare, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5070.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 16, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Julia T. Sullivan, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">William W. Ross, Attorney, Dept. of Justice, with whom Warren E. Burger, Asst. Atty. Gen., Anthony Julian, U.S. Atty., Boston, Mass., and Samuel D. Slade, Attorney, Dept. of Justice, Washington, D.C., were on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">230</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">611</span></span></p>\n    <p class=\"parties\">Mary A. MULLEN, Plaintiff, Appellant,<br>v.<br>Marion B. FOLSOM, Secretary, Department of Health, Education<br>and Welfare, Defendant, Appellee.</p>\n    <p class=\"docket\">No. 5070.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 16, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Julia T. Sullivan, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">William W. Ross, Attorney, Dept. of Justice, with whom Warren E. Burger, Asst. Atty. Gen., Anthony Julian, U.S. Atty., Boston, Mass., and Samuel D. Slade, Attorney, Dept. of Justice, Washington, D.C., were on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

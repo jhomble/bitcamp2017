@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145526/",
+  "absolute_url": "/opinion/145526/united-states-v-charlton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145526/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-04T20:09:51Z",
+  "date_modified": "2016-02-28T03:33:36.871167Z",
+  "type": "010combined",
+  "sha1": "68c927710105e5a09a9f9b72deb7a9e3a8595e1c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1797E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/27/US_v._Charlton.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-1797\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                        TREVOR CHARLTON,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     Chief Judge Lynch's concurrence in the opinion of this Court\nissued on April 1, 2010, is amended as follows:\n\n     On page 25, line 14, \"peremptory challenges with is never\"\nis changed to \"peremptory challenges is never\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

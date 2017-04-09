@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202087/",
+  "absolute_url": "/opinion/202087/rivera-castillo-v-autocentro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202087/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:17Z",
+  "date_modified": "2016-02-28T05:07:08.641933Z",
+  "type": "010combined",
+  "sha1": "3a08059aeb7a9cb2623d0799ad9e517c784e2480",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1806ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/09/Rivera-Castillo_v._Autocentro.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 03-1806\n\n      MARGARITA RIVERA CASTILLO, CARLOS T. RAVELO GUERRERO,\n              AND CONJUGAL PARTNERSHIP RAVELO-RIVERA\n\n                       Plaintiffs, Appellees,\n\n                                 v.\n\n              AUTOKIREY, INC. D/B/A AUTOCENTRO TOYOTA,\n\n                       Defendant, Appellant.\n\n\n                               ERRATA\n\n     The opinion of this court issued August 11, 2004 should be\namended as follows:\n\n     On the cover page in the second paragraph listing the\nattorneys, delete \"with whom Edificio Asociacion de Maestros was on\nbrief,\".\n\n     On page 24, line 8, delete \"Each party shall bear its own\ncosts.\" and insert:\n\n          Pursuant to 49 U.S.C. § 32710(b), we direct\n          the district court to award attorney's fees\n          and costs related to this appeal in an\n          appropriate amount. 49 U.S.C. § 32710(b) (in\n          \"[c]ivil actions by private persons\" brought\n          to enforce the Odometer Act, \"[t]he court\n          shall award costs and a reasonable attorney's\n          fee to the person when a judgment is entered\n          for that person\").\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/243794/",
+  "absolute_url": "/opinion/243794/richard-askew-by-his-guardian-elsie-e-laing-v-roge/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/243794/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:33:27Z",
+  "date_modified": "2016-02-28T05:59:01.602114Z",
+  "type": "010combined",
+  "sha1": "2f0e4713f0d1f7c873d63c52c3112c25b8ee1a28",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/250/250.F2d.584.5303_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">250 F.2d 584</p>\n    <p class=\"parties\">Richard ASKEW, By His Guardian, Elsie E. Laing, Plaintiff, Appellant,<br>v.<br>Roger CROUCH et al., d/b/a The Crouch School for Boys, Defendants, Appellees.</p>\n    <p class=\"docket\">No. 5303.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">January 14, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire; Aloysius J. Connor, Judge.</p>\n      <p class=\"indent\">Charles W. Tobey, Jr., Concord, N. H., for appellant.</p>\n      <p class=\"indent\">F. B. Clancy, Nashua, N. H., with whom Clancy &amp; O'Neill, Nashua, N. H., was on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">250</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">584</span></span></p>\n    <p class=\"parties\">Richard ASKEW, By His Guardian, Elsie E. Laing, Plaintiff, Appellant,<br>v.<br>Roger CROUCH et al., d/b/a The Crouch School for Boys, Defendants, Appellees.</p>\n    <p class=\"docket\">No. 5303.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">January 14, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire; Aloysius J. Connor, Judge.</p>\n      <p class=\"indent\">Charles W. Tobey, Jr., Concord, N. H., for appellant.</p>\n      <p class=\"indent\">F. B. Clancy, Nashua, N. H., with whom Clancy &amp; O'Neill, Nashua, N. H., was on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203739/",
+  "absolute_url": "/opinion/203739/united-states-v-aherndt/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203739/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:20Z",
+  "date_modified": "2016-02-28T05:11:53.281447Z",
+  "type": "010combined",
+  "sha1": "8cf107bbc415cf5817f0d6df6391b7c223a350aa",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1254E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/03/26/US_v._Aherndt.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 06-1254\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                  v.\n\n                           WILLIAM AHRENDT,*\n\n                      Defendant, Appellant.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on March 19, 2009 is amended\nas follows:\n\n     On page 10, line 23    Add a \".\" after \")\"\n\n     On page 14, lines 1, 2, 3: The sentence, \"Here, the district\ncourt was presented with first such reports, both of which\nconcluded that Ahrendt was competent to stand trial.\" should be\nreplaced with:    \"Here, the district court was presented with\nevaluations from two mental health professionals, both of whom\nconcluded that Ahrendt was competent to stand trial.\"\n\n     On page 17, line 15, substitute '144 and 168' for 'forty-two\nand sixty-six\"\n\n     On page 24, line 18 and page 25, line 1: substitute \"Godin II\"\nshould be underlined.\n\n     On page 25, line 5, substitute 'the five and one-half and\nthree and one-half year disparities' for 'a 12-year disparity'\n\n\n\n\n*\n This appeal is captioned \"United States v. Aherndt,\" but,\nconsistent with the opinion of even date, the appellant's surname\nis spelled as he spelled it at trial: Ahrendt.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

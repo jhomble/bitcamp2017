@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201331/",
+  "absolute_url": "/opinion/201331/comfort-v-lynn-school-comm/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201331/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:12:39Z",
+  "date_modified": "2016-02-28T05:05:08.533095Z",
+  "type": "010combined",
+  "sha1": "7b5e3b7fe6c46f032dd978dd6f3c6e120f3d1fef",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2415ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/11/12/Comfort_v._Lynn_School_Comm.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-2415\n\n               SAMANTHA J. COMFORT, ETC., ET AL.,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n                  LYNN SCHOOL COMMITTEE ET AL.,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 20, 2004 is\ncorrected as follows:\n\n     On page 4, line 9, change \"claim\" to \"claims\"\n\n     On page 4, line 10, insert \"and Title VI\" after \"1983\"\n\n     On page 20, line 7, insert \"and Title VI\" after both\n     instances of \"1983\"; change \"claim\" to \"claims\"\n\n     On page 20, line 10, insert after \"claims\" (both in the\n     traditional sense and in the sense that they have been\n     presented to this court without sufficiently developed\n     argumentation)\n\n     On page 48, line 17 — insert \"and Title VI\" after 1983;\n     change \"claim\" to \"claims\"; insert footnote 12 signal after\n     \"claims.\" to read:\n\n         We note that \"[d]iscrimination that violates\n         the Equal Protection Clause . . . committed\n         by an institution that accepts federal funds\n         also constitutes a violation of Title VI.\"\n         Gratz, 539 U.S. at 276 n.23. It follows,\n         then, that the denial of school transfers\n         based on race violates both Title VI as well\n         as section 1983.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/201292/"
+  ]
+}

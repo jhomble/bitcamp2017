@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201104/",
+  "absolute_url": "/opinion/201104/ellison-v-brock/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201104/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:07:44Z",
+  "date_modified": "2016-02-28T05:04:40.267402Z",
+  "type": "010combined",
+  "sha1": "96381fb507c6b258d1a7ef7fe4310b00a22e35e8",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1058ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/07/07/Ellison_v._Brock.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\nNo. 04-1058\n\n                        LINDA L. ELLISON,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n    DAVID BROCK, CHIEF JUSTICE, NEW HAMPSHIRE SUPREME COURT,\n\n                       Defendant, Appellee.\n\n\n                              ERRATA\n\n\n     The judgment of this Court, issued on June 21, 2004, should be\namended as follows:\n\n     On page 4, line 22, delete the bracket after \"supported\".\n\n     On page 6, line 2, replace \"motion to dismiss\" with \"motion\nfor reconsideration\".\n\n     On page 6, line 7, replace \"judgement\" with \"judgment\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

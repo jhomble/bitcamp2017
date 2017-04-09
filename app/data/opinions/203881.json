@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203881/",
+  "absolute_url": "/opinion/203881/lasalle-concepcion-v-toledo-davila/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203881/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:24:51Z",
+  "date_modified": "2016-02-28T05:12:12.616147Z",
+  "type": "010combined",
+  "sha1": "d002564b1424f443c579c6566d0bf1bcd33b8e85",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2048E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/06/22/Lasalle-Concepcion_v._Toledo-Davila.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\nNo. 08-2048\n\n     JUAN CARLOS LASALLE-CONCEPCIÓN; LIZETTE DE LA CRUZ-LÓPEZ;\nCONJUGAL PARTNERSHIP LASALLE-DE LA CRUZ; SAMUEL ANTONIO VÉLEZ-LUGO;\nELBA IRIS MÉNDEZ-JIMENEZ; CONJUGAL PARTNERSHIP VÉLEZ-MÉNDEZ,\n\n                      Plaintiffs, Appellants,\n\n                                v.\n\nPEDRO TOLEDO-DÁVILA, COMMONWEALTH OF PUERTO RICO POLICE DEPARTMENT;\n                        JOHN DOE; JANE ROE,\n\n                      Defendants, Appellees.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court, issued on June 18, 2009, should be\n\namended as follows.\n\n     On page 2, 2nd line of 3rd paragraph, \"(2000)\" should be\n\n\"(2006)\".\n\n     On page 4, 2nd line of 1st paragraph, delete the \"(2006)\" after\n\n\"§ 3117(b)(1)\".\n\n     On page 4, 4th line of 3rd paragraph, replace \"11 L.P.R.A. § 7\"\n\nwith \"Id.\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

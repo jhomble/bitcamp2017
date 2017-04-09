@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203145/",
+  "absolute_url": "/opinion/203145/salem-suede-inc-v-picciotti/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203145/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:09:30Z",
+  "date_modified": "2016-02-28T05:10:03.325966Z",
+  "type": "010combined",
+  "sha1": "e6fabc6e5ee5ca10434ceeeda6b74022614114ff",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2685ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/02/12/Salem_Suede_Inc._v._Picciotti.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 06-2685\n\n              STEFANO PICCIOTTO, JUDITH PICCIOTTO,\n               MELITA PICCIOTTO, ATHENA PICCIOTTO,\n                   AND FOREIGN CAR CENTER, INC.,\n\n                     Plaintiffs, Appellants,\n\n                                v.\n\n                  CONTINENTAL CASUALTY COMPANY,\n                GREAT NORTHERN INSURANCE COMPANY,\n                    HARTFORD INSURANCE COMPANY\n              AND TWIN CITY FIRE INSURANCE COMPANY,\n\n                      Defendants, Appellees.\n\n                              ERRATA\n\n\n     The opinion of this court dated January 7, 2008, is amended\nas follows:\n\n     On the coversheet replace \"Scott D. Burke, with whom Harvey\nWeiner, Timothy O. Egan, Peabody & Arnold LLP, Morrison Mahoney\nLLP, Michael R. Byrne, and Melick, Porter & Shea LLP, were on\nbrief, for appellees.\" with \"Scott D. Burke and Harvey Weiner, with\nwhom Timothy O. Egan, Peabody & Arnold LLP, Morrison Mahoney LLP,\nMichael R. Byrne, and Melick, Porter & Shea LLP, were on brief, for\nappellees.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

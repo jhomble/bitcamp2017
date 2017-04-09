@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200409/",
+  "absolute_url": "/opinion/200409/united-states-v-conley/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200409/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:50:48Z",
+  "date_modified": "2016-02-28T05:02:56.766482Z",
+  "type": "010combined",
+  "sha1": "b721b43b5da641e14a318a9e740f461a8e05ac4f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2693ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/04/01/US_v._Conley.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\nNo. 01-2693\n\n                           KENNETH CONLEY,\n\n                        Petitioner, Appellee,\n\n                                 v.\n\n                      UNITED STATES OF AMERICA,\n\n                       Respondent, Appellant.\n\n\n                               ERRATA\n\n     The opinion of this Court, issued on March 6, 2003, should\n\nbe amended as follows:\n\n     On page 15, note 8:    change \"D. Mass. R. 40.1(i).\" to \"D.\n\nMass. R. 40.1(K).\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/224765/",
+  "absolute_url": "/opinion/224765/martin-john-gilman-v-kestral-corporation/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/224765/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:28:24Z",
+  "date_modified": "2016-02-28T05:43:30.036164Z",
+  "type": "010combined",
+  "sha1": "25208f01515d36fcc1bb81a032c4dd08720524d6",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/181/181.F2d.188.4470.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">181 F.2d 188</p>\n    <p class=\"case_cite\">85 U.S.P.Q. 383</p>\n    <p class=\"parties\">Martin John GILMAN, Appellant,<br>v.<br>KESTRAL CORPORATION, Appellee.</p>\n    <p class=\"docket\">No. 4470.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 26, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; George C. Sweeney, Judge.</p>\n      <p class=\"indent\">Maxwell James, New York City (Robert L. Thompson, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">Hector M. Holmes, Boston, Mass., (Robert P. Harvey, Springfield, Mass., on brief), for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">An examination of the record and briefs discloses no occasion to add to or comment upon the opinion of the court below reported in D.C., 86 F.Supp. 765.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"224766\"><a href=\"/opinion/224766/seattle-hardware-company-v-clark-squire-collector-of-internal-revenue/\"><span class=\"volume\">181</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">188</span></a></span></p>\n    <p class=\"case_cite\">85 U.S.P.Q. 383</p>\n    <p class=\"parties\">Martin John GILMAN, Appellant,<br>v.<br>KESTRAL CORPORATION, Appellee.</p>\n    <p class=\"docket\">No. 4470.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">April 26, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts; George C. Sweeney, Judge.</p>\n      <p class=\"indent\">Maxwell James, New York City (Robert L. Thompson, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">Hector M. Holmes, Boston, Mass., (Robert P. Harvey, Springfield, Mass., on brief), for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and MARIS and WOODBURY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">An examination of the record and briefs discloses no occasion to add to or comment upon the opinion of the court below reported in D.C., 86 F.Supp. 765.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/224766/"
+  ]
+}

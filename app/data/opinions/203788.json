@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203788/",
+  "absolute_url": "/opinion/203788/united-states-v-campusano/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203788/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:23:09Z",
+  "date_modified": "2016-02-28T05:12:00.933203Z",
+  "type": "010combined",
+  "sha1": "28b26796840e22cb91d081c97fe6b7d51518fdd8",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1931E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/04/24/US_v._Campuzano.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\nNo. 07-1931\n\n                     UNITED STATES OF AMERICA,\n\n                               Appellee,\n\n                                  v.\n\n                          RODRIGO CAMPUSANO,\n\n                         Defendant, Appellant.\n                          ____________________\n\nNo. 07-2442\n\n                     UNITED STATES OF AMERICA,\n\n                               Appellee,\n\n                                  v.\n\n                            JAIME PINILLOS,\n\n                         Defendant, Appellant.\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on February 13, 2009, should\n\nbe amended as follows.\n\n     On page 5, lines 18-21 change sentence: \"Based on . . . one\nhundred kilos;\" to read as follows: \"Based on the combined testimony\nof Rafa, Toro and Pinillos, the district judge could reasonably find\nthat the intended transaction was for one hundred kilos;\".\n\n     On page 6, line 3, following \"delivery\" add sentence: \"Indeed,\nPinillos himself conceded on the stand that he was hoping to\nconsummate a transaction for one hundred 'computers.'\"\n\n     On page 8, line 23, add the word \"initial\" following the word\n\"smaller\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

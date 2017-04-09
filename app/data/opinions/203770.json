@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203770/",
+  "absolute_url": "/opinion/203770/employers-reinsurance-v-globe-newspaper-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203770/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:22:52Z",
+  "date_modified": "2016-02-28T05:11:57.950955Z",
+  "type": "010combined",
+  "sha1": "5e09d90d8c9430aea91ff01205b01b60e232716c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1733E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/04/09/Employers_Reinsurance_v._Globe_Newspaper_Company.pdf",
+  "plain_text": "              United States Court of Appeals\n                          For the First Circuit\n\nNo. 08-1733\n\n                    EMPLOYERS REINSURANCE CORPORATION,\n\n                           Plaintiff, Appellee,\n\n                                    v.\n\n        GLOBE NEWSPAPER COMPANY, INC. and RICHARD A. KNOX,\n\n                         Defendants, Appellants.\n\n\n                                  ERRATA\n\n     The opinion of this Court, issued on March 19, 2009, should be\n\namended as follows.\n\n     On page 6, line 4, of 2nd full paragraph, underline \"Globe\".\n\n     On page 8, line 2 of indented quote, change single quotation\n\nmarks around \"'vanishing premium'\" to double quotation marks.\n\n     On page 8, lines 4 and 5 of indented quote, change single\n\nquotation   marks    around   \"'vanishing   premium   claims'\"   to   double\n\nquotation marks.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

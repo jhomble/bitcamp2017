@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201010/",
+  "absolute_url": "/opinion/201010/mihos-v-swift/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201010/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:05:46Z",
+  "date_modified": "2016-02-28T05:04:24.653068Z",
+  "type": "010combined",
+  "sha1": "3069762aecb235429c9bdaa8055963017496df3b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2521ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/14/Mihos_v._Swift.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNos. 02-2521, 03-1038, 03-1090\n\n                      CHRISTY PETER MIHOS,\n\n              Plaintiff, Appellee/Cross-Appellant,\n\n                                 v.\n\n  JANE SWIFT, Individually and in her Official Capacity as the\n     ACTING GOVERNOR OF THE COMMONWEALTH OF MASSACHUSETTS,\n\n            Defendant, Appellant/Cross-Appellee, and\n\n\n WILLIAM F. GALVIN, in his Official Capacity as SECRETARY OF THE\n                  COMMONWEALTH OF MASSACHUSETTS,\n\n                           Defendant.\n\n\n\n                             ERRATA\n\n\n     The opinion of this court issued February 13, 2004, should be\namended as follows:\n\n     On page 7, line 6, replace \"reversed\" with \"reserved\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

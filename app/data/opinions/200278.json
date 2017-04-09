@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200278/",
+  "absolute_url": "/opinion/200278/united-states-v-burgos-chaparro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200278/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:47:31Z",
+  "date_modified": "2016-02-28T05:02:34.807185Z",
+  "type": "010combined",
+  "sha1": "01d360f78bf36d86858bd7b16b51e320f76ad6d4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2394-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/01/08/US_v._Burgos-Chaparro.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 01-2394\n\n                      UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                      WALDEMAR BURGOS-CHAPARRO,\n\n                        Defendant, Appellant.\n\n\n\n\n     The opinion of this court issued October 23, 2002, should be\n\namended as follows:\n\n     On page 7, line 5, replace the word \"assumes\" with the word\n\n\"requires.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

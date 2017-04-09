@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/240746/",
+  "absolute_url": "/opinion/240746/matter-of-camp-packing-company-inc-debtor-appellan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/240746/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:32:40Z",
+  "date_modified": "2016-02-28T05:56:20.558177Z",
+  "type": "010combined",
+  "sha1": "08bb1980892b02320531c7bb03036d9969dc05bc",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/238/238.F2d.623.87.24174.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">238 F.2d 623</p>\n    <p class=\"parties\">Matter of CAMP PACKING COMPANY, Inc., Debtor-Appellant,<br>Small Business Administration and First National Bank of Cortland, Appellees.</p>\n    <p class=\"docket\">No. 87.</p>\n    <p class=\"docket\">Docket 24174.</p>\n    <p class=\"court\">United States Court of Appeals Second Circuit.</p>\n    <p class=\"date\">Argued December 4, 1956.</p>\n    <p class=\"date\">Decided December 4, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from United States District Court for the Northern District of New York; Stephen W. Brennan, Judge.</p>\n      <p class=\"indent\">Laurence Sovik, Syracuse, N. Y. (Smith and Sovik, Syracuse, N. Y., on the brief), for debtor-appellant.</p>\n      <p class=\"indent\">Bernard Burdick, Asst. U. S. Atty., N.D.N.Y., Syracuse, New York (Theodore F. Bowes, U. S. Atty., Syracuse, N. Y.), for appellee Small Business Administration.</p>\n      <p class=\"indent\">Paul J. Yesawich, Jr., Cortland, N. Y. (Lusk, Folmer, Ryan &amp; Fenstermacher, Cortland, N. Y., on the brief), for appellee First Nat. Bank of Cortland.</p>\n      <p class=\"indent\">Before CLARK, Chief Judge, and FRANK and LUMBARD, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Order affirmed in open court.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">238</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">623</span></span></p>\n    <p class=\"parties\">Matter of CAMP PACKING COMPANY, Inc., Debtor-Appellant,<br>Small Business Administration and First National Bank of Cortland, Appellees.</p>\n    <p class=\"docket\">No. 87.</p>\n    <p class=\"docket\">Docket 24174.</p>\n    <p class=\"court\">United States Court of Appeals Second Circuit.</p>\n    <p class=\"date\">Argued December 4, 1956.</p>\n    <p class=\"date\">Decided December 4, 1956.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from United States District Court for the Northern District of New York; Stephen W. Brennan, Judge.</p>\n      <p class=\"indent\">Laurence Sovik, Syracuse, N. Y. (Smith and Sovik, Syracuse, N. Y., on the brief), for debtor-appellant.</p>\n      <p class=\"indent\">Bernard Burdick, Asst. U. S. Atty., N.D.N.Y., Syracuse, New York (Theodore F. Bowes, U. S. Atty., Syracuse, N. Y.), for appellee Small Business Administration.</p>\n      <p class=\"indent\">Paul J. Yesawich, Jr., Cortland, N. Y. (Lusk, Folmer, Ryan &amp; Fenstermacher, Cortland, N. Y., on the brief), for appellee First Nat. Bank of Cortland.</p>\n      <p class=\"indent\">Before CLARK, Chief Judge, and FRANK and LUMBARD, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Order affirmed in open court.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

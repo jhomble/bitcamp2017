@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200899/",
+  "absolute_url": "/opinion/200899/candelario-ramos-v-baxter-health/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200899/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:03:23Z",
+  "date_modified": "2016-02-28T05:04:08.652252Z",
+  "type": "010combined",
+  "sha1": "3c8e23064d5accacccb8ccbed540e1459c16e3fd",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1774ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/03/10/Candelario-Ramos_v._Baxter_Health.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 03-1774\n\n                YOLANDA CANDELARIO-RAMOS, ET AL.,\n\n                      Plaintiffs, Appellants,\n\n                                v.\n\n  BAXTER HEALTHCARE CORPORATION OF PUERTO RICO, INC., ET AL.,\n\n                      Defendants, Appellees.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on March 8, 2004, should be\n\namended as follows:\n\n     On page 19, 3rd line from bottom, replace \"where\" with \"in\n\ncases where\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

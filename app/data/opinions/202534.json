@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202534/",
+  "absolute_url": "/opinion/202534/united-states-v-mueffelman/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202534/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:56:08Z",
+  "date_modified": "2016-02-28T05:08:10.768094Z",
+  "type": "010combined",
+  "sha1": "638d5df82fc5212215a868acc43e695a8530834c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2616ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/12/08/US_v._Mueffelman.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\nNo. 05-2616\n\n                      UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                        STEVEN D. MUEFFELMAN,\n\n                        Defendant, Appellant.\n\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\n                FOR THE DISTRICT OF MASSACHUSETTS\n\n              [Hon. Nancy Gertner, U.S. District Judge]\n\n\n\n\n                               ERRATA\n\n\n     The opinion of this court issued November 28, 2006, is amended\n\nas follows:\n\n     On page 2, line 1, replace \"superceding\" with \"superseding.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200562/",
+  "absolute_url": "/opinion/200562/saint-fort-v-ashcroft/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200562/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:55:21Z",
+  "date_modified": "2016-02-28T05:03:15.756238Z",
+  "type": "010combined",
+  "sha1": "8f383c7a759ef0abf49581a7b797829854b7f70d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2451ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/07/23/Saint_Fort_v._Ashcroft.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 02-2451\n\n                        KELLY SAINT FORT,\n\n                     Petitioner, Appellant,\n\n                               v.\n\n                JOHN ASHCROFT, Attorney General,\n\n                      Respondent, Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court, issued on May 9, 2003, is amended\nas follows:\n\n     On page 24, line 16, delete the word \"non\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200794/",
+  "absolute_url": "/opinion/200794/andresen-v-diorio/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200794/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:00:50Z",
+  "date_modified": "2016-02-28T05:03:48.574758Z",
+  "type": "010combined",
+  "sha1": "97abcd096bfb108a9296380cc4bb39a6718637f1",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1758ERR2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/12/31/Andresen_v._Diorio.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 02-1758\nNo. 02-2279\nNo. 02-2280\n\n               BRIAN ANDRESEN and DIANE ANDRESEN,\n\n                     Plaintiffs, Appellants,\n\n                                 v.\n\n           DR. JOHN DIORIO, SHAW'S SUPERMARKETS, INC.,\n                      and J SAINSBURY, PLC,\n\n                      Defendants, Appellees.\n                            __________\n\n                          BROCKTON HOSPITAL,\n\n                              Defendant.\n                         ____________________\n\n                               ERRATA\n\n     The opinion of this Court, issued on November 12, 2003, should\n\nbe amended as follows:\n\n     On page 9, lines 5 and 8, change the word \"arrest\" to the word\n\n\"detention.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/200850/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201075/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201198/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201469/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203801/"
+  ]
+}

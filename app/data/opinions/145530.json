@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/145530/",
+  "absolute_url": "/opinion/145530/granfield-v-csx-transp-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/145530/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-04T20:09:53Z",
+  "date_modified": "2016-02-28T03:33:32.313295Z",
+  "type": "010combined",
+  "sha1": "e3f9d6a444f047afc11e94dd433d3c62c9a28a0b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1302E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/04/20/Granfield_v._CSX_Transportation_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 09-1302\n\n                        ROBERT GRANFIELD,\n\n                       Plaintiff, Appellee,\n\n                                v.\n\n                    CSX TRANSPORTATION, INC.,\n\n                      Defendant, Appellant.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on March 12, 2010, is amended\nas follows:\n\n     On page 5, last line: delete the word \"at\".\n\n     On page 12, line 14: insert an additional closing parenthesis\nafter \"citation omitted)\".\n\n     On page 16, line 19: delete the \"e\" to read \"epicondylitis\".\n\n     On page 21, line 20: insert the word \"at\" to read \"509 U.S. at\n593-95.\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

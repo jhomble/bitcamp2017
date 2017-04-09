@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202540/",
+  "absolute_url": "/opinion/202540/united-states-v-edelkind/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202540/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:56:13Z",
+  "date_modified": "2016-02-28T05:08:13.415179Z",
+  "type": "010combined",
+  "sha1": "e14a7968143b5cad39109710da9b20c137d13f48",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2125ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/12/11/US_v._Edelkind.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\nNos. 05-2125, 05-2228\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                           JAMIE EDELKIND,\n\n                        Defendant, Appellant.\n\n\n                               ERRATA\n\n     The opinion of this court issued on October 31, 2006, is\namended as follows:\n\n     On page 8, lines 12-13, replace the phrase:\n\n\"stating that 'Lehman Brothers but not Fairmont was a financial\ninstitution.'\"\n\nwith the phrase:\n\n\"stating that 'Fairmont is not a financial institution but Lehman\nBrothers, to which it sold the note, is.'\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

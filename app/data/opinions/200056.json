@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200056/",
+  "absolute_url": "/opinion/200056/pan-american-grain-v-puerto-rico-ports/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200056/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:43:04Z",
+  "date_modified": "2016-02-28T05:02:05.155032Z",
+  "type": "010combined",
+  "sha1": "a4834a9aadd2fcfc7ff578f403a63251ca085fc4",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-2024A-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/08/05/Pan_American_Grain_v._Puerto_Rico_Ports.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo. 99-2024\n\n           PAN AMERICAN GRAIN MANUFACTURING CO., INC.,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n         PUERTO RICO PORTS AUTHORITY; CCC UNDERWRITERS;\n           PROCESADORA DE GRANOS DE PUERTO RICO, INC.,\n                     Defendants, Appellees,\n\n\n   CONTINENTAL GRAIN COMPANY, INC.; MOLINOS NACIONALES, INC.,\n             INDUSTRIAS AVÍCOLAS A/K/A POLLOS PICÚ,\n\n                           Defendants.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on July 9, 2002, is amended\nas follows:\n\n     On page 2, line 1, change \"1999\" to \"1995.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/201308/"
+  ]
+}
