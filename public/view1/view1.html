@@ -96,9 +96,14 @@
                 </div>
 
                 <!-- Side Widget Well -->
-                <div class="well">
+                <div class="well" ng-click="entitySearch()">
                     <h4>More Stuff if we need</h4>
                     <p>Maybe put the spark post thing here for suggested stuff</p>
+                </div>
+
+                <div class="well"">
+                    <h4>Entity Analysis</h4>
+                    <p ng-repeat="entity in entities">Name: {entity.name}; Type {entity.type}</p>
                 </div>
             </div>
         </div>

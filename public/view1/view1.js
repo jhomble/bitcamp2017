@@ -80,6 +80,39 @@ angular.module('myApp.view1', ['ngRoute'])
       alert("Couldn't Find Case")
     }
 
+
+    $scope.entitySearch = function (x) {
+      var k = 1;
+      var text = ""
+      var caseEntity = [];
+      for (k; k < x; k++) { // 11174
+        $.ajax({
+          async: false,
+          url: "../data/opinions/" + caseMap[k].index.toString() + ".json",
+          success: function (json) {
+            var text1 = json.plain_text;
+            var text2 = JSON.stringify( {text: text1.substring(0,800)}); 
+            $.ajax({
+              'type': 'POST',
+              'url': '/nlp', 
+              'data': text2,
+              'contentType': "application/json",
+              'dataType': 'json',
+              'success': function (data) {                    
+                //console.log(data);
+                caseEntity.push(data)
+                console.log(k, caseEntity)
+                return caseEntity;
+              },
+              'error': function (xhr) {
+                alert("fail to upload shit");
+              }
+            });
+          }
+        })
+      }
+    }
+
     // var asd = function () {
     //   var h = 220073;
     //   var type = ""
