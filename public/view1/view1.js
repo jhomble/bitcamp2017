@@ -23,7 +23,7 @@ angular.module('myApp.view1', ['ngRoute'])
     $scope.lastName = ""
     $scope.flag = false; 
     $scope.nlpText = ""
-    $scope.nlpFlag = false;
+    $scope.nlpFlag = true;
     $scope.nlpDatas = [];
     var loadMap = function () {
       $.ajax({
@@ -44,19 +44,23 @@ angular.module('myApp.view1', ['ngRoute'])
     }
 
     $scope.runNLP = function(){
-      $scope.nlpFlag = true;
-      $scope.nlpDatas = [];
-      console.log($scope.nlpText)
-      console.log($scope.entitySearchText($scope.nlpText))
+      //$scope.nlpFlag = true;
+      //$scope.nlpDatas = [];
+      var json1 = $scope.entitySearchText($scope.nlpText, function(text2, params){ 
+        $scope.nlpDatas = text2; 
+        console.log($scope.nlpDatas)
+        console.log($scope.nlpFlag)
+      }, "params")
     }
 
     loadMap();
     $scope.links = [];
     $scope.findPerson = function(){
+      console.log($scope.firstName)
       secMap.forEach(function(x) {
         // console.log(x)
-        if(x.firstName === $scope.firstName.toUpperCase()){
-          if(x.lastName === $scope.lastName.toUpperCase()){
+        if(x.firstName === $scope.firstName.toUpperCase().trim()){
+          if(x.lastName === $scope.lastName.toUpperCase().trim()){
             $scope.flag = true;
             $scope.links = []
             $scope.links.push({link: x.link})
@@ -64,6 +68,7 @@ angular.module('myApp.view1', ['ngRoute'])
           }
         }
       });
+        alert("Finished Searching")
     }
 
     $scope.loadCases = function () {
@@ -148,7 +153,7 @@ angular.module('myApp.view1', ['ngRoute'])
       }
     }
 
-    $scope.entitySearchText = function (text1) {
+    $scope.entitySearchText = function (text1, callback, param) {
       var text2 = JSON.stringify( {text: text1.substring(0,800)}); 
       $.ajax({
         'type': 'POST',
@@ -156,7 +161,8 @@ angular.module('myApp.view1', ['ngRoute'])
         'data': text2,
         'contentType': "application/json",
         'dataType': 'json',
-        'success': function (data) {                    
+        'success': function (data) {  
+          callback(data, param);                  
           return data;
         },
         'error': function (xhr) {
