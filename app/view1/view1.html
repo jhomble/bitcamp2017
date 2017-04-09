@@ -2,7 +2,7 @@
 
     <br><br>
     <!-- Page Content -->
-    <div class="container">
+    <div class="container" style="background-color: #f7f7f7">
         <div class="row">
             <!-- Blog Post Content Column -->
             <div class="col-lg-8">
@@ -17,20 +17,34 @@
                 </p>
                 <div class="ui divider"></div>
                 <!-- Preview Image -->
+                <div id="fileNames"></div>
                 <!-- Post Content -->
-                <div class="ui segment">
-                    <p class="lead">Title of Case</p>
-                    <p>headers of the case</p>
-                    <p>opinion</p>
+                <div class="ui segment" ng-repeat="case in cases">
+                    <p class="lead">Case ID: {{case.sha1}}</p>
+                    <a href="{{case.absoluteUrl}}">Full Court Document Link</a>
+                    <div class="ui divider"></div>
+                    <p>Date Created: {{case.date}}</p>
+                    <div class="ui form">
+                        <div class="field">
+                        </div>
+                        <div class="field">
+                            <label>Court Description</label>
+                            <textarea>{{case.opinion}}</textarea>
+                        </div>
+                    </div>
                     <div class="ui divider"></div>
                     <p>Choice to parse -> google NLP -> find more info/ links</p>
                 </div>
+                <button ng-click=loadCases() class="fluid ui primary button">View More Cases</button>
+
             </div>
+
 
             <!-- Blog Sidebar Widgets Column -->
             <div class="col-md-4">
 
                 <!-- Blog Search Well -->
+                <br><br>
                 <div class="well">
                     <h4>Find People...</h4>
                     <div class="input-group">
