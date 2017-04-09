@@ -46,10 +46,10 @@ app.use(methodOverride('X-HTTP-Method-Override'));
 // set the static files location /public/img will be /img for users
 app.use(express.static(__dirname + '/public')); 
 
-app.get('/NLP', function (req, res) {
-	var params = req.params;
-	var text = params.text;
+app.post('/nlp', function (req, res) {
+	var text = req.body.text;
 
+	//console.log(params)
 	if(text){
 		// Detects the entities of the text
 		languageClient.detectEntities(text).then((results) => {
