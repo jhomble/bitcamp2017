@@ -16,9 +16,12 @@ angular.module('myApp.view1', ['ngRoute'])
     var i = 1;
 
     var caseMap = [];
-
+    var secMap = [];
     $scope.cases = [];
     $scope.caseID = ""
+    $scope.firstName = ""
+    $scope.lastName = ""
+    $scope.flag = false; 
 
     var loadMap = function () {
       $.ajax({
@@ -28,9 +31,32 @@ angular.module('myApp.view1', ['ngRoute'])
           caseMap = json
         }
       });
+
+      $.ajax({
+        async: false,
+        url: "/view1/secMap.json",
+        success: function (json) {
+          secMap = json
+        }
+      });
     }
 
     loadMap();
+    $scope.links = [];
+    $scope.findPerson = function(){
+      secMap.forEach(function(x) {
+        // console.log(x)
+        if(x.firstName === $scope.firstName.toUpperCase()){
+          if(x.lastName === $scope.lastName.toUpperCase()){
+            $scope.flag = true;
+            $scope.links = []
+            $scope.links.push({link: x.link})
+            console.log($scope.links)
+          }
+        }
+      });
+    }
+
     $scope.loadCases = function () {
       count = 0;
       for (i; count <= 5 && total < 11174; i++) {
@@ -58,20 +84,20 @@ angular.module('myApp.view1', ['ngRoute'])
       var check = false;
       var id = $scope.caseID
       for (k; k < 11174; k++) {
-        if(caseMap[k].id === id){
+        if (caseMap[k].id === id) {
           $.ajax({
             async: false,
             url: "../data/opinions/" + caseMap[k].index.toString() + ".json",
             success: function (json) {
-                total = 1;
-                $scope.cases = []
-                $scope.cases.push({
-                  sha1: json.sha1,
-                  date: json.date_created.substring(0, 10),
-                  absoluteUrl: "https://www.courtlistener.com" + json.absolute_url,
-                  resource_uri: json.resource_uri,
-                  opinion: json.plain_text
-                })
+              total = 1;
+              $scope.cases = []
+              $scope.cases.push({
+                sha1: json.sha1,
+                date: json.date_created.substring(0, 10),
+                absoluteUrl: "https://www.courtlistener.com" + json.absolute_url,
+                resource_uri: json.resource_uri,
+                opinion: json.plain_text
+              })
             }
           });
           return;
@@ -128,6 +154,66 @@ angular.module('myApp.view1', ['ngRoute'])
     //   console.log(type)
     // }
     // asd()
+
+
+
+    var parser, xmlDoc, text
+    $.ajax({
+      async: false,
+      url: "../data/IA_Indvl_Feeds1.xml",
+      success: function (xml) {
+        text = xml
+        console.log(text)
+
+      }
+    });
+
+    function xmlToJson(xml) {
+
+      // Create the return object
+      var obj = {};
+
+      if (xml.nodeType == 1) { // element
+        // do attributes
+        if (xml.attributes.length > 0) {
+          obj["@attributes"] = {};
+          for (var j = 0; j < xml.attributes.length; j++) {
+            var attribute = xml.attributes.item(j);
+            obj["@attributes"][attribute.nodeName] = attribute.nodeValue;
+          }
+        }
+      } else if (xml.nodeType == 3) { // text
+        obj = xml.nodeValue;
+      }
+
+      // do children
+      if (xml.hasChildNodes()) {
+        for (var i = 0; i < xml.childNodes.length; i++) {
+          var item = xml.childNodes.item(i);
+          var nodeName = item.nodeName;
+          if (typeof (obj[nodeName]) == "undefined") {
+            obj[nodeName] = xmlToJson(item);
+          } else {
+            if (typeof (obj[nodeName].push) == "undefined") {
+              var old = obj[nodeName];
+              obj[nodeName] = [];
+              obj[nodeName].push(old);
+            }
+            obj[nodeName].push(xmlToJson(item));
+          }
+        }
+      }
+      return obj;
+    };
+
+    //  var asdasd = xmlToJson(text);
+    // console.log(asdasd)
+    // var q = 0;
+    // var lk = ""
+    // for(q; q < 16713; q++){
+    //     lk = lk + "{\"id\": \"" + q + "\", \"firstName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].firstNm + "\" , \"lastName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].lastNm +  "\" , \"link\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].link + "\"},"
+    // }
+    // console.log(lk)
 
     $scope.loadCases()
     // analyzeEntitiesOfText($scope.cases[1].opinion)
