@@ -16,9 +16,12 @@ angular.module('myApp.view1', ['ngRoute'])
     var i = 1;
 
     var caseMap = [];
-
+    var secMap = [];
     $scope.cases = [];
     $scope.caseID = ""
+    $scope.firstName = ""
+    $scope.lastName = ""
+    $scope.flag = false; 
 
     var loadMap = function () {
       $.ajax({
@@ -28,9 +31,32 @@ angular.module('myApp.view1', ['ngRoute'])
           caseMap = json
         }
       });
+
+      $.ajax({
+        async: false,
+        url: "/view1/secMap.json",
+        success: function (json) {
+          secMap = json
+        }
+      });
     }
 
     loadMap();
+    $scope.links = [];
+    $scope.findPerson = function(){
+      secMap.forEach(function(x) {
+        // console.log(x)
+        if(x.firstName === $scope.firstName.toUpperCase()){
+          if(x.lastName === $scope.lastName.toUpperCase()){
+            $scope.flag = true;
+            $scope.links = []
+            $scope.links.push({link: x.link})
+            console.log($scope.links)
+          }
+        }
+      });
+    }
+
     $scope.loadCases = function () {
       count = 0;
       for (i; count <= 5 && total < 11174; i++) {
@@ -147,14 +173,14 @@ angular.module('myApp.view1', ['ngRoute'])
       return obj;
     };
 
-    var asdasd = xmlToJson(text);
-    console.log(asdasd)
-    var q = 0;
-    var lk = ""
-    for(q; q < 16713; q++){
-      lk = lk + "{\"id\": \"" + q + "\", \"firstName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].firstNm + "\" , \"lastName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].lastNm + "\"},"
-    }
-    //console.log(lk)
+    //  var asdasd = xmlToJson(text);
+    // console.log(asdasd)
+    // var q = 0;
+    // var lk = ""
+    // for(q; q < 16713; q++){
+    //     lk = lk + "{\"id\": \"" + q + "\", \"firstName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].firstNm + "\" , \"lastName\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].lastNm +  "\" , \"link\": \"" + asdasd.IAPDIndividualReport.Indvls.Indvl[q].Info['@attributes'].link + "\"},"
+    // }
+    // console.log(lk)
 
     $scope.loadCases()
     // analyzeEntitiesOfText($scope.cases[1].opinion)

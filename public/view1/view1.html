@@ -33,8 +33,6 @@
                             <textarea>{{case.opinion}}</textarea>
                         </div>
                     </div>
-                    <div class="ui divider"></div>
-                    <p>Choice to parse -> google NLP -> find more info/ links</p>
                 </div>
                 <button ng-click=loadCases() class="fluid ui primary button">View More Cases</button>
 
@@ -46,36 +44,14 @@
 
                 <!-- Blog Search Well -->
                 <br><br>
-                <div class="well">
-                    <h4>Find People...</h4>
-                    <div class="input-group">
-                        <input type="text" class="form-control">
-                        <span class="input-group-btn">
-                            <button class="btn btn-default" type="button">
-                                <i class="search icon"></i>
-                            </button>
-                        </span>
-                    </div>
-                    <!-- /.input-group -->
-                </div>
+
 
                 <!-- Blog Categories Well -->
                 <div class="well">
-                    <h4>Filter Options</h4>
+                    <h4>Search By Case</h4>
                     <div class="row">
                         <div class="col-lg-12">
                             <form class="ui form">
-                                <div class="two fields">
-                                    <div class="field">
-                                        <label>Start Date</label>
-                                        <input type="date">
-                                    </div>
-                                    <div class="field">
-                                        <label>End Date</label>
-                                        <input type="date">
-                                    </div>
-                                </div>
-
                                 <div class="field">
                                     <label>Case ID</label>
                                     <div class="input-group">
@@ -87,8 +63,7 @@
                                         </span>
                                     </div>
                                 </div>
-                               
-                                <button class="ui button" type="submit">Add Filters</button>
+
                             </form>
                         </div>
                     </div>
@@ -97,8 +72,39 @@
 
                 <!-- Side Widget Well -->
                 <div class="well">
-                    <h4>More Stuff if we need</h4>
-                    <p>Maybe put the spark post thing here for suggested stuff</p>
+                    <h4>Search By Person in SEC Dataset</h4>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <form class="ui form">
+                                <div class="two fields">
+                                    <div class="field">
+                                        <label>First Name</label>
+                                        <div class="input-group">
+                                            <input ng-model="firstName" type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="field">
+                                        <label>Last Name</label>
+                                        <div class="input-group">
+                                            <input ng-model="lastName" type="text" class="form-control">
+                                                <span class="input-group-btn">
+                                                <button ng-click="findPerson()" class="btn btn-default" type="button">
+                                                    <i class="search icon"></i>
+                                                </button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row" ng-show="flag">
+                        <h4>Cases linked to {{firstName}} {{lastName}}</h4>
+                        <div ng-repeat="link in links">
+                            <a href="{{link.link}}">{{link.link}}</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
