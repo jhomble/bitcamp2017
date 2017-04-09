@@ -139,6 +139,23 @@ angular.module('myApp.view1', ['ngRoute'])
       }
     }
 
+    $scope.entitySearchText = function (text1) {
+      var text2 = JSON.stringify( {text: text1.substring(0,800)}); 
+      $.ajax({
+        'type': 'POST',
+        'url': '/nlp', 
+        'data': text2,
+        'contentType': "application/json",
+        'dataType': 'json',
+        'success': function (data) {                    
+          return data;
+        },
+        'error': function (xhr) {
+          alert("fail to upload shit");
+        }
+      });
+    }
+
     // var asd = function () {
     //   var h = 220073;
     //   var type = ""
