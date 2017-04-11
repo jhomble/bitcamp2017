@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201490/",
+  "absolute_url": "/opinion/201490/air-line-pilots-v-guilford-transportat/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201490/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:27:56Z",
+  "date_modified": "2016-02-28T05:05:39.476919Z",
+  "type": "010combined",
+  "sha1": "8c18c0c1649fc086fef5b47b6445304cf391ed80",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-2409ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/03/17/Air_Line_Pilots_v._Guilford_Transportat.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 04-2409\n\n           AIR LINE PILOTS ASSOCIATION, INTERNATIONAL,\n\n                      Plaintiff, Appellee,\n\n                               v.\n\n        GUILFORD TRANSPORTATION INDUSTRIES, INC., ET AL.,\n\n                     Defendants, Appellants.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on February 28, 2005 is\ncorrected as follows:\n\n     On page 28, line 12, change \"FLA\" to \"RLA\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

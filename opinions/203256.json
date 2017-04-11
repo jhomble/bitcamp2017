@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203256/",
+  "absolute_url": "/opinion/203256/rio-mar-assoc-lp-v-uhs-of-puerto-rico/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203256/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:12:01Z",
+  "date_modified": "2016-02-28T05:10:20.159212Z",
+  "type": "010combined",
+  "sha1": "380c9a3814d852208a56647dcc4290415d32e708",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1868ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/04/18/Rio_Mar_Assoc._L.P._v._UHS_of_Puerto_Rico.pdf",
+  "plain_text": "              United States Court of Appeals\n                               For the First Circuit\n\nNos.   07-1868\n       07-2005\n\n                          RÍO MAR ASSOCIATES, LP, SE, ET AL.,\n\n                           Defendants/Cross-Plaintiffs, Appellants,\n\n                                               v.\n\n                            UHS OF PUERTO RICO, INC., D/B/A\n                            HOSPITAL SAN PABLO DEL ESTE,\n\n                                 Cross-Defendant, Appellee,\n                                   __________________\n\n                                MYRELLA S. FIORENTINO,\n\n                                      Plaintiff, Appellee.\n\n\n\n                                      ERRATA SHEET\n\n       The opinion of this Court issued on April 10, 2008, is amended as follows:\n\n\n       On page 7, re-number footnote 2 to footnote 1 and re-number subsequent footnotes\naccordingly.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

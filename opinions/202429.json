@@ -1,0 +1,29 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202429/",
+  "absolute_url": "/opinion/202429/jean-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202429/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:52:50Z",
+  "date_modified": "2016-02-28T05:07:59.268348Z",
+  "type": "010combined",
+  "sha1": "60bf346a8d96cdc5354a44a364258065ae73dace",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2724ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/09/25/Jean_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 05-2724\n\n                          EMMANUEL JEAN,\n\n                           Petitioner,\n\n                                v.\n\n                         ALBERTO GONZALES,\n              Attorney General of the United States,\n\n                           Respondent.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on August 31, 2006 is\namended as follows:\n\n     Page 8, line 7: Replace \"cross-examination\" with \"cross\nexamination\"\n\n     Page 9, line 12: Replace \"testimony\" with \"evidence\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1611/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202616/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202738/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202909/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202925/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203955/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/622128/"
+  ]
+}

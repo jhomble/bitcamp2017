@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/223575/",
+  "absolute_url": "/opinion/223575/new-york-v-amgen-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/223575/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-18T20:28:25Z",
+  "date_modified": "2016-02-28T05:41:10.042262Z",
+  "type": "010combined",
+  "sha1": "603b161d9612ba79a5e7a9e1c58fa7f320ef7e8d",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-1629E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/08/18/State_of_Georgia_v._Amgen_Inc.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 10-1629; 10-1630; 10-1633; 10-1634; 10-1635; 10-1636; 10-1954;\n10-1955\n\n    STATE OF NEW YORK; COMMONWEALTH OF MASSACHUSETTS; STATE OF\n  CALIFORNIA; STATE OF ILLINOIS; STATE OF INDIANA; STATE OF NEW\n   MEXICO EX REL. KASSIE WESTMORELAND; STATE OF GEORGIA EX REL.\n                       KASSIE WESTMORELAND,\n\n                     Plaintiffs, Appellants,\n\n  UNITED STATES EX REL. KASSIE WESTMORELAND; STATE OF DELAWARE;\n STATE OF FLORIDA; STATE OF HAWAII; STATE OF LOUISIANA; STATE OF\n   MICHIGAN; STATE OF NEVADA; STATE OF NEW HAMPSHIRE; STATE OF\nTENNESSEE; STATE OF TEXAS; COMMONWEALTH OF VIRGINIA; DISTRICT OF\n                            COLUMBIA,\n\n                           Plaintiffs,\n\n                                v.\n\n  AMGEN INC.; ASD HEALTHCARE; INTERNATIONAL NEPHROLOGY NETWORK,\nrenamed INTEGRATED NEPHROLOGY NETWORK, d/b/a Dialysis Purchasing\n                         Alliance, Inc.,\n\n                      Defendants, Appellees,\n\nAMERISOURCEBERGEN SPECIALTY GROUP; AMERISOURCEBERGEN CORPORATION;\n IMMUNEX CORPORATION; MEDSCAPE, LLC; WEBMD HEALTH CORP.; WYETH;\n                      WYETH PHARMACEUTICALS,\n\n                           Defendants.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on July 22, 2011, is amended\nas follows:\n\n     On page 10, line 15, both instances of \"§§\" are deleted and\nreplaced with \"§\".\n\n     On page 10, line 16, \"§§\" is deleted and replaced with \"§\".\n\f     On page 10, line 17, \"ch. 12, §§ 5B(1)-(3)\" is deleted and\nreplaced with \"ch. 12, § 5B(1)-(3)\"; and \"N.M. Stat. Ann. §§ 127-\n14-4(A)-(D)\" is deleted and replaced with \"N.M. Stat. Ann. § 27-14-\n4(A)-(D)\".\n\n     On page 10, line 18, \"§§\" is deleted and replaced with \"§\".\n\n     On page 15, line 14, \"at *10\" is deleted.\n\n     On page 20, line 19, \"course or conduct\" is deleted and\nreplaced with \"course of conduct\".\n\n     On page 22, line 4, a \",\" is inserted after \"515.2(b)(5)(ii)\".\n\n     On page 24, line 20, \"14,107.2(a)\" is deleted and replaced\nwith \"14107.2(a)\".\n\n     On page 24, footnote 10, line 10, \"(I)\" is deleted and\nreplaced with \"(i)\".\n\n     On page 25, line 21, \"§§\" is deleted and replaced with \"§\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203373/",
+  "absolute_url": "/opinion/203373/asociacion-de-periodistas-de-pr-v-mueller/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203373/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:15:16Z",
+  "date_modified": "2016-02-28T05:10:39.641882Z",
+  "type": "010combined",
+  "sha1": "37c6139e4da3511cbc1ce0e76ed22119cb87d12b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2196ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/07/07/Asociacion_de_Period_v._Mueller.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 07-2196\n\n       ASOCIACIÓN DE PERIODISTAS DE PUERTO RICO, Puerto Rico\n   Journalists Association; OVERSEAS PRESS CLUB OF PUERTO RICO;\n    NORMANDO VALENTÍN, individual capacity and on behalf of his\n    respective Conjugal partnership; VÍCTOR SÁNCHEZ, individual\n capacity and on behalf of his respective Conjugal Partnership;\n     JOEL LAGO-ROMÁN, individual capacity and on behalf of his\n      respective Conjugal Partnership; COSSETTE DONALDS-BROWN,\n   individual capacity and on behalf of her respective Conjugal\n     Partnership; VÍCTOR FERNÁNDEZ, individual capacity and on\n behalf of his respective Conjugal Partnership; ANNETTE ÁLVAREZ,\n         individual capacity and on behalf of her respective\n                        Conjugal Partnership,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n   ROBERT MUELLER, in his official capacity as Director of the\n    Federal Bureau of Investigation; TEN UNKNOWN AGENTS OF THE\n    FEDERAL BUREAU OF INVESTIGATION, individually and in their\n official capacity and on behalf of their Conjugal Partnership;\n AGENT KEITH BYER, individually and in his official capacity and\non behalf of his Conjugal Partnership; AGENT LUIS S. FRATICELLI,\n individually and in his official capacity and on behalf of his\n Conjugal Partnership; AGENT JOSÉ FIGUEROA-SANCHA, individually\n        and in his official capacity and on behalf of his\n                       Conjugal Partnership,\n\n                     Defendants, Appellees.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on June 18, 2008, is amended\nas follows:\n\n     On p. 14, line 16: between \"While\" and \"still\" insert \"this\nplaintiff was\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/180885/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203451/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203615/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203669/"
+  ]
+}

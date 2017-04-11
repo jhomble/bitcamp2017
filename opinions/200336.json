@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200336/",
+  "absolute_url": "/opinion/200336/kps-associates-v-designs-by-fmc-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200336/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:49:11Z",
+  "date_modified": "2016-02-28T05:02:41.901420Z",
+  "type": "010combined",
+  "sha1": "87a12f7ac6d8b2fa45edeb44809d530f75c8a72b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2513ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/02/12/KPS__Associates_v._Designs_by_FMC_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 01-2513, 01-2521\n\n                        KPS & ASSOCIATES, INC.,\n\n                         Plaintiff, Appellee,\n\n                                  v.\n\n                         DESIGNS BY FMC, INC.,\n\n                         Defendant, Appellant.\n\n\n                             ERRATA SHEET\n\n     The opinion of this court issued January 28, 2003, should be\namended as follows:\n\n     On the last line of page 12, \"September 28, 2002\" should be\n\"September 28, 2001\"\n\n     On the first line of page 13, \"October 25, 2002\" should be\n\"October 25, 2001\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

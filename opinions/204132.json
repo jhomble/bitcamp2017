@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204132/",
+  "absolute_url": "/opinion/204132/esposito-v-home-depot-usa-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204132/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:30:34Z",
+  "date_modified": "2016-02-28T05:12:53.816955Z",
+  "type": "010combined",
+  "sha1": "7a639abff4a4798c4bd67666b68a5e71a8fb0017",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2115E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/01/08/Esposito_v._Home_Depot_U.S.A._Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-2115\n\n                         ROBERT ESPOSITO,\n\n                      Plaintiff, Appellant,\n\n                                  v.\n\n          HOME DEPOT U.S.A., INC., BLACK & DECKER INC.,\n                   DEWALT INDUSTRIAL TOOL CO.,\n\n                      Defendants, Appellees.\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on December 30, 2009, is\n\namended as follows:\n\n     On. p. 27, lines 9 and 10:    Delete the words \"of a range\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

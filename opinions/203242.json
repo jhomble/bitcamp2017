@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203242/",
+  "absolute_url": "/opinion/203242/united-states-v-van-anh/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203242/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:11:45Z",
+  "date_modified": "2016-02-28T05:10:17.263840Z",
+  "type": "010combined",
+  "sha1": "98136b8bf6040df8a297799fc815d58bc84cd5cf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1010ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/04/15/US_v._Anh.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 07-1010\n    07-1011\n    07-1012\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                     VAN ANH, a/k/a ANH VAN,\n                    KHONG NGUYEN, and THINH CAO\n\n                     Defendants, Appellants.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on April 11, 2008 is\namended as follows:\n\n     On page 15, remove footnote 8, and renumber the subsequent\nfootnotes accordingly.\n\n     On page 18, line 7, place a period after \"scuffle\" and\ndelete, \"and not Tommy's failure to repay his debt.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

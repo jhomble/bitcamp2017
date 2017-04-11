@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200276/",
+  "absolute_url": "/opinion/200276/lapine-v-town-of-wellesley/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200276/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:47:30Z",
+  "date_modified": "2016-02-28T05:02:34.777729Z",
+  "type": "010combined",
+  "sha1": "9e7908d06bf029987b22a93b1b0dada61f2ed61f",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2054ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/01/08/Lapine_v._Town_of_Wellesley.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-2054\n\n                        GARY W. LAPINE,\n\n                      Plaintiff, Appellee,\n\n                               v.\n\n                       TOWN OF WELLESLEY,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on September 4, 2002 is\namended as follows:\n\n     Page 22, lines 19-20: delete \",or even the fact that the\ndecisive motive may have been dissatisfaction with his former\njob,\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

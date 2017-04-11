@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202355/",
+  "absolute_url": "/opinion/202355/united-states-v-escobar-figueroa/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202355/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:50:48Z",
+  "date_modified": "2016-02-28T05:07:49.439057Z",
+  "type": "010combined",
+  "sha1": "4fe0c78600dad13c8970cd4eef2bbb8acffaf681",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1258ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/08/16/US_v._Escobar-Figueroa.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 04-1258\n\n                            UNITED STATES,\n\n                              Appellee,\n\n                                  v.\n\n                   CARLOS M. ESCOBAR-FIGUEROA,\n\n                      Defendant, Appellant.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on July 7, 2006 is amended\nas follows:\n\n     Page 2, note 5, in line 2: Insert \", who was not his\ncounsel at trial,\" after \"counsel\"\n\n     Page 2, in line 9:    Replace \"departing\" with \"adjusting\"\n\n     Page 9, in line 15:    Replace \"point\" with \"level\"\n\n     Page 18, in line 2:    Delete \"departure\"\n\n     Page 18, in line 18:    Replace \"points\" with \"levels\"\n\n     Page 18, in line 24:    Replace \"point\" with \"level\"\n\n     Page 24, in line 16:    Replace \"points\" with \"levels\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

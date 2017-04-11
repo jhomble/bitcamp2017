@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204014/",
+  "absolute_url": "/opinion/204014/santana-castro-v-toledo-davila/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204014/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:26Z",
+  "date_modified": "2016-02-28T05:12:31.572767Z",
+  "type": "010combined",
+  "sha1": "7837c7fd8b3786c1386444c0069835189323bb5e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1964E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/09/22/Charles_Santana-Castro_v._Pedro_Toledo-Davila.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo.   08-1964\n\n          CHARLES SANTANA-CASTRO; FÉLIX SANTANA-CARMONA;\n                        AIDA SANTANA-CASTRO,\n                      Plaintiffs, Appellants,\n\n                                v.\n\n            PEDRO TOLEDO-DÁVILA, Superintendent of the\n       Puerto Rico Police Department; JOSÉ RAMOS-GONZÁLEZ,\n      Commander of the Fajardo Region; JOSÉ LEBRÓN-ALICEA,\n      Supervisor; NELSON TORRES-GONZÁLEZ, Commander of the\n Special Operations Unit; JESÚS SÁNCHEZ-ZAVALA, Police Officer;\n        ISRAEL CANDELARIA-VÉLEZ, Police Officer; JOHN DOE;\n              DIONISIO MOLINA-PADRÓ, Police Officer,\n                      Defendants, Appellees.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on August 27, 2009, is\namended as follows:\n\n      On p.8, line 9: add closing quotation mark after \"pleadings.\"\n\n      On p.8, line 10: replace \"321\" with \"320.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

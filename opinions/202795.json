@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202795/",
+  "absolute_url": "/opinion/202795/united-states-v-capozzi/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202795/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:02:07Z",
+  "date_modified": "2016-02-28T05:09:01.558448Z",
+  "type": "010combined",
+  "sha1": "113fbb8e385ec80493d0593ca248fe38b967f170",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2256ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/06/15/US_v._Capozzi.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 05-2256\n\n                           UNITED STATES,\n\n                              Appellee,\n\n                                 v.\n\n                           DEREK CAPOZZI,\n\n                        Defendant, Appellant.\n\n\n                            ERRATA SHEET\n\n     The opinion of this Court issued on May 23, 2007 is amended\nas follows:\n\n     Page 4, line 15:\n\n          Paul A. Decologero should be Paul A. DeCologero\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

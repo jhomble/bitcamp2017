@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202173/",
+  "absolute_url": "/opinion/202173/united-states-v-alli/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202173/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:46:13Z",
+  "date_modified": "2016-02-28T05:07:22.913607Z",
+  "type": "010combined",
+  "sha1": "4aece3d877e94b0f39ea1703a464d0b0c11b79fb",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1698ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/04/20/US_v._Alli.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-1698\n\n                         UNITED STATES,\n\n                            Appellee,\n\n                               v.\n\n                       OLADIMEJI O. ALLI,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on April 7, 2006 is amended\nas follows:\n\n     On page 9, replace \"increased Alli's offense level by two\npoints after determining that his offense\" with \"imposed a two-\nlevel upward adjustment to Alli's offense level after determining\nthat his crime\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

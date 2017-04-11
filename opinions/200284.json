@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200284/",
+  "absolute_url": "/opinion/200284/united-states-v-moran/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200284/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:47:48Z",
+  "date_modified": "2016-02-28T05:02:39.067084Z",
+  "type": "010combined",
+  "sha1": "8a5f0504986a8bb499c4ac419e2dcb7cfb920008",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2097ERRB-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/01/14/US_v._Moran.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\nNo. 00-2097\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellant,\n\n                                 v.\n\n                    JOHN MORAN and NORA MORAN,\n\n                      Defendants, Appellees.\n\n\n\n\n                               ERRATA\n\n\n\n     The opinion of this court issued on September 23, 2002, should\n\nbe amended as follows:\n\n\n\n     On page 2, first full paragraph, line 1, replace \"Greenburg\"\n\nwith \"Greenberg\".\n\n     On page 30, lines 3-4, replace the phrase \"but it not\" with\n\nthe phrase \"but it did not\".\n\n     On page 32, line 3 of 2nd full paragraph, replace \"loan\" with\n\n\"loans\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

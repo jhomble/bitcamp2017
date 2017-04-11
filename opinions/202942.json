@@ -1,0 +1,33 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202942/",
+  "absolute_url": "/opinion/202942/ruiz-v-bally-total-fitness-holding-corp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202942/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:05:27Z",
+  "date_modified": "2016-02-28T05:09:29.869790Z",
+  "type": "010combined",
+  "sha1": "253e2c3184baab926a5d0dfb32790849384f7e27",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2254ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/09/17/Ruiz_v._Holiday_Universal.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\nNo. No. 06-2254\n\n                         GISSELLE RUIZ,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n            BALLY TOTAL FITNESS HOLDING CORP. ET AL.,\n\n                      Defendants, Appellees\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on July 30, 2007 is\ncorrected as follows:\n\n     On page 13, line 14, change \"statues\" to \"statutes\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/175740/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/177135/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/183764/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203050/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203106/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203235/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203756/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203827/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203934/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/218515/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/623757/"
+  ]
+}

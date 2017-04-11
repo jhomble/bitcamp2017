@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203073/",
+  "absolute_url": "/opinion/203073/burke-v-brookline-school-dis/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203073/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:12Z",
+  "date_modified": "2016-02-28T05:09:51.712008Z",
+  "type": "010combined",
+  "sha1": "58af7359a25b0e0a8132c9bd8af38e98265b3cc3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-1645-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/13/Burke_v._Brookline_School_Dis.pdf",
+  "plain_text": "               Not For Publication in West's Federal Reporter\n\n          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 07-1645\n\n              CATHERINE BURKE and MIKAEL ROLFHAMRE,\n\n                      Plaintiffs, Appellants,\n\n                                    v.\n\n                 THE BROOKLINE SCHOOL DISTRICT,\n\n                        Defendant, Appellee.\n\n\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\n                FOR THE DISTRICT OF NEW HAMPSHIRE\n\n      [Hon. Joseph A. DiClerico, Jr., U.S. District Judge]\n\n\n                                 Before\n\n                     Torruella, Circuit Judge,\n                   Stahl, Senior Circuit Judge,\n                     and Lynch, Circuit Judge.\n\n\n\n     Jamie N. Hage, Brian M. Childs, and Nixon Peabody LLP, on\nbrief for appellants.\n     Dean B. Eggert, Alison M. Bethel, and Wadleigh, Starr &\nPeters, P.L.L.C., on brief for appellee.\n\n\n\n                          December 13, 2007\n\f          Per Curiam.   This case is summarily affirmed under Díaz-\n\nFonseca v. Puerto Rico, 451 F.3d 13 (1st Cir. 2006).\n\n          Affirmed.\n\n\n\n\n                                -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">               Not For Publication in West's Federal Reporter\n\n          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 07-1645\n\n              CATHERINE BURKE and MIKAEL ROLFHAMRE,\n\n                      Plaintiffs, Appellants,\n\n                                    v.\n\n                 THE BROOKLINE SCHOOL DISTRICT,\n\n                        Defendant, Appellee.\n\n\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\n                FOR THE DISTRICT OF NEW HAMPSHIRE\n\n      [Hon. Joseph A. DiClerico, Jr., U.S. District Judge]\n\n\n                                 Before\n\n                     Torruella, Circuit Judge,\n                   Stahl, Senior Circuit Judge,\n                     and Lynch, Circuit Judge.\n\n\n\n     Jamie N. Hage, Brian M. Childs, and Nixon Peabody LLP, on\nbrief for appellants.\n     Dean B. Eggert, Alison M. Bethel, and Wadleigh, Starr &\nPeters, P.L.L.C., on brief for appellee.\n\n\n\n                          December 13, 2007\n\f          Per Curiam.   This case is summarily affirmed under Díaz-\n\nFonseca v. Puerto Rico, </pre><span class=\"citation\" data-id=\"202265\"><a href=\"/opinion/202265/diaz-fonseca-v-commonwealth-of-pr/\"><span class=\"volume\">451</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">13</span></a></span><pre class=\"inline\"> (1st Cir. 2006).\n\n          Affirmed.\n\n\n\n\n                                -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/202265/"
+  ]
+}

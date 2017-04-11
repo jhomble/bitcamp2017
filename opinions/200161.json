@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200161/",
+  "absolute_url": "/opinion/200161/systems-management-v-loiselle/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200161/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:45:16Z",
+  "date_modified": "2016-02-28T05:02:26.030711Z",
+  "type": "010combined",
+  "sha1": "0652b3528ea2e968c0e463e44496d5746078b0e3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1538ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/10/18/Systems_Management_v._Loiselle.pdf",
+  "plain_text": "             United States Court of Appeals\n                          For the First Circuit\n\n\nNo. 01-1538\nNo. 01-1570\nNo. 01-2325\n\n          SYSTEMS MANAGEMENT, INC.; VICTOR LABOY; JUAN AYALA;\n              JUAN ORTEGA; FORGET ME NOT SERVICES, INC.;\n                    MARTIN RESTREPO; CESTLIO RODAS;\n                     JOSE MIGUEL CRUZ; LUCIO ARDON,\n\n                  Plaintiffs, Appellees/Cross-Appellants,\n\n                                       v.\n\n                               KENNETH LOISELLE,\n\n                   Defendant, Appellant/Cross-Appellee.\n\n\n\n                                 ERRATA SHEET\n\n     The opinion of this Court, issued on September 10, 2002,\n\nshould be amended as follows.\n\n     On    page    6,   last   line,   insert   a   quotation   mark   before\n\n\"pattern\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/145652/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/145799/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200468/"
+  ]
+}

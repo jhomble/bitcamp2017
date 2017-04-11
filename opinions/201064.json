@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201064/",
+  "absolute_url": "/opinion/201064/united-states-v-mccormack/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201064/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:06:59Z",
+  "date_modified": "2016-02-28T05:04:30.992565Z",
+  "type": "010combined",
+  "sha1": "964cf618d3d7b86215b08e79a7d74a90ce0bb6b1",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2579ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/06/15/US_v._McCormack.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 02-2579\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                         JAMES McCORMACK,\n\n                      Defendant, Appellant.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on June 8, 2004 is amended as\nfollows:\n\n     On Page 13, line 14 \"Taken in\" should be changed to \"This\npossibility, taken in\" and on line 16, \"the jury had\" should be\nchanged to \"gave the jury\"\n\n     On Page 16, line 1, \"fewer\" should be changed to \"shorter\"\n\n     On Page 17, line 13, \"§ 944(f).\"       should be changed to \"§\n994(f).\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

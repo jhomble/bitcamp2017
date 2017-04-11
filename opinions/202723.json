@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202723/",
+  "absolute_url": "/opinion/202723/united-states-v-fairway-capital-corp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202723/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:00:21Z",
+  "date_modified": "2016-02-28T05:08:58.900176Z",
+  "type": "010combined",
+  "sha1": "6a0563d71cf5bb0a80f8024b8a1451a7e8eedee5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2023ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/04/27/US_v._Fairway_Capital_Corp.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\n\n\n\nNo. 06-2023\n\n                     UNITED STATES OF AMERICA,\n                        Plaintiff, Appellee,\n\n                                v.\n\n                   FAIRWAY CAPITAL CORPORATION,\n                            Defendant,\n\n\n                 GOVERNMENT OF THE VIRGIN ISLANDS,\n                        Claimant, Appellant,\n\n             THE LAW OFFICES OF HOLLAND & KNIGHT, LLP,\n   as Counsel to Joseph M. DiOrio, Trustee for Arnold Kilberg;\n        HENRY D. VARA; FRANCIS DIMENTO; JAMES C. CALLAHAN,\n                             Claimants.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on April 11, 2007, is amended\nas follows:\n\n     On page 23, line 1, \"1918\" should be replaced with \"1915\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

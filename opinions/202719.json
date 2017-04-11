@@ -1,0 +1,29 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202719/",
+  "absolute_url": "/opinion/202719/united-states-v-luisi/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202719/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:00:17Z",
+  "date_modified": "2016-02-28T05:08:39.040857Z",
+  "type": "010combined",
+  "sha1": "dc67696ad0088ff6149fba617777cd16630d9e7c",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1470ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/04/27/US_v._Luisi.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-1470\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                      ROBERT C. LUISI, JR.,\n\n                      Defendant, Appellant.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this court issued on April 10, 2007 is amended\nas follows:\n\n     On page 13, footnote 8, line 8: Replace the word \"where\" with\nthe word \"were.\"\n\n     On page 20, line 15: Replace the citation \"494-5\" with the\ncitation \"494-95.\"\n\n     On page 21, line 2: Delete the period directly following the\nnumber \"8,\" and replace it with a semicolon. Delete one of the two\nspaces before \"Cf.\"     Replace the capitalized \"Cf.\" with the\nlowercase \"cf.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/151938/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202753/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202855/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202914/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203121/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203776/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/620437/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202235/",
+  "absolute_url": "/opinion/202235/united-states-v-aitoro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202235/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:47:31Z",
+  "date_modified": "2016-02-28T05:07:32.014964Z",
+  "type": "010combined",
+  "sha1": "855505f14a6b23c599031521636c3359b043a90a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1742ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/05/31/US_v._Aitoro.pdf",
+  "plain_text": "              United States Court of Appeals\n                               For the First Circuit\n\nNo. 04-1742\n\n                                     UNITED STATES,\n\n                                          Appellee,\n\n                                              v.\n\n                                     JOSEPH AITORO,\n\n                                    Defendant, Appellant.\n\n\n\n\n                                          ERRATA\n\n       The opinion of this court, issued May 12, 2006, should be amended as follows:\n\nOn the cover sheet replace David H. Kyosza with David H. Koysza.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

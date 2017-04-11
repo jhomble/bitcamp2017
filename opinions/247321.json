@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/247321/",
+  "absolute_url": "/opinion/247321/first-bank-stock-corporation-v-board-of-governors-/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/247321/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:34:23Z",
+  "date_modified": "2016-02-28T06:02:33.860376Z",
+  "type": "010combined",
+  "sha1": "eb65b563a98c2793f7160331cf51f9de54f467e8",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/263/263.F2d.839.16098.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">263 F.2d 839</p>\n    <p class=\"parties\">FIRST BANK STOCK CORPORATION, Petitioner,<br>v.<br>BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM.</p>\n    <p class=\"docket\">No. 16098.</p>\n    <p class=\"court\">United States Court of Appeals Eighth Circuit.</p>\n    <p class=\"date\">February 9, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for review of order of the Board of Governors of the Federal Reserve System.</p>\n      <p class=\"indent\">Joseph H. Colman and John G. Dorsey, Minneapolis, Minn., for petitioner.</p>\n      <p class=\"indent\">Samuel D. Slade and John G. Laughlin, Attys., Department of Justice, Washington, D. C., for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for review of order of Board of Governors of the Federal Reserve System dismissed, without costs and without prejudice to the prosecution by petitioner of its Amended Application, dated November 28, 1958, on stipulation of parties.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">263</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">839</span></span></p>\n    <p class=\"parties\">FIRST BANK STOCK CORPORATION, Petitioner,<br>v.<br>BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM.</p>\n    <p class=\"docket\">No. 16098.</p>\n    <p class=\"court\">United States Court of Appeals Eighth Circuit.</p>\n    <p class=\"date\">February 9, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for review of order of the Board of Governors of the Federal Reserve System.</p>\n      <p class=\"indent\">Joseph H. Colman and John G. Dorsey, Minneapolis, Minn., for petitioner.</p>\n      <p class=\"indent\">Samuel D. Slade and John G. Laughlin, Attys., Department of Justice, Washington, D. C., for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for review of order of Board of Governors of the Federal Reserve System dismissed, without costs and without prejudice to the prosecution by petitioner of its Amended Application, dated November 28, 1958, on stipulation of parties.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

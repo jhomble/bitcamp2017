@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201073/",
+  "absolute_url": "/opinion/201073/newark-v-boston-housing/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201073/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:07:09Z",
+  "date_modified": "2016-02-28T05:04:31.611827Z",
+  "type": "010combined",
+  "sha1": "25b73c2b7a7bfc66f32153b5858898d2ce6a8f54",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1116-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/06/21/Newark_v._Boston_Housing.pdf",
+  "plain_text": "                 Not For Publication in West's Federal Reporter\n                Citation Limited Pursuant to 1st Cir. Loc. R. 32.3\n\n\n           United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 04-1116\n\n                            ROLAND S. NEWARK,\n\n                          Plaintiff, Appellant,\n\n                                       v.\n\n                       BOSTON HOUSING AUTHORITY,\n\n                          Defendant, Appellee.\n\n\n           APPEAL FROM THE UNITED STATES DISTRICT COURT\n                 FOR THE DISTRICT OF MASSACHUSETTS\n\n           [Hon. Morris E. Lasker, U.S. District Judge]\n\n\n                                    Before\n\n               Torruella and Howard, Circuit Judges,\n                   and Stearns,* District Judge.\n\n\n     John A. Hanrahan, on brief, for appellant.\n     John C. Foskett, with whom Deutsch Williams Brooks DeRensis &\nHolland, P.C., was on brief, for appellee.\n\n\n\n                               June 21, 2004\n\n\n\n\n*\n    Of the District of Massachusetts, sitting by designation.\n\f          Per Curiam.   After having reviewed the briefs and the\n\nrecord, we affirm substantially for the reasons stated in the\n\ndistrict court's December 20, 2001 and December 10, 2003 opinions.\n\nNewark v. Boston Housing Authority, 183 F. Supp. 2d 285 (D. Mass.\n\n2001); Newark v. Boston Housing Authority, 01-CV-10976-MEL (D.\n\nMass. 2003).\n\n          Affirmed.\n\n\n\n\n                               -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">                 Not For Publication in West's Federal Reporter\n                Citation Limited Pursuant to 1st Cir. Loc. R. 32.3\n\n\n           United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 04-1116\n\n                            ROLAND S. NEWARK,\n\n                          Plaintiff, Appellant,\n\n                                       v.\n\n                       BOSTON HOUSING AUTHORITY,\n\n                          Defendant, Appellee.\n\n\n           APPEAL FROM THE UNITED STATES DISTRICT COURT\n                 FOR THE DISTRICT OF MASSACHUSETTS\n\n           [Hon. Morris E. Lasker, U.S. District Judge]\n\n\n                                    Before\n\n               Torruella and Howard, Circuit Judges,\n                   and Stearns,* District Judge.\n\n\n     John A. Hanrahan, on brief, for appellant.\n     John C. Foskett, with whom Deutsch Williams Brooks DeRensis &\nHolland, P.C., was on brief, for appellee.\n\n\n\n                               June 21, 2004\n\n\n\n\n*\n    Of the District of Massachusetts, sitting by designation.\n\f          Per Curiam.   After having reviewed the briefs and the\n\nrecord, we affirm substantially for the reasons stated in the\n\ndistrict court's December 20, 2001 and December 10, 2003 opinions.\n\nNewark v. Boston Housing Authority, </pre><span class=\"citation\" data-id=\"2285274\"><a href=\"/opinion/2285274/newark-v-boston-housing-authority/\"><span class=\"volume\">183</span> <span class=\"reporter\">F. Supp. 2d</span> <span class=\"page\">285</span></a></span><pre class=\"inline\"> (D. Mass.\n\n2001); Newark v. Boston Housing Authority, 01-CV-10976-MEL (D.\n\nMass. 2003).\n\n          Affirmed.\n\n\n\n\n                               -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/2285274/"
+  ]
+}

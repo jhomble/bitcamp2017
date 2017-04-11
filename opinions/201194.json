@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201194/",
+  "absolute_url": "/opinion/201194/united-states-v-female-juvenile-af/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201194/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:09:48Z",
+  "date_modified": "2016-02-28T05:04:50.961926Z",
+  "type": "010combined",
+  "sha1": "9f969359c670e9b83aa76a79f58cdd059c9ccd51",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-2171ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/13/US_v._Female_Juvenile_A.F..pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 03-2171\n\n                    UNITED STATES OF AMERICA,\n\n                           Appellant,\n\n                               v.\n\n                    FEMALE JUVENILE, A.F.S.,\n\n                      Defendant, Appellee.\n\n\n                             ERRATA\n\n     The opinion of this court issued July 27, 2004 should be\namended as follows:\n\n\n     On the first page, appellee's counsel should be amended to\nread: \"Juan F. Matos De Juan, Assistant Federal Public Defender,\nwith whom Joseph C. Laws, Jr., Public Defender, and Patricia A.\nGarrity, Esq., Research and Writing Specialist, were on brief for\nappellee.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

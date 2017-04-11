@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/213542/",
+  "absolute_url": "/opinion/213542/united-states-v-werra/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/213542/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-03-29T17:01:08Z",
+  "date_modified": "2016-02-28T05:23:26.786824Z",
+  "type": "010combined",
+  "sha1": "4c520d8853d01963f820a33e0f70341aac657aec",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1593E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/03/29/United_States_v._Werra.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\nNo. 09-1593\n\n                     UNITED STATES OF AMERICA,\n                             Appellee,\n\n                                v.\n\n                            JAMES WERRA,\n                       Defendant, Appellant.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on March 22, 2011 is amended\nas follows:\n\n     On page 4, note 1, replace \"note 19\" with \"note 20\"\n\n     On page 36, line 10, page 37, line 6 and page 39, line 6,\nreplace \"Befell\" with \"Bedell\"\n\n     On page 39, line 3, replace \"at 18' with \"at 19\"\n\n     On page 39, line 16, replace \"at 18-19' with \"at 19\"\n\n     On page 40, line 2, replace \"at 16' with \"at 17\"\n\n     On page 43, line 10, replace \"Id.' with \"Id. 19-20\"\n\n     On page 43, note 26, line 5, replace \"at 19 n.11' with \"at 20\nn.13\"\n\n     On page 50, line 5, replace \"authorised\" with \"authorized\"\n\n     On page 58, footnote 29, line 3, replace \"n.19' with \"n.20\"\n\n     On page 61, footnote 31, replace \"at 30 n.18' with \"at 31 n.19\"\n\n     On page 62, footnote 32 line 4, replace \"at 28\" with \"at 29\"\n\n     On page 62, footnote 32 line 6, replace \"at 30 n.18\" with \"at\n31 n.19\"\n\n     On page 62, footnote 32, lines 7-8, replace \"note 10\" with\n\"note 31\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

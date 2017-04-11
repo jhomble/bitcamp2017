@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202672/",
+  "absolute_url": "/opinion/202672/de-jesus-v-ltt-card-services/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202672/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:59:17Z",
+  "date_modified": "2016-02-28T05:08:28.511914Z",
+  "type": "010combined",
+  "sha1": "198325e3444af8274b43aed91c862ff7f1c7e2a6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1907ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/03/23/De-Jesus_v._LTT_Card_Services.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 06-1907\n\n                         LENDA DE JESÚS,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n        LTT CARD SERVICES, INC.; JORGE PAGÁN; JANE DOE;\n                CONJUGAL PARTNERSHIP PAGÁN-DOE;\n                       JOHN ROE; JOE ROE,\n\n                     Defendants, Appellees.\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on January 19, 2007 is\namended as follows:\n\n\n     Page 3, last line of the main text:   replace \"42 U.S.C.\"\nwith \"Id.\"\n\n     Page 7, fifth line of the paragraph beginning \"Perhaps\nbecause of\": replace \"director-shareholders\" with \"shareholder-\ndirectors\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

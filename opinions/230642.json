@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/230642/",
+  "absolute_url": "/opinion/230642/photoswitch-incorporated-v-stanislaw-mrozowski/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/230642/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:29:55Z",
+  "date_modified": "2016-02-28T05:48:07.433551Z",
+  "type": "010combined",
+  "sha1": "318d40a1cc131648089b265e523f5bedf99488f1",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/200/200.F2d.562.4697_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">200 F.2d 562</p>\n    <p class=\"parties\">PHOTOSWITCH Incorporated, Defendant, Appellant,<br>v.<br>Stanislaw MROZOWSKI, Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4697.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Jan. 16, 1953.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">James D. St. Clair, Boston, Mass.  (J. N. Welch, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">William S. Monahan, Boston, Mass., (Russell, Plummer and Rutherford, Boston, Mass., on brief), for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">200</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">562</span></span></p>\n    <p class=\"parties\">PHOTOSWITCH Incorporated, Defendant, Appellant,<br>v.<br>Stanislaw MROZOWSKI, Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4697.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Jan. 16, 1953.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">James D. St. Clair, Boston, Mass.  (J. N. Welch, Boston, Mass., on brief), for appellant.</p>\n      <p class=\"indent\">William S. Monahan, Boston, Mass., (Russell, Plummer and Rutherford, Boston, Mass., on brief), for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

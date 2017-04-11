@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203068/",
+  "absolute_url": "/opinion/203068/verizon-new-england-v-maine-public-utilities-commission/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203068/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:07Z",
+  "date_modified": "2016-02-28T05:09:53.305224Z",
+  "type": "010combined",
+  "sha1": "9a9859429d0144a558e4e4a4921e7a5eba200c94",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2151ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/11/Verizon_New_England_v._ME_Public_Utilities.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 06-2151\n\n                   VERIZON NEW ENGLAND, INC.,\n\n                      Plaintiff, Appellant,\n\n                               v.\n\n  MAINE PUBLIC UTILITIES COMMISSION; STEPHEN L. DIAMOND, in his\n official capacity as Commissioner of the Maine Public Utilities\n    Commission; SHARON M. REISHUS, in her official capacity as\n Commissioner of the Maine Public Utilities Commission; KURT W.\n   ADAMS, in his official capacity as Commissioner of the Maine\n                   Public Utilities Commission,\n\n                     Defendants, Appellees.\n\n\n\n\n                             ERRATA\n\n\n\n     The opinion of this court issued on September 6, 2007, is\namended as follows:\n\n     On page 11, line 18, replace the words \"present on a legal\"\nwith the words with \"present a legal\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

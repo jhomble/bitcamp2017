@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203994/",
+  "absolute_url": "/opinion/203994/simmons-v-galvin/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203994/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:28:05Z",
+  "date_modified": "2016-02-28T05:12:30.132364Z",
+  "type": "010combined",
+  "sha1": "15e09310b8ea953f4440a1eb340d0abb7b601952",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1569E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/09/04/Simmons_v._Galvin.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\n\nNo. 08-1569\n\n         PAUL SIMMONS; PEDRO VALENTIN; DENNIS BELDOTTI,\n\n              Plaintiffs, Appellees/Cross-Appellants,\n\n                                v.\n\n                     WILLIAM FRANCIS GALVIN,\n       in his capacity as Secretary of the Commonwealth of\n                          Massachusetts,\n\n               Defendant, Appellant/Cross-Appellee.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on July 31, 2009, is amended\nas follows:\n\n     On p.99, line 18: Replace \"supra, n.19);\" with \"supra, n.43);\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

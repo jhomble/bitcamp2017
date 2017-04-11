@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203916/",
+  "absolute_url": "/opinion/203916/broderick-v-evans/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203916/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:25:26Z",
+  "date_modified": "2016-02-28T05:12:20.422458Z",
+  "type": "010combined",
+  "sha1": "b58522f8977e2fb11bd905cc6390b8ee06f2dd00",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1692E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/07/17/Broderick_v._Evans.pdf",
+  "plain_text": "              United States Court of Appeals\n                        For the First Circuit\n\nNos. 08-1692, 08-1730\n\n                        WILLIAM T. BRODERICK,\n\n                 Plaintiff-Appellee/Cross-Appellant,\n\n                                  v.\n\n        PAUL EVANS, Individually and as Police Commissioner\n               of the City of Boston; CITY OF BOSTON,\n\n                Defendants-Appellants/Cross-Appellees.\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on June 26, 2009, should be\n\namended as follows:\n\n     On page 3, line 4, change \"then-Commissioner Roache\" to \"then-\n\nCommissioner Francis Roache\".\n\n     On page 5, line 3, change \"In July Broderick\" to \"In July,\n\nBroderick\".\n\n     On page 13, line 23, change \"lawsuit\" to \"law suit\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

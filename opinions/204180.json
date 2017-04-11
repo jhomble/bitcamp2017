@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204180/",
+  "absolute_url": "/opinion/204180/jimenez-v-rodriguez-pagan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204180/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:32:07Z",
+  "date_modified": "2016-02-28T05:13:02.360960Z",
+  "type": "010combined",
+  "sha1": "387f789d580cdbc0e792b24d8da4c05dcc8d9118",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1135E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/03/03/Jimenez_v._Rodriguez-Pagan.pdf",
+  "plain_text": "            United States Court of Appeals\n                              For the First Circuit\n\n\nNo. 09-1135\n\n                 SONIA I. JIMÉNEZ; LOURDES MOLINA-DOVAL,\n\n                              Plaintiffs, Appellants,\n\n                                        v.\n\n     LUIS ALFONSO RODRÍGUEZ-PAGÁN; ALIDA RAMONA BINET-MIESES;\n       CONJUGAL PARTNERSHIP RODRÍGUEZ-BINET; FEDERICO TOMÁS\n   RODRÍGUEZ-BINET a/k/a Tommy Rodríguez; ISABELA BEACH COURT,\n\n                              Defendants, Appellees.\n\n\n                                   ERRATA SHEET\n\n     The opinion of this Court issued on March 1, 2010 is amended\nas follows:\n\n     On   page   11,   line   5, delete repeated word \"person\"\n     On   page   11,   line   10, replace \"will\" with \"would\"\n     On   page   11,   line   13, replace \"non-joinder\" with \"nonjoinder\"\n     On   page   12,   line   15, insert \"79\" before \"F. Supp. 2d\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

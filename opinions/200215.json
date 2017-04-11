@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200215/",
+  "absolute_url": "/opinion/200215/mesko-v-cabletron-systems/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200215/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:46:12Z",
+  "date_modified": "2016-02-28T05:02:26.293272Z",
+  "type": "010combined",
+  "sha1": "f9e2cffe5f62babb2c31aff8dffbcfc8c2acc32a",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1965ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2002/11/22/Mesko_v._Cabletron_Systems.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 01-1965\n\n                In Re:   CABLETRON SYSTEMS, INC.\n\n  CHARLES MESKO, STEVEN GOLDMAN, BGC INVESTMENT CLUB, MALCOLM R.\n BRAID, LINDA LEE BRAID, JO BRIDGEFORD, JAMES E. CHESNEY, STEVEN\nM. CROSS, CHARLES C. CULLERS, THOMAS D'AMBROSIO, LISA D'AMBROSIO,\nROBERT J. DATSKO, KATHY O. DATSKO, BERT M. DAVIS, WILLIAM DENEEN,\nFRED V. GAKSTATTER, LARRY M. GIESEN, ROBERT GLAMB, DEBORAH GLAMB,\n     DONALD F. GODWIN, NATALIE GREENBERG, JOHN HALICKS, PATRICIA\n  HALICKS, SIMON X. HE, INTREPID INVESTORS, ASHVIN KAPADIA, IRWIN\n   KRAMER, MARK F. KULIGOWSKI, GARY W. KURTZ, SUZANNE KURTZ, PAUL\nLAWSON, EDMOND E. LEBLANC, TERRY LENMARK, CRAIG LUKEMIRE, BRET J.\n  MAY, DAVID L. MAYES, TIMOTHY M. MCMAHON, WALTER C. MEYER, EDITH\n    L. MEYER, ED NEUBERT, WILLIAM KENT NICHOLS, MARTIN PALKOVIC,\n   RICHARD W. PENOZA, FRED PERLMAN, ROY PHILEMON, DAVID PHILLIPS,\nJOSIE PHILLIPS, GREGORY PINTO, GREGORY PIRO, WILLIAM CARL PORTER,\n       DENIS A. PRATT, ANDREW ROBINTON, TRACY ROBINTON, BARBARA\n   ROBINTON, ALI ROBINTON, MICHAEL R. SCHARF, ROMILDO J. SCOLARI,\n WOLFGANG U. SPENDEL, LEE STEIN, PETER SWANSON, JAMES F. SWEENEY,\n    TITAN INVESTORS, JOHN R. TONSAGER, CARYL TRAUGOTT, ROBERT F.\n    WHITE JR., ROBERT C. WHITE, JAMES W. WHITMER, JOHN ROBINTON,\n    JAMES WONG, BERNARD YAMNER, NANCY ZORNER, PATRICIA J. ZUMPFE,\n  BERNARD ROBINSON, MARC LINSKY, MALA BALASUBRAMANIAN, MATTHEW J.\n    DECKER, RON GRYNKIEWICZ, RON KNECHT, VINCENT LUONGO, RICHARD\n     NADZIEJA, THAI NGUYEN, CHANI PANGALI, ROBERT RANDO, RUSSELL\n     RUFFINO, BABETTE SPATZ, KAREN BORICK, RICHARD DURR, JAMES G.\n            PETTUS, KENNETH M. WILLIAMS, and PHILIP ADLER,\n\n                     Plaintiffs, Appellants,\n\n   GEORGE R. BIELSKI, HENRY BRENER, BYSG CAPITAL, JOHN CAMPBELL,\n    FRANK CHARAMITARO, ED DUNN, LESLIE C. HALE, CHARLES HAMMOND,\nCAROLE KOPS, LARRY MORRISON, LOU ANN MURPHY, MURIEL ROBINSON, JIM\n              SPENCER, PATRICIA STACK, ALBERT SHAPIRO,\n PETER SAMEK AS TRUSTEE OF ROBERT AND JOANNE SAMEK LIVING TRUST,\n                       and NATHAN SCHLESSINGER,\n\n                           Plaintiffs,\n\n                               v.\n\fCABLETRON SYSTEMS, INC., ROBERT LEVINE, CRAIG R. BENSON, PAUL R.\n DUNCAN, DAVID J. KIRKPATRICK, DONALD F. MCGUINNESS, MICHAEL D.\n               MYEROW, and CHRISTOPHER J. OLIVER,\n\n                      Defendants, Appellees.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this court, issued Nov. 12, 2002, should be\namended as follows (all amendments refer to the caption):\n\nIn the list of plaintiffs-appellants on page 1:\n\n     Line 4:   Replace \"Bret\" with \"Bert\"\n\n     Line 9:   Replace \"Edmund\" with \"Edmond\"\n\n     Line 23: Replace \"Boric\" with \"Borick\"; \"Dura\" with \"Durr\";\n          \"Pads\" with \"Pettus\"\n\n\n\n\n                               -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

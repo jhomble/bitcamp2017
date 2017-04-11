@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/204072/",
+  "absolute_url": "/opinion/204072/college-dent-surg-pr-v-conn-gen-life-ins/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/204072/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:29:31Z",
+  "date_modified": "2016-02-28T05:12:48.509672Z",
+  "type": "010combined",
+  "sha1": "5716883ec7ee23fe0c724184eaf6420a544236bc",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-2201E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/11/19/College_of_Dental_Surgeons_v._Triple_S_Management_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 09-2201\n\n              COLLEGE OF DENTAL SURGEONS OF PUERTO RICO,\n\n                         Plaintiff, Appellee,\n\n                                  v.\n\n         CONNECTICUT GENERAL LIFE INSURANCE COMPANY AND\n               METROPOLITAN LIFE INSURANCE COMPANY,\n\n                       Defendants, Appellants.\n\n                         ___________________\n\n                  TRIPLE-S MANAGEMENT, INC., ET AL.,\n\n                        Defendants, Appellees.\n\n\n                             ERRATA SHEET\n\n     The opinion of this Court issued on October 22, 2009 is\ncorrected as follows:\n\n     On page 3, line 9, change\n\n     September 1, 2008 to\n\n     September 1, 2009\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

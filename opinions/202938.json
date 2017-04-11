@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202938/",
+  "absolute_url": "/opinion/202938/state-of-maine-v-leavitt/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202938/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:05:24Z",
+  "date_modified": "2016-02-28T05:09:29.487759Z",
+  "type": "010combined",
+  "sha1": "6e6402f54c18c7adec29618a918c3b1164117cb5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1363ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/09/17/State_of_Maine_v._Leavitt.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\nNo.   04-1363\n\n                         STATE OF MAINE,\n                           Petitioner,\n\n                                v.\n\n                STEPHEN L. JOHNSON, Administrator,\n          United States Environmental Protection Agency,\n                            Respondent.\n                             __________\n\n                    PENOBSCOT NATION, ET AL.,\n                    Respondents, Intervenors.\n\n                       ____________________\n\nNo. 04-1375\n\n                    PENOBSCOT NATION, ET AL.,\n                           Petitioners,\n\n                                v.\n\n                 ENVIRONMENTAL PROTECTION AGENCY,\n                            Respondent.\n                             __________\n\n                     STATE OF MAINE, ET AL.,\n                           Intervenors.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on August 8, 2007, should be\namended as follows:\n\n     On page 10, line 6 of 2nd paragraph, \", ©);\" should be\nreplaced with \", (c);\".\n     On page 15, line 4 of 2nd paragraph, delete period after \"(1st\nCir. 1999)\" and insert \", cert. denied, 527 U.S. 1022 (1999).\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">           United States Court of Appeals\n                      For the First Circuit\n\nNo.   04-1363\n\n                         STATE OF MAINE,\n                           Petitioner,\n\n                                v.\n\n                STEPHEN L. JOHNSON, Administrator,\n          United States Environmental Protection Agency,\n                            Respondent.\n                             __________\n\n                    PENOBSCOT NATION, ET AL.,\n                    Respondents, Intervenors.\n\n                       ____________________\n\nNo. 04-1375\n\n                    PENOBSCOT NATION, ET AL.,\n                           Petitioners,\n\n                                v.\n\n                 ENVIRONMENTAL PROTECTION AGENCY,\n                            Respondent.\n                             __________\n\n                     STATE OF MAINE, ET AL.,\n                           Intervenors.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on August 8, 2007, should be\namended as follows:\n\n     On page 10, line 6 of 2nd paragraph, \", ©);\" should be\nreplaced with \", (c);\".\n     On page 15, line 4 of 2nd paragraph, delete period after \"(1st\nCir. 1999)\" and insert \", cert. denied, </pre><span class=\"citation no-link\"><span class=\"volume\">527</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1022</span></span><pre class=\"inline\"> (1999).\".\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

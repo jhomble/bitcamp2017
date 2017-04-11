@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/233465/",
+  "absolute_url": "/opinion/233465/leonard-k-millen-trustee-v-general-motors-acceptance-corporation-in-the/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/233465/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:44Z",
+  "date_modified": "2016-02-28T05:50:20.843380Z",
+  "type": "010combined",
+  "sha1": "14db801df6c96d8675f3d73ec3b42066c6c99726",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/210/210.F2d.654.4806.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">210 F.2d 654</p>\n    <p class=\"parties\">Leonard K. MILLEN, Trustee, Appellant,<br>v.<br>GENERAL MOTORS ACCEPTANCE CORPORATION, Appellee.<br>In the Matter of Walter C. SEABOYER, Bankrupt.</p>\n    <p class=\"docket\">No. 4806.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 11, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts, Charles Edward Wyzanski, Jr., Judge.</p>\n      <p class=\"indent\">Morris Michelson, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">R. Gaynor Wellings, Boston, Mass., William F. Byrne and Tyler &amp; Reynolds, Boston, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The order of the District Court is affirmed on the memorandum of Judge Wyzanski, reported sub nom. In re Seaboyer, 116 F.Supp. 780.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">210</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">654</span></span></p>\n    <p class=\"parties\">Leonard K. MILLEN, Trustee, Appellant,<br>v.<br>GENERAL MOTORS ACCEPTANCE CORPORATION, Appellee.<br>In the Matter of Walter C. SEABOYER, Bankrupt.</p>\n    <p class=\"docket\">No. 4806.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">March 11, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Massachusetts, Charles Edward Wyzanski, Jr., Judge.</p>\n      <p class=\"indent\">Morris Michelson, Boston, Mass., for appellant.</p>\n      <p class=\"indent\">R. Gaynor Wellings, Boston, Mass., William F. Byrne and Tyler &amp; Reynolds, Boston, Mass., on brief, for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The order of the District Court is affirmed on the memorandum of Judge Wyzanski, reported sub nom. In re Seaboyer, 116 F.Supp. 780.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

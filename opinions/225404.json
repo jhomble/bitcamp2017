@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/225404/",
+  "absolute_url": "/opinion/225404/first-national-benefit-society-a-corporation-v-com/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/225404/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:28:34Z",
+  "date_modified": "2016-02-28T05:43:57.210134Z",
+  "type": "010combined",
+  "sha1": "4508371a42b41b2a0b4d01da2322c601c2ed7aa8",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/183/183.F2d.191.12433_1.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">183 F.2d 191</p>\n    <p class=\"case_cite\">50-2 USTC  P 9389</p>\n    <p class=\"parties\">FIRST NATIONAL BENEFIT SOCIETY, a corporation, Petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE, Respondent.</p>\n    <p class=\"docket\">No. 12433.</p>\n    <p class=\"court\">United States Court of Appeals Ninth Circuit.</p>\n    <p class=\"date\">July 11, 1950.<br>Rehearing Denied Aug. 18, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert R. Weaver, Phoenix, Ariz., for petitioner.</p>\n      <p class=\"indent\">Theron Lamar Caudle, Asst. Atty. Gen., and Ellis N. Slack, I. Henry Kutz and Carlton Fox, all of Washington, D.C., for respondent.</p>\n      <p class=\"indent\">Before MATHEWS, ORR and LINDLEY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision of the Tax Court is affirmed upon the authority of First National Benefit Society v. Stuart, 9 Cir., 134 F.2d 438; Id., 9 Cir., 152 F.2d 298; Commissioner of Internal Revenue v. National Reserve Ins. Co., 9 Cir., 160 F.2d 956.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">183</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">191</span></span></p>\n    <p class=\"case_cite\">50-2 USTC  P 9389</p>\n    <p class=\"parties\">FIRST NATIONAL BENEFIT SOCIETY, a corporation, Petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE, Respondent.</p>\n    <p class=\"docket\">No. 12433.</p>\n    <p class=\"court\">United States Court of Appeals Ninth Circuit.</p>\n    <p class=\"date\">July 11, 1950.<br>Rehearing Denied Aug. 18, 1950.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert R. Weaver, Phoenix, Ariz., for petitioner.</p>\n      <p class=\"indent\">Theron Lamar Caudle, Asst. Atty. Gen., and Ellis N. Slack, I. Henry Kutz and Carlton Fox, all of Washington, D.C., for respondent.</p>\n      <p class=\"indent\">Before MATHEWS, ORR and LINDLEY, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision of the Tax Court is affirmed upon the authority of First National Benefit Society v. Stuart, 9 Cir., 134 F.2d 438; Id., 9 Cir., 152 F.2d 298; Commissioner of Internal Revenue v. National Reserve Ins. Co., 9 Cir., 160 F.2d 956.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

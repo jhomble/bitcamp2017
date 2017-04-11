@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203710/",
+  "absolute_url": "/opinion/203710/united-states-v-upton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203710/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:21:53Z",
+  "date_modified": "2016-02-28T05:11:48.082847Z",
+  "type": "010combined",
+  "sha1": "df49657fca4a4cfdba1effc65c9a0c33713f2f1e",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-1593E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/03/06/US_v._Upton.pdf",
+  "plain_text": "              United States Court of Appeals\n                              For the First Circuit\n\nNo. 05-1593\n\n                            UNITED STATES OF AMERICA,\n\n                                         Appellee,\n\n                                             v.\n\n                                   GEORGE L. UPTON,\n\n                                   Defendant, Appellant.\n\n\n\n\n                                    ERRATA SHEET\n\n\n      The opinion of this Court, issued on March 5, 2009, should be amended as follows:\n\n      On the cover pager change \"March 5, 2008\" to \"March 5, 2009\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

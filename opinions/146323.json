@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/146323/",
+  "absolute_url": "/opinion/146323/nicolson-v-pappalardo/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/146323/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-05-12T19:35:32Z",
+  "date_modified": "2016-02-28T03:37:37.882960Z",
+  "type": "010combined",
+  "sha1": "391cdcddbf2130555dd265025310e387ec7919d9",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/10-1125E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2010/05/12/Nicolson_v._Pappalardo.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\nNo. 10-1125\n\n                          LUCAS NICOLSON,\n\n                       Petitioner, Appellee,\n\n                                v.\n\n                         ERICA PAPPALARDO,\n\n                      Respondent, Appellant.\n\n\n                              ERRATA\n\n     The opinion of this Court, issued on April 30, 2010, should be\n\namended as follows.\n\n     On page 3, 1st line of 1st paragraph, delete the comma after\n\n\"so\".\n\n     On page 17, line 3, \"This not surprising.\" should be \"This is\n\nnot surprising.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

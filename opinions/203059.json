@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203059/",
+  "absolute_url": "/opinion/203059/dixon-v-international-broth-of-police-officers/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203059/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:07:53Z",
+  "date_modified": "2016-02-28T05:09:49.544293Z",
+  "type": "010combined",
+  "sha1": "576facd60b716888aac603e0bc308c1a0b3b4147",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-1210B-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/07/Dixon_v._Inter._Brotherhood.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 06-1210, 06-1211, 06-1212, 06-1851, 06-1852, 06-1918, 06-2094\n\n                         VANESSA DIXON,\n\n              Plaintiff, Appellee/Cross-Appellant,\n\n                               v.\n\n   INTERNATIONAL BROTHERHOOD OF POLICE OFFICERS; INTERNATIONAL\n      BROTHERHOOD OF POLICE OFFICERS, LOCAL 382; JOHN LEARY,\n\n             Defendants, Appellants/Cross-Appellee,\n\n                        KENNETH T. LYONS,\n\n                   Defendant, Cross-Appellee.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on September 28, 2007, is\namended as follows:\n\n     On the coverpage, line 4, insert \"06-1918\" between \"06-1852\"\nand \"06-2094\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

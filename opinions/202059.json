@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202059/",
+  "absolute_url": "/opinion/202059/enwonwu-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202059/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:43:43Z",
+  "date_modified": "2016-02-28T05:07:04.396542Z",
+  "type": "010combined",
+  "sha1": "af7fe288df907815ab59e2ac71e5d41c5d9eead9",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2053-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/02/13/Enwonwu_v._Gonzales.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

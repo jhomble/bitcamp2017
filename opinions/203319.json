@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203319/",
+  "absolute_url": "/opinion/203319/hannon-v-beard/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203319/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:13:33Z",
+  "date_modified": "2016-02-28T05:10:29.826968Z",
+  "type": "010combined",
+  "sha1": "49dab465cae4215cfd82ff60609c7df3393557de",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2272ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/06/06/Hannon_v._Beard.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 07-2272\n\n                         FRANCIS HANNON,\n                      Plaintiff, Appellant,\n\n\n    RAYMOND COOK; SEAN MILLIKEN; WAYNE D. CROSBY; LAWRENCE M.\n      MCARTHUR; KEVIN KING; HENRY LAPLANTE; WILLIAM WHITE;\n       CHRISTOPHER DEMARCO; ANGEL PIMENTAL; JOSEPH LODICO;\n               STEVEN BALSAVICH; and EDWARD KEITH,\n                           Plaintiffs,\n\n                               v.\n\n                JEFFREY BEARD and MARYJANE HESSE,\n                      Defendants, Appellees,\n\n\n        MICHAEL T. MALONEY; PETER ALLEN; KRISTIE LADOUCEUR;\n KENNETH DEORSEY; PAUL DUFORD; JEFFREY GRIMES; RICHARD MEDEIROS;\n        GILBERT LEMON, II; JOHN DOES 1-50; CLARK COLOR LAB;\n     VINCENT MOONEY; MASSACHUSETTS DEPARTMENT OF CORRECTIONS;\n      FREDERICK CALLENDAR; RICHARD MCARTHUR; JAMES SULLIVAN;\n    GARY FYFE; ROBERT KOLBER; and HERBERT BERGER-HERSHKOWITZ,\n                            Defendants.\n\n\n\n                             ERRATA\n\n     The opinion of this court issued on April 28, 2008 is\namended as follows:\n\n     The following sentence contained on page 4, lines 18-19 is\ndeleted: “Hannon states that this fact was confirmed by prison\npersonnel with whom he spoke.”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/204041/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/218377/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/220855/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/620590/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/206146/",
+  "absolute_url": "/opinion/206146/united-states-v-cardales-luna/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/206146/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-03-07T20:28:51Z",
+  "date_modified": "2016-02-28T05:16:06.710904Z",
+  "type": "010combined",
+  "sha1": "20777de66c303f336febc81008fa345763ac9f0b",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1028E2-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/03/07/US_v._Cardales-Luna.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 08-1028\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                  JOSÉ DEL CARMEN CARDALES-LUNA,\n\n                      Defendant, Appellant.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on January 20, 2011, is\namended as follows:\n\n     On the cover sheet replace \"Germán A. Rieckehoff, Assistant\nUnited States Attorney, with whom Rosa Emilia Rodríguez-Vélez,\nUnited States Attorney, and Nelson Pérez-Sosa, Assistant United\nStates Attorney, were on brief, for appellee.\" with \" Nelson Pérez-\nSosa, Assistant United States Attorney, with whom Rosa Emilia\nRodríguez-Vélez, United States Attorney, and Germán A. Rieckehoff,\nAssistant United States Attorney, were on brief, for appellee.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

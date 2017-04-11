@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203067/",
+  "absolute_url": "/opinion/203067/united-states-v-jimenez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203067/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:08:06Z",
+  "date_modified": "2016-02-28T05:09:51.557118Z",
+  "type": "010combined",
+  "sha1": "30bd8a2bdee6715eee16437a9b7b0df3abc32ffa",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/06-2044ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/12/11/US_v._Jimenez.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 06-2044\n\n                    UNITED STATES OF AMERICA,\n                            Appellee,\n\n                               v.\n\n                          JOSE JIMENEZ,\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 31, 2007 is\namended as follows:\n\n     Page 5, line 21, \"goverment\" is amended to read \"government\n\n     Page 5, the citation \"United States v. Turner, 2007 U.S. App\nLEXIS 20981, at *26 (1st Cir. Aug. 31, 2007)\" should more\nproperly be \"United States v. Turner, 501 F.3d 59, 72 (1st Cir.\n2007)\"\n\n     Page 6, \"Fed. R. Evid.\" is underlined twice, once in the\nbody in the first full paragraph, and once in note 2. It should\nnot be.\n\n     Page 9, remove the extra space after \"unless\" on line 11.\n\n     Page 10, n5 italicize \"inter alia\"\n\n     Page 11, the citation \"Turner, 2007 U.S. App. LEXIS, at *12\"\nshould more properly be \"Turner, 501 F.3d at 67\"\n\n     Page 11, the citation \"United States v. Brown, 2007 U.S.\nApp. LEXIS 20061, at *24 (1st Cir. Aug. 22, 2007)\" is more\nproperly \"United States v. Brown, 500 F.3d 48, 59 (1st Cir.\n2007)\"\n\n     Page 14, after \"felonies\" on line 14 there should be a\nsemicolon instead of a comma.\n\n     Page 16, \"grievous\" should be not underlined but instead\nitalicized.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                     For the First Circuit\nNo. 06-2044\n\n                    UNITED STATES OF AMERICA,\n                            Appellee,\n\n                               v.\n\n                          JOSE JIMENEZ,\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on October 31, 2007 is\namended as follows:\n\n     Page 5, line 21, \"goverment\" is amended to read \"government\n\n     Page 5, the citation \"United States v. Turner, 2007 U.S. App\nLEXIS 20981, at *26 (1st Cir. Aug. 31, 2007)\" should more\nproperly be \"United States v. Turner, </pre><span class=\"citation\" data-id=\"202914\"><a href=\"/opinion/202914/united-states-v-turner/\"><span class=\"volume\">501</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">59</span></a></span><pre class=\"inline\">, 72 (1st Cir.\n2007)\"\n\n     Page 6, \"Fed. R. Evid.\" is underlined twice, once in the\nbody in the first full paragraph, and once in note 2. It should\nnot be.\n\n     Page 9, remove the extra space after \"unless\" on line 11.\n\n     Page 10, n5 italicize \"inter alia\"\n\n     Page 11, the citation \"Turner, 2007 U.S. App. LEXIS, at *12\"\nshould more properly be \"Turner, 501 F.3d at 67\"\n\n     Page 11, the citation \"United States v. Brown, 2007 U.S.\nApp. LEXIS 20061, at *24 (1st Cir. Aug. 22, 2007)\" is more\nproperly \"United States v. Brown, </pre><span class=\"citation\" data-id=\"202905\"><a href=\"/opinion/202905/united-states-v-brown/\"><span class=\"volume\">500</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">48</span></a></span><pre class=\"inline\">, 59 (1st Cir.\n2007)\"\n\n     Page 14, after \"felonies\" on line 14 there should be a\nsemicolon instead of a comma.\n\n     Page 16, \"grievous\" should be not underlined but instead\nitalicized.\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/202905/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202914/"
+  ]
+}

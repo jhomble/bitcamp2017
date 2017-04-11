@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/249366/",
+  "absolute_url": "/opinion/249366/john-gallo-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/249366/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:34:56Z",
+  "date_modified": "2016-02-28T06:04:45.026080Z",
+  "type": "010combined",
+  "sha1": "944e9099454a213eac448652225db5a79756f33f",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/272/272.F2d.190.5549.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">272 F.2d 190</p>\n    <p class=\"parties\">John GALLO et al., Petitioners,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE, Respondent.</p>\n    <p class=\"docket\">No. 5549.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">December 8, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On petition for review of the decision of the Tax Court of the United States.</p>\n      <p class=\"indent\">Jacob Whitkin, Boston, Mass., for petitioners.</p>\n      <p class=\"indent\">L. W. Post, Attorney, Department of Justice, Washington, D. C., with Charles K. Rice, Asst. Atty. Gen., and Lee A. Jackson and Harry Baum, Attorneys, Department of Justice, Washington, D. C., were on brief, for respondent.</p>\n      <p class=\"indent\">Before WOODBURY, Chief Judge, and HARTIGAN and ALDRICH, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On the record we cannot disturb the finding that petitioners were on a cash basis. Nor is there anything to compel a finding that any disputed moneys, including the \"retained percentage,\" were paid, or were absolutely due and owing, during the years in which petitioners seek to place them.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">A judgment will enter affirming the decision of the Tax Court.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"249367\"><a href=\"/opinion/249367/dixie-furniture-company-v-central-surety-and-insurance-corporation/\"><span class=\"volume\">272</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">190</span></a></span></p>\n    <p class=\"parties\">John GALLO et al., Petitioners,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE, Respondent.</p>\n    <p class=\"docket\">No. 5549.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">December 8, 1959.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On petition for review of the decision of the Tax Court of the United States.</p>\n      <p class=\"indent\">Jacob Whitkin, Boston, Mass., for petitioners.</p>\n      <p class=\"indent\">L. W. Post, Attorney, Department of Justice, Washington, D. C., with Charles K. Rice, Asst. Atty. Gen., and Lee A. Jackson and Harry Baum, Attorneys, Department of Justice, Washington, D. C., were on brief, for respondent.</p>\n      <p class=\"indent\">Before WOODBURY, Chief Judge, and HARTIGAN and ALDRICH, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On the record we cannot disturb the finding that petitioners were on a cash basis. Nor is there anything to compel a finding that any disputed moneys, including the \"retained percentage,\" were paid, or were absolutely due and owing, during the years in which petitioners seek to place them.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">A judgment will enter affirming the decision of the Tax Court.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/249367/"
+  ]
+}

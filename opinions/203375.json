@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203375/",
+  "absolute_url": "/opinion/203375/negron-fuentes-v-ups-supply-chain-solutions/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203375/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:15:18Z",
+  "date_modified": "2016-02-28T05:10:39.494692Z",
+  "type": "010combined",
+  "sha1": "754bba0db6341db62fc939d1eb81cddc60a020c5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2463ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/07/07/Negron-Fuentes_v._UPS_SCS.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\nNo. 07-2463\n\n   IVÁN NEGRÓN-FUENTES; MILDRED PÉREZ; the NEGRÓN-PÉREZ CONJUGAL\n  PARTNERSHIP; YESENIA VERÓNICA NEGRÓN-PÉREZ, minor; IVÁN GABRIEL\n                        NEGRÓN-PÉREZ, minor,\n\n                      Plaintiffs, Appellants,\n\n                                 v.\n\n      UPS SUPPLY CHAIN SOLUTIONS (f/k/a UPS LOGISTICS GROUP),\nBROADSPIRE (f/k/a KEMPER NATIONAL SERVICES), UNITED PARCEL SERVICES\n OF AMERICA, INC., UPS HEALTHCARE PLAN FOR PUERTO RICO, PRUDENTIAL\n                   INSURANCE COMPANY OF AMERICA,\n\n                       Defendants, Appellees.\n\n\n                               ERRATA\n\n     The opinion of this Court, issued   on June 18, 2008, should be\n\namended as follows:\n\n     On page 10, line 3 of footnote 4, insert \"says\" between \"Negron\"\n\nand \"that\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/78513/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/145523/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/613963/"
+  ]
+}

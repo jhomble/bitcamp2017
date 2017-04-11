@@ -1,0 +1,28 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203533/",
+  "absolute_url": "/opinion/203533/santosa-v-mukasey/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203533/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:18:41Z",
+  "date_modified": "2016-02-28T05:11:14.423921Z",
+  "type": "010combined",
+  "sha1": "308071008e7ed1dbbdc4535cb297cbb593c34b26",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/07-2016E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2008/10/22/Santosa_v._Mukasey.pdf",
+  "plain_text": "               United States Court of Appeals\n                                For the First Circuit\n\nNo. 07-2016\n\n                                      SIONO SANTOSA,\n\n                                           Petitioner,\n\n                                                v.\n\n                         MICHAEL B. MUKASEY,1 Attorney General,\n\n                                          Respondent.\n\n\n\n\n                                       ERRATA SHEET\n\n       The opinion of this Court issued on June 11, 2008, is amended as follows:\n\n       On page 8, line 4, replace \"conclusive\" with \"sufficient\"\n\n\n\n\n1\n Pursuant to Fed. R. App. P. 43(C)(2), Attorney General Michael B. Muaksey is substituted for\nformer Attorney General Alberto Gonzales as respondent.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1255/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203392/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203402/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203926/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/213267/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/616000/"
+  ]
+}

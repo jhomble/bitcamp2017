@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202089/",
+  "absolute_url": "/opinion/202089/rodriguez-marin-v-rivera-gonzalez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202089/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:44:18Z",
+  "date_modified": "2016-02-28T05:07:09.796697Z",
+  "type": "010combined",
+  "sha1": "67115f640f7926bae52e5249e85a3c5ce97532a7",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1492ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/03/09/Rodriguez-Marin_v._Rivera-Gonzalez.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\n\n\nNo. 04-1492\n\n                  MIRLA MIREYA RODRÍGUEZ-MARÍN;\n                      ANA I. ESCOBAR-PABÓN,\n\n                     Plaintiffs, Appellees,\n\n                               v.\n\n       VÍCTOR RIVERA-GONZÁLEZ, in his personal capacity and\n    in his official capacity as Secretary of Corrections and\n        Administrator of the Administration of Corrections\n      of Puerto Rico; and ANA T. DÁVILA-LAO, in her personal\n     capacity and in her official capacity as Counsel to the\n           Administration of Corrections of Puerto Rico,\n\n                     Defendants, Appellants.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on February 16, 2006 is\namended as follows:\n\n     On page 10, line 22, change the year from 2001 to 2000.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

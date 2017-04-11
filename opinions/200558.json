@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200558/",
+  "absolute_url": "/opinion/200558/united-states-v-evans-garcia/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200558/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:55:17Z",
+  "date_modified": "2016-02-28T05:03:17.273556Z",
+  "type": "010combined",
+  "sha1": "943800ac7e00a49d75f126255fe35e9da5bf4569",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2617ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/07/23/US_v._Evans-Garcia.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 01-2617\n\n                          UNITED STATES,\n\n                            Appellee,\n\n                                v.\n\n                       HAROLD EVANS-GARCIA,\n\n                      Defendant, Appellant.\n\n\n                           ERRATA SHEET\n\n          The opinion of this Court issued on March 19, 2003 is\namended as follows:\n\n          Page 5, lines 8-10, replace \"On October 5, 2001, the\ncourt sentenced Evans-García to two consecutive terms of life\nimprisonment pursuant to 18 U.S.C. § 924(c)(3)\" with \"On October 5,\n2001, the court sentenced Evans-García to one term of life\nimprisonment pursuant to 18 U.S.C. § 2119(3) and to five years'\nimprisonment pursuant to 18 U.S.C. § 924(c)(3) to be served\nconsecutively with each other.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/38972/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/166304/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200397/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201921/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202332/"
+  ]
+}

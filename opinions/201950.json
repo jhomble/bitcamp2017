@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201950/",
+  "absolute_url": "/opinion/201950/garza-lopez-v-gonzales/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201950/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:41:33Z",
+  "date_modified": "2016-02-28T05:06:49.966108Z",
+  "type": "010combined",
+  "sha1": "401fc767ba5876da0c8daa8a558678f17254e3e2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1999ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/12/07/Garza-Lopez_v._Gonzales.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 04-1999\n\n                      RICARDO GARZA-LÓPEZ,\n\n                           Petitioner,\n\n                               v.\n\n                        ALBERTO GONZÁLES,\n                 UNITED STATES ATTORNEY GENERAL,\n\n                           Respondent.\n\n\n\n\n                          ERRATA SHEET\n\n\n     The per curiam opinion of this Court issued on July 20, 2005,\nis amended as follows:\n\n     On page 2, line 17, change the year \"2001\" to \"2003\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

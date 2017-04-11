@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201033/",
+  "absolute_url": "/opinion/201033/united-states-v-iacaboni/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201033/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:06:13Z",
+  "date_modified": "2016-02-28T05:04:30.983160Z",
+  "type": "010combined",
+  "sha1": "072eb751e4646e5078714ad1ab869a0bfc9d0498",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-2141ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/05/27/US_v._Iacaboni.pdf",
+  "plain_text": "              United States Court of Appeals\n                     For the First Circuit\n\nNo. 02-2141\n\n                          UNITED STATES,\n\n                              Appellee,\n\n                                  v.\n\n                         FRANK IACABONI,\n\n                         Defendant, Appellant.\n\n\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on March 30, 2004 is\namended as follows:\n\n     On page 8 starting at line 20, delete the sentence that reads\n\"The court also opined that, under the logic advanced by the\ngovernment, 'any illegal gambling operation would also be a money\nlaundering operation.' Iacaboni, 221 F. Supp. 2d at 113.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/201252/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202379/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203446/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203973/"
+  ]
+}

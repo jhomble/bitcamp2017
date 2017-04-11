@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202698/",
+  "absolute_url": "/opinion/202698/denmark-v-liberty-life-assurance-company-of-boston/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202698/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:59:48Z",
+  "date_modified": "2016-02-28T05:08:43.224623Z",
+  "type": "010combined",
+  "sha1": "bfd0e97e1e9681ba3a809511230345b91d8a3874",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2877ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2007/04/09/Denmark_v._Liberty_Life.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 05-2877\n\n\n                         DIANE DENMARK,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n LIBERTY LIFE ASSURANCE COMPANY OF BOSTON, AND THE GENRAD, INC.\n LONG TERM DISABILITY PLAN, THROUGH TERADYNE, INC., AS SUCCESSOR\n                            FIDUCIARY,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this court issued on March 28, 2007 is amended\nas follows:\n\n     On page 11, line     13,   \"December   12,   2001\"   should   be\n\"December 11, 2001\"\n\n     On page 24, line 5, \"Denmark\" should be \"Liberty\"\n\n     On page 40, lines 4 and 5, \"on July 11\" should be \"in June\n2002\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/203805/"
+  ]
+}

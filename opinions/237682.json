@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/237682/",
+  "absolute_url": "/opinion/237682/springfield-broadcasting-co-v-w-l-foss-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/237682/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:31:51Z",
+  "date_modified": "2016-02-28T05:53:38.289040Z",
+  "type": "010combined",
+  "sha1": "bdd162486f32f712c63245fc8d0dd0ee7d94a920",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/226/226.F2d.583.4989.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">226 F.2d 583</p>\n    <p class=\"parties\">SPRINGFIELD BROADCASTING CO., Defendant, Appellant,<br>v.<br>W. L. FOSS, Inc., Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4989.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Nov. 4, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gerson Askinas, Springfield, for appellant.</p>\n      <p class=\"indent\">Donald T. Field, Boston, Mass., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">226</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">583</span></span></p>\n    <p class=\"parties\">SPRINGFIELD BROADCASTING CO., Defendant, Appellant,<br>v.<br>W. L. FOSS, Inc., Plaintiff, Appellee.</p>\n    <p class=\"docket\">No. 4989.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">Nov. 4, 1955.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gerson Askinas, Springfield, for appellant.</p>\n      <p class=\"indent\">Donald T. Field, Boston, Mass., for appellee.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Judgment of the District Court is affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

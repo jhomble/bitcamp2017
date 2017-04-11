@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201465/",
+  "absolute_url": "/opinion/201465/bucci-v-essex-insurance-co/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201465/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:27:26Z",
+  "date_modified": "2016-02-28T05:05:32.961253Z",
+  "type": "010combined",
+  "sha1": "53885d0ce3e201ae2f1353043fd9801b201f7cd5",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/04-1619ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2005/02/22/Bucci_v._Essex_Insurance_Co..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNos. 04-1619\n     04-1664\n\n\n       BENJAMIN A. BUCCI, Individually and as Assignee of\n                N.E.C.N, Inc. d/b/a The Industry,\n\n               Plaintiff, Appellant/Cross-Appellee,\n\n                                v.\n\n                    ESSEX INSURANCE COMPANY,\n\n               Defendant, Appellee/Cross-Appellant.\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on January 5, 2005 is\namended as follows:\n\n     On page 16, line 11, replace \"Nonconverage\" with\n\"Noncoverage\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

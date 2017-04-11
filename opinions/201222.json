@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201222/",
+  "absolute_url": "/opinion/201222/afful-v-ashcroft/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201222/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:10:19Z",
+  "date_modified": "2016-02-28T05:04:58.571284Z",
+  "type": "010combined",
+  "sha1": "a66d474651565f500b884ee54a697a3527911ab7",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1569ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/08/27/Afful_v._Ashcroft.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 03-1569\n\n                       MARY NEWMAN AFFUL,\n\n                          Petitioner,\n\n                               v.\n\n                         JOHN ASHCROFT,\n                UNITED STATES ATTORNEY GENERAL,\n\n                          Respondent.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on August 6, 2004 is\namended as follows:\n\n\n     On page 14, footnote 2, line 1:    Replace \"amend\" with\n     \"remand\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

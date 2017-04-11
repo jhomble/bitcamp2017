@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200407/",
+  "absolute_url": "/opinion/200407/stoutt-v-banco-popular/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200407/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:50:47Z",
+  "date_modified": "2016-02-28T05:02:56.718665Z",
+  "type": "010combined",
+  "sha1": "b4f3ed8db9a2aad5f2208f3580a8aa2b5d0a0cc2",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2275ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/04/01/Stoutt_v._Banco_Popular.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 01-2275\n\n        PALMER PAXTON STOUTT; RANCAL INTERNATIONAL, INC.;\n                       RANCAL CORP., LTD.,\n\n                     Plaintiffs, Appellants,\n\n                                  v.\n\n                  BANCO POPULAR DE PUERTO RICO,\n\n                         Defendant, Appellee.\n                              __________\n\nEURO-ATLANTIC SECURITIES; ABC INSURANCE CO.; XYZ INSURANCE CO.,\n\n                             Defendants.\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on February 10, 2003, should\n\nbe amended as follows.\n\n     On page 12, last line of 2nd full paragraph, add \"to\" between\n\n\"antecedent\" and \"reporting\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

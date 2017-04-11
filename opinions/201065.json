@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201065/",
+  "absolute_url": "/opinion/201065/cannarozzi-v-fiumara/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201065/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:07:00Z",
+  "date_modified": "2016-02-28T05:04:31.613228Z",
+  "type": "010combined",
+  "sha1": "b198a8daa5543b53418942ee0249c803467d6ad3",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1391ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/06/15/Cannarozzi_v._Fiumara.pdf",
+  "plain_text": "              United States Court of Appeals\n                        For the First Circuit\n\n\n\nNo. 03-1391\n\n               SAMUEL CANNAROZZI AND ERICA CANNAROZZI,\n\n                       Plaintiffs, Appellants,\n\n                                 v.\n\n                           PETER FIUMARA,\n\n                        Defendant, Appellee,\n\n            STEVEN J. MARULLO; BURNS & LEVINSON, LLP;\n          ATTORNEYS LIABILITY ASSURANCE SOCIETY, INC.,\n\n                             Defendants.\n\n\n\n                             ERRATA SHEET\n\n\n     The opinion of this Court issued on June 2, 2004 is amended as\nfollows:\n\n\n     On page 9, lines 8-9:      Delete \"factual determinations for\n                                clear error and\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

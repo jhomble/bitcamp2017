@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/203632/",
+  "absolute_url": "/opinion/203632/united-states-v-sherman/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/203632/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T06:20:33Z",
+  "date_modified": "2016-02-28T05:11:33.494682Z",
+  "type": "010combined",
+  "sha1": "2aff8ab1f300bbc09005ac15036323dc35b17e79",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-1385E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2009/01/16/US_v._Sherman.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 08-1385\n\n                         UNITED STATES,\n\n                            Appellee,\n\n                               v.\n\n                         ALTON SHERMAN,\n\n                           Appellant.\n\n\n                             ERRATA\n\n\n     The opinion of this Court issued on December 22, 2008, is\namended as follows:\n\n     On page 12, line 4, change \"differs\" to \"differ\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/173641/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203729/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203928/"
+  ]
+}

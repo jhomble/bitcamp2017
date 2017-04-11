@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/201341/",
+  "absolute_url": "/opinion/201341/united-parcel-servic-v-flores-galarza/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/201341/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:12:57Z",
+  "date_modified": "2016-02-28T05:05:10.193320Z",
+  "type": "010combined",
+  "sha1": "49b23c57520702ffcf264aadc54aeea164650c32",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/03-1990ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2004/11/18/United_Parcel_Servic_v._Flores-Galarza.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\nNo. 03-1990\n\n                  UNITED PARCEL SERVICE, INC.,\n                   UNITED PARCEL SERVICE, CO.,\n\n                     Appellees, Plaintiffs,\n\n                                 v.\n\n     JUAN A. FLORES-GALARZA, Secretary of the Department of\n    the Treasury of the Commonwealth of Puerto Rico, in his\n                        official capacity,\n\n                     Appellant, Defendant.\n\n\n                                ERRATA\n\n\n     The opinion of this Court, issued on September 14, 2004,\n\nshould be amended as follows.\n\n     On page 8, line 13 of full paragraph, replace \"UPS\" with\n\n\"Puerto Rico\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

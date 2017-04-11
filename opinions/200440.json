@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/200440/",
+  "absolute_url": "/opinion/200440/fresenius-medical-v-puerto-rico/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/200440/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:52:46Z",
+  "date_modified": "2016-02-28T05:03:00.891966Z",
+  "type": "010combined",
+  "sha1": "9d2fce31c91739a0da23c787fa8434214789eba6",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/02-1763ERR-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2003/04/24/Fresenius_Medical_v._Puerto_Rico_1.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 02-1763\n\n     FRESENIUS MEDICAL CARE CARDIOVASCULAR RESOURCES, INC.,\n\n                      Plaintiff, Appellee,\n\n                               v.\n\n   PUERTO RICO AND THE CARIBBEAN CARDIOVASCULAR CENTER CORP.,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court, issued on March 6, 2003, is\namended as follows:\n\n     At the bottom of the text (l. 24) on p. 15, insert: \"Hess\naddressed the two questions of whether the state meant to confer\nimmunity and of whether Congress had ratified that conferral. An\naffirmative answer to the first question may not be dispositive\neven where creation of the entity does not involve a question of\ncongressional ratification. The ultimate issue is still a\nfederal question for the courts to decide.\"\n\n     At p. 27, l. 19, add this footnote after \"binding.\": \"PRCCCC\nhas not provided any authority to support a claim that Section 20\nis binding. Even if Section 20 were binding, that would not be\ndispositive. The Commonwealth could choose to meet an obligation\nby contracting with a private corporation or by other means.\"\n\n     At p. 29, l. 1-2, delete \"The provision of medical care, in\nour economy, is not primarily a state function.\" and insert,\n\"Medical care in Puerto Rico, as in the United States, is\nprovided by a combination of private and public sector entities.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

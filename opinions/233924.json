@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/233924/",
+  "absolute_url": "/opinion/233924/walmac-company-inc-v-irving-a-isaacs/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/233924/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-08-23T08:30:52Z",
+  "date_modified": "2016-02-28T05:50:46.676319Z",
+  "type": "010combined",
+  "sha1": "b5c316f81454ef3df30977a028c28d5187a63925",
+  "download_url": "http://bulk.resource.org/courts.gov/c/F2/212/212.F2d.437.4841.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">212 F.2d 437</p>\n    <p class=\"parties\">WALMAC COMPANY, Inc.<br>v.<br>Irving A. ISAACS.</p>\n    <p class=\"docket\">No. 4841.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">May 5, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Rhode Island; Edward William Day, Judge.</p>\n      <p class=\"indent\">Matthew W. Goring and Stephen B. Ives, Jr., Providence, R. I., on motion of appellee and memorandum in support thereof.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of appellee's motion to docket and dismiss for lack of appellate jurisdiction, and after notice and no response, it is ordered that said motion be granted, that the case be docketed, and that the appeal be, and the same hereby is, dismissed for want of jurisdiction. 15 F.R.D. 344.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">212</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">437</span></span></p>\n    <p class=\"parties\">WALMAC COMPANY, Inc.<br>v.<br>Irving A. ISAACS.</p>\n    <p class=\"docket\">No. 4841.</p>\n    <p class=\"court\">United States Court of Appeals First Circuit.</p>\n    <p class=\"date\">May 5, 1954.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of Rhode Island; Edward William Day, Judge.</p>\n      <p class=\"indent\">Matthew W. Goring and Stephen B. Ives, Jr., Providence, R. I., on motion of appellee and memorandum in support thereof.</p>\n      <p class=\"indent\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of appellee's motion to docket and dismiss for lack of appellate jurisdiction, and after notice and no response, it is ordered that said motion be granted, that the case be docketed, and that the appeal be, and the same hereby is, dismissed for want of jurisdiction. 15 F.R.D. 344.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

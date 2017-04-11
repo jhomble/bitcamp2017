@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/217465/",
+  "absolute_url": "/opinion/217465/international-floor-crafts-v-dziemit/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/217465/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-05-25T19:15:53Z",
+  "date_modified": "2016-02-28T05:29:58.632094Z",
+  "type": "010combined",
+  "sha1": "e85c7bb71b37e066e4a91e6653ea9605b2c76b17",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/09-1555E-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2011/05/25/International_Floor_Crafts_v._Dziemit.pdf",
+  "plain_text": "          United States Court of Appeals\r\n                      For the First Circuit\r\n\r\n\r\nNos. 09-1555\r\n     09-1556\r\n     09-2349\r\n\r\n                INTERNATIONAL FLOOR CRAFTS, INC.,\r\n\r\n               Plaintiff, Appellee/Cross-Appellant,\r\n\r\n                                v.\r\n\r\n                          JANE DZIEMIT,\r\n\r\n               Defendant, Appellant/Cross-Appellee,\r\n\r\n     DAVID W. ADAMS; TYRONE WILLIAMS; KEVIN BRITTO; RONALD E.\r\n  MITCHELL, Individually and d/b/a Mansfield Rug Company, a/k/a\r\n     Mansfield Rug Department, a/k/a Remco; MICHAEL E. BROWN,\r\n   Individually and d/b/a Dalton Padding, d/b/a Empire Weavers;\r\nAGATHA ESPOSITO; DONALD SHOOP; CHINESE CARPET CENTER, INC., d/b/a\r\n      CCC International; JOHN D. SUN; DAVID D. SUN; PAUL SUN,\r\n\r\n                           Defendants.\r\n\r\n\r\n                           ERRATA SHEET\r\n\r\n\r\n     The opinion of this Court issued on April 21, 2011, is amended\r\nas follows:\r\n\r\n     On page 13, line 11, the phrase \"of which $5000 was meant to\r\ncover appellate fees\" should be deleted and replaced with: \"of\r\nwhich a portion was meant to cover appellate fees.\"\r\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

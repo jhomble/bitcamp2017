@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/202207/",
+  "absolute_url": "/opinion/202207/global-naps-inc-v-verizon-new-england/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/202207/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2011-02-07T05:46:53Z",
+  "date_modified": "2016-02-28T05:07:28.810074Z",
+  "type": "010combined",
+  "sha1": "a3734a05686d6f0847cce7abdd14f61e3b1a5ecf",
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/05-2657ERR1-01A.pdf",
+  "local_path": "http://www.courtlistener.com/pdf/2006/05/10/Global_Naps_Inc._v._Verizon_New_England.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\nNo. 05-2657\n\n                       GLOBAL NAPS, INC.,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n    VERIZON NEW ENGLAND, INC., d/b/a Verizon Massachusetts;\n   MASSACHUSETTS DEPARTMENT OF TELECOMMUNICATIONS AND ENERGY;\n       PAUL B. VASINGTON, in his capacity as Commissioner;\n         JAMES CONNELLY, in his capacity as Commissioner;\n       W. ROBERT KEATING, in his capacity as Commissioner;\n      DEIRDRE K. MANNING, in her capacity as Commissioner;\n   EUGENE J. SULLIVAN, JR., in his capacity as Commissioner,\n\n                     Defendants, Appellees.\n\n\n\n\n                        ERRATA SHEET\n\n     The opinion of this court, issued April 11, 2006,\nshould be amended as follows:\n\n     On page 3, line 6: Add \"Verizon alleges\" between\n\"amount\" and \"Global\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}
