@@ -1,4 +1,35 @@
+<style>
+    
+    .bg {
+  background: url('/bgImg.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 350px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  opacity: .8;
+  z-index: -1;
+}
+
+.jumbotron {
+  height: 350px;
+  color: #637ba3;
+  text-shadow: #444 0 1px 1px;
+  background:transparent;
+}
+
+</style>
 <body>
+<div class="bg"></div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Bitcamp 2017</h1>
+        <p>Julien Homble - Jeffrey He</p>
+        <div class="ui divider"></div>
+
+      </div>
+    </div>
 
     <br><br>
     <!-- Page Content -->
@@ -8,13 +39,8 @@
             <div class="col-lg-8">
                 <!-- Blog Post -->
                 <!-- Title -->
-                <h1>Bitcamp 2017</h1>
-                <hr>
                 <h3>Court Case and SEC Datasets</h3>
                 <!-- Author -->
-                <p class="lead">
-                    Julien Homble - Jeffrey He
-                </p>
                 <div class="ui divider"></div>
                 <!-- Preview Image -->
                 <div id="fileNames"></div>
@@ -72,9 +98,7 @@
 
                 <!-- Side Widget Well -->
 
-                <div class="well" ng-click="entitySearch()">
-                    <h4>More Stuff if we need</h4>
-                    <p>Maybe put the spark post thing here for suggested stuff</p>
+                
 
                 <div class="well">
                     <h4>Search By Person in SEC Dataset</h4>
@@ -107,7 +131,13 @@
                         <div class="col-lg-12">
                             <h4>Cases linked to {{firstName}} {{lastName}}</h4>
                             <div ng-repeat="link in links">
-                                <a href="{{link.link}}">{{link.link}}</a>
+                                <div class="row">
+                                    <div class="col-lg-12" style="overflow: auto;">
+                                        
+                                        <a href="{{link.link}}">{{link.link}}</a>
+                                    </div>
+
+                                </div>
                             </div>
                         </div>
                     </div>

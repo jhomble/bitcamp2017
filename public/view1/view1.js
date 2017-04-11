@@ -68,7 +68,6 @@ angular.module('myApp.view1', ['ngRoute'])
           }
         }
       });
-        alert("Finished Searching")
     }
 
     $scope.loadCases = function () {
@@ -152,6 +151,48 @@ angular.module('myApp.view1', ['ngRoute'])
         })
       }
     }
+
+    // var matching = function(){
+
+    //   var json
+    //   $.ajax({
+    //     async: false,
+    //     url: "/view1/map.json",
+    //     success: function (json1) {
+    //       json = json1
+    //     }
+    //   });
+
+    //   var i = 0;
+    //   var j = 0;
+    //   var links = [];
+    //   for(i; i < max - 1; i++){
+    //     for(j = i+1; j < max; j++){
+    //       x = json[i];
+    //       y = json[j];
+    //       x.forEach(function(q){
+    //         y.forEach(function(r){
+    //           if(q.name === r.name){
+    //             links.push("link between " +i+ " and " + j)
+    //           }
+    //         })
+    //       })
+    //     }
+    //   }
+    //   console.log(links)
+
+    // }
+    // matching()
+
+    var jumboHeight = $('.jumbotron').outerHeight();
+function parallax(){
+    var scrolled = $(window).scrollTop();
+    $('.bg').css('height', (jumboHeight-scrolled) + 'px');
+}
+
+$(window).scroll(function(e){
+    parallax();
+});
 
     $scope.entitySearchText = function (text1, callback, param) {
       var text2 = JSON.stringify( {text: text1.substring(0,800)}); 
